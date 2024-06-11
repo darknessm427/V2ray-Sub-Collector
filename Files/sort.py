@@ -40,7 +40,7 @@ os.makedirs(splitted_path, exist_ok=True)
 protocol_data = {protocol: generate_header_text(protocol) for protocol in protocols}
 
 # Fetching the configuration data
-response = requests.get("https://raw.githubusercontent.com/darknessm427/v2ray-configs/main/All_Darkness_Sub.txt").text
+response = requests.get("https://raw.githubusercontent.com/darknessm427/V2ray-Sub-Collector/main/All_Darkness_Sub.txt").text
 
 # Processing and grouping configurations
 for config in response.splitlines():
