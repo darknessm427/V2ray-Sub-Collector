@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darkness427
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@94.176.183.8:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@79.133.108.7:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.12.19:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.124.32:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.118.37:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
@@ -700,5 +702,3 @@ vmess://eyJhZGQiOiIxNzIuNjcuMTk2LjExMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 vmess://eyJhZGQiOiIxNzIuNjcuMTk2LjExMiIsImFpZCI6IjAiLCJob3N0Ijoia2VsbGllLm1ha2V1cCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAVjJyYXlORzMiLCJzY3kiOiJhdXRvIiwic25pIjoia2VsbGllLm1ha2V1cCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI4OS4xMTYuMzguMTcxIiwiYWlkIjoiMCIsImhvc3QiOiJpbnRlcm5ldC5saWZlLmNvbS5ieSIsImlkIjoiMzJlNDk1MzktZjU2OS00MDNkLWI0YjYtYTg5NzhjMDQwZDVkIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzQ1NiIsInBzIjoi8J+HuvCfh7g4OS4xMTYuMzguMTcxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJzdy04OS4xMTYuMzguMTc5Lm5pcC5pbyIsImFpZCI6IjAiLCJob3N0IjoiaW50ZXJuZXQubGlmZS5jb20uYnkiLCJpZCI6IjMyZTQ5NTM5LWY1NjktNDAzZC1iNGI2LWE4OTc4YzA0MGQ1ZCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM0NTYiLCJwcyI6IvCfh7rwn4e4ODkuMTE2LjM4LjE3OSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNTYuMjQ5LjE4LjE2MSIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MjI5MiIsInBzIjoiVGVsOiBATm92aW5vbG9neSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJobXMxODIuZ2x3ZWlkZi5zYnMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdsd2VpZGYuc2JzIiwiaWQiOiI3NjIyMWJmYi1lOTJmLTRlODAtODFjNS02ZmU0OGY1MGFjMGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoi2KrZiCDaqdin2YbYp9mEINmG2KrZiNix2YTYryDZhtio2KfYtNuM2K8g2YLYt9i5INmF24zYtNmHIEB2cG5fdjJyYW5nX2JveCIsInNjeSI6ImF1dG8iLCJzbmkiOiJnbHdlaWRmLnNicyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
