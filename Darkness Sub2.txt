@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darkness427
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@87.120.164.6:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@93.123.17.145:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@95.85.92.8:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@95.85.92.4:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
@@ -701,4 +702,3 @@ vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJNb2JpdGVsIDE0NS8yMjEtYW5pcmVxemUiLAogICJh
 vmess://eyJhZGQiOiJidy5nMy5nNC5wb3dlcmFkYXB0b3IuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsImlkIjoiZmI1M2JjOWMtOThiOC00Njk2LTkyZmUtNjk1MzkyZDQ5MGJmIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMzU4MDgiLCJwcyI6IkBQcm94eUZuIC8gQG5pbVBSTyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJ2IjoiMiI
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJNcjQzLVRlc3QiLAogICJhZGQiOiAibXI0My52MnJuLnRvcCIsCiAgInBvcnQiOiA0ODEyNiwKICAiaWQiOiAiMjRmYzM2ZGItNzQ2Zi00YmNkLTgxMjMtM2Q3NWE3ZmYyNzJmIiwKICAiYWlkIjogMCwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAiaHR0cCIsCiAgInRscyI6ICJub25lIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJ0ZWxld2ViaW9uLmNvbSIKfQ==
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWFs+azqOmikemBk2h0dHBzOi8vdC5tZS9tZnRpemkiLA0KICAiYWRkIjogImNmY2RuMy5zYW5mZW5jZG45LmNvbSIsDQogICJwb3J0IjogIjgwIiwNCiAgImlkIjogIjE1MGJlNzYxLTBmMWItNDY0Yy1hMGM3LTA5ZmQzMWJkMmYzMSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAib0E1RlN6OVRqcDEueW9mbmhrZmMueHl6IiwNCiAgInBhdGgiOiAiL3ZpZGVvL1A3RUV4b0UyIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
