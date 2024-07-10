@@ -10,4 +10,4 @@
 #warp://auto?ifp=5-10&ifps=40-100&ifpd=10-20#Warp_5-10_40-100_10-20
 #warp://auto?ifp=5-10&ifps=40-100&ifpd=30-50#Warp_5-10_40-100_30-50
 #warp://auto?ifp=5-10&ifps=40-100&ifpd=300-500#Warp_5-10_40-100_300-500
-warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#to the rain&&detour=warp://auto?ifp=10-20&ifps=20-60&ifpd=5-10#i set fire
+warp://auto/REvil-MTU1300?ifp=10-20&ifps=40-100&ifpd=20-250#to the rain 🇮🇷&&detour=warp://auto/REvil-MTU1280?ifp=10-20&ifps=40-100&ifpd=20-250#i set fire 🇩🇪
