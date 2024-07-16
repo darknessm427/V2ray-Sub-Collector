@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darkness427
+vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.124.13:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@93.123.17.138:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.118.19:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
 vless://0603385b-2d6f-4bfb-8f26-d26dbc85878d@92.223.124.33:443?security=tls&sni=revil.servehttp.com&alpn=http/1.1&fp=chrome&type=ws&path=/?ed%3D2048&host=revil.servehttp.com&encryption=none#G-Core
@@ -701,4 +702,3 @@ vmess://eyJhZGQiOiIxNzIuMjMyLjE0OC41NiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiaG9zdCI6IiIs
 vmess://eyJhZGQiOiIxMDQuMjM3LjEyOC43MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI0YzA5Yjc3Ni02ZjgzLTRiZjItZjdmNy00ZTI4NmRiYmI2ZGEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE0NDMyIiwicHMiOiJqb2lu8J+RiUBWMnJheU5HX0Nvb25maWcg8J+MtyDwn5mPIOG1l+G1icuh4bWJ4bWNyrPhtYPhtZBcIiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJldHdxLTIxNjMuZi1zdWIuc2l0ZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidGVsZXdlYmlvbi5jb20iLCJpZCI6IjQ0MDVkOWZiLTBhOTktNDFkOS1lNTYzLTJjMGU5ODAwYjI4MyIsIm5ldCI6InRjcCIsInBhdGgiOiIvQFNlbGxWMnJheSIsInBvcnQiOiIyMDk2IiwicHMiOiJAdnBuVkciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vmess://eyJpZCI6IjAyY2U0MzY0LTUwNWYtNDg1Ny05NGM0LWQyZWIwMGViYmNjYyIsImZwIjoiIiwiYWRkIjoiYWhhbmdiLmFoYW5nYm94Lnh5eiIsIm5ldCI6ImdycGMiLCJwcyI6IkEtUiIsInNuaSI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMiLCJzY3kiOiJhdXRvIiwidHlwZSI6Imd1biIsImhvc3QiOiIiLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwidiI6IjIiLCJwb3J0IjoiMTIzNDUifQ==
-vmess://eyJhZGQiOiI4MC4yNDAuMjQuMTQzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJibWkuaXIiLCJpZCI6ImFlZTM3Y2U2LTcyY2ItNGVhNi1mYjFjLWVkMjdkNGIzYThjZiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM4MTE3IiwicHMiOiJAdnBuVkciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
