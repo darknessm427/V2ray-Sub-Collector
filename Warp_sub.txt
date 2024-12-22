@@ -4,4 +4,3 @@
 #profile-web: https://github.com/darkness427
 
 
-warp://@auto4/?ifp=1-3&ifpm=m4#to the rain 🇮🇷&&detour=warp://@auto6/?ifp=1-2&ifpm=m5#i set fire 🇩🇪
