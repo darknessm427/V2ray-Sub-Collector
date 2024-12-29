@@ -1,0 +1,5 @@
+#profile-title: base64:w5DOm8mM4oKt4ZGOzp7wkJKh8JCSoXzwk4SC8JOGgw==
+#profile-update-interval: 1
+#subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
+#profile-web-page-url: https://github.com/darkness427
+vmess://eyJhZGQiOiI5NC4xODIuMTM4LjEwMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidmFyemVzaDMuY29tIiwiaWQiOiI3YTNhYTcwZC03MjZjLTRiYTQtZWQ1Yy05ZGZmNWI3ZDYxYzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyNjk4OSIsInBzIjoi2YHbjNmE2KrYsdi02qnZhiDYsdin24zar9in2Ybwn5GIdnBub3dsQCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
