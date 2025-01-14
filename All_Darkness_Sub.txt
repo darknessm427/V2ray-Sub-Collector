@@ -335,33 +335,33 @@ hy2://0560a2ab-9e10-456c-883d-cc152e0b1545@5.39.254.34:5128?obfs=salamander&obfs
 hy2://8bd4cc567f2845c1@[2a01:4f8:200:8095::7]:45176?insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇩🇪 DE-[2a01:4f8:200:8095::7]:45176
 hy2://a04705ec-afe0-47d7-99f9-856caaed6a96@80.92.205.219:53041?obfs=salamander&obfs-password=0pjlRGR3tjhXtMs&insecure=1&sni=jobvision.ir#🔒 HYSTERIA-UDP 🇺🇸 US-80.92.205.219:53041
 vless://baacbac-baac-aabc-acdb-aabaccbcabbc@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
-vless://acbacab-caba-aacb-acdb-acbbaaccbcba@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 TUE-25-DEY-1403 🕑 23:20
-tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:443?congestion_control=bbr&alpn=h3,spdy/3.1&sni=www.apple.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇸🇪 SE-70.34.198.64:443
+vless://cbaacab-abac-acba-dcba-cbbacabbacac@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 WED-26-DEY-1403 🕑 00:35
 tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@108.181.22.155:12255?congestion_control=bbr&alpn=h3&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-108.181.22.155:12255
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443?congestion_control=bbr&alpn=h3&sni=www.apple.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇩🇪 DE-136.244.88.153:443
-tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@213.189.52.181:54555?congestion_control=bbr&alpn=h3&sni=www.bing.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇵🇱 PL-213.189.52.181:54555
-tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.191.133:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇬🇧 GB-64.176.191.133:443
-tuic://22a18c2a-0234-45d1-9d05-e1741cd202b1:JoinTelegram--IP_CF--@192.210.175.113:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-192.210.175.113:443
-tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇸🇪 SE-70.34.208.3:443
-tuic://0d0120b1-dcf6-4e0c-bcc1-b27b6ce2426b:c05871a95f3ebc93@45.8.144.164:8080?congestion_control=bbr&udp_relay_mode=quic&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-45.8.144.164:8080
-tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?congestion_control=bbr&alpn=h3&sni=bing.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-64.110.25.10:11227
-tuic://544b010e-03d0-496b-8a52-4f82dfeceaa3:JoinTelegram--IP_CF--@192.210.175.44:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-192.210.175.44:443
-tuic://4576f920-975b-4ab4-b53a-bdcfa623124d:dongtaiwang.com@108.181.22.239:45600?congestion_control=bbr&alpn=h3&sni=www.virustotal.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-108.181.22.239:45600
 tuic://e6084516-3004-41ac-a303-46b9dd71651f:JoinTelegram--IP_CF--@173.44.139.83:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-173.44.139.83:443
-tuic://bd8f69f7-30ff-4f63-aa6e-b73d80116b87:ip_cf@79.137.206.126:8443?congestion_control=new_reno&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇫🇮 FI-79.137.206.126:8443
-tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇬🇧 GB-64.176.186.193:443
-tuic://dacd2765-2332-4817-83c4-273df586c8c5:dacd2765-2332-4817-83c4-273df586c8c5@103.224.182.208:24147?congestion_control=bbr&alpn=h3#🔒 TUIC-UDP 🇺🇸 US-103.224.182.208:24147
-tuic://670998c6-a78f-43cc-86aa-29292476e040:dongtaiwang.com@64.110.25.10:33445?congestion_control=bbr&alpn=h3&sni=bing.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-64.110.25.10:33445
+tuic://544b010e-03d0-496b-8a52-4f82dfeceaa3:JoinTelegram--IP_CF--@192.210.175.44:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-192.210.175.44:443
 tuic://e79ff713-c339-4640-9767-e6fd5d5f6c34:e79ff713-c339-4640-9767-e6fd5d5f6c34@[2a02:180:6:1::559]:17412?congestion_control=bbr&alpn=h3&sni=telegramEUT-VPN.ddns.net&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇩🇪 DE-[2a02:180:6:1::559]:17412
-tuic://2f2dada7-b8af-49e7-a26e-d2d592c82846:734da957528baa43@77.221.158.52:8922?congestion_control=bbr&alpn=h3%2C%20spdy%2F3.1&sni=www.google.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇫🇮 FI-77.221.158.52:8922
+tuic://dacd2765-2332-4817-83c4-273df586c8c5:dacd2765-2332-4817-83c4-273df586c8c5@103.224.182.208:24147?congestion_control=bbr&alpn=h3#🔒 TUIC-UDP 🇺🇸 US-103.224.182.208:24147
+tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443?congestion_control=bbr&alpn=h3&sni=www.apple.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇩🇪 DE-136.244.88.153:443
 tuic://2999e665-fa4e-498f-8417-4ab567010ed6:aa69e32eae500e1c@77.91.77.87:38382?congestion_control=bbr&alpn=h3,spdy/3.1&sni=www.google.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇩🇪 DE-77.91.77.87:38382
-tuic://0347eba2-eb71-46b0-b7f6-229e98085d80:0347eba2-eb71-46b0-b7f6-229e98085d80@103.224.182.208:11163?congestion_control=bbr&alpn=h3&sni=poke.rushshop.club&udp_relay_mode=quic&disable_sni=1#🔒 TUIC-UDP 🇺🇸 US-103.224.182.208:11163
+tuic://bd8f69f7-30ff-4f63-aa6e-b73d80116b87:ip_cf@79.137.206.126:8443?congestion_control=new_reno&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇫🇮 FI-79.137.206.126:8443
 tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇸🇪 SE-70.34.197.98:443
-tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@209.250.254.198:443?congestion_control=bbr&alpn=h3&sni=www.apple.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-209.250.254.198:443
+tuic://0d0120b1-dcf6-4e0c-bcc1-b27b6ce2426b:c05871a95f3ebc93@45.8.144.164:8080?congestion_control=bbr&udp_relay_mode=quic&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-45.8.144.164:8080
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇸🇪 SE-70.34.208.3:443
+tuic://4576f920-975b-4ab4-b53a-bdcfa623124d:dongtaiwang.com@108.181.22.239:45600?congestion_control=bbr&alpn=h3&sni=www.virustotal.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-108.181.22.239:45600
+tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.191.133:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇬🇧 GB-64.176.191.133:443
+tuic://0347eba2-eb71-46b0-b7f6-229e98085d80:0347eba2-eb71-46b0-b7f6-229e98085d80@103.224.182.208:11163?congestion_control=bbr&alpn=h3&sni=poke.rushshop.club&udp_relay_mode=quic&disable_sni=1#🔒 TUIC-UDP 🇺🇸 US-103.224.182.208:11163
 tuic://c12fd04c-2099-4016-a97c-26c0ae2c7d0b:c12fd04c-2099-4016-a97c-26c0ae2c7d0b@38.6.227.43:54009?congestion_control=bbr&alpn=h3&sni=www.bing.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-38.6.227.43:54009
+tuic://bc97f674-c578-4940-9234-0a1da46041b9:admin123@213.189.52.181:54555?congestion_control=bbr&alpn=h3&sni=www.bing.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇵🇱 PL-213.189.52.181:54555
+tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇬🇧 GB-64.176.186.193:443
+tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@209.250.254.198:443?congestion_control=bbr&alpn=h3&sni=www.apple.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-209.250.254.198:443
+tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:443?congestion_control=bbr&alpn=h3,spdy/3.1&sni=www.apple.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇸🇪 SE-70.34.198.64:443
 tuic://2f2dada7-b8af-49e7-a26e-d2d592c82846:734da957528baa43@[2a12:5940:72da::2]:8922?congestion_control=bbr&alpn=h3%2C%20spdy%2F3.1&sni=vkvd127.mycdn.me&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-[2a12:5940:72da::2]:8922
+tuic://2f2dada7-b8af-49e7-a26e-d2d592c82846:734da957528baa43@77.221.158.52:8922?congestion_control=bbr&alpn=h3%2C%20spdy%2F3.1&sni=www.google.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇫🇮 FI-77.221.158.52:8922
+tuic://670998c6-a78f-43cc-86aa-29292476e040:dongtaiwang.com@64.110.25.10:33445?congestion_control=bbr&alpn=h3&sni=bing.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-64.110.25.10:33445
 tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@72.52.178.23:12255?congestion_control=bbr&alpn=h3&udp_relay_mode=native#🔒 TUIC-UDP 🇺🇸 US-72.52.178.23:12255
-vless://baacbac-baac-aabc-acdb-aabaccbcabbc@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?congestion_control=bbr&alpn=h3&sni=bing.com&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-64.110.25.10:11227
+tuic://22a18c2a-0234-45d1-9d05-e1741cd202b1:JoinTelegram--IP_CF--@192.210.175.113:443?congestion_control=bbr&alpn=h3,spdy/3.1&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-192.210.175.113:443
+vless://bbacaac-aabc-caba-cbad-acbcaabbbcac@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 ssr://NDUuNTUuMi4yMzI6MTQyOTM6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOk1qRTNNR1k0Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NlppeTVhU3g1cFdJWjJsMGFIVmlJRk4xWWtOeVlYZHNaWExudm83bG03MWZNVEl4TXpJd016azQmZ3JvdXA9
 trojan://027c71ac-026b-4755-9a33-26558ce6f6a2@172.105.5.158:443?allowInsecure=1&sni=ddragon.leagueoflegends.com#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E5%8A%A0%E6%8B%BF%E5%A4%A7_121320005
 trojan://b5e4e360-5946-470b-aad0-db98f50faa57@frontend.yijianlian.app:54590?allowInsecure=1&sni=#%E5%8A%A0%E6%8B%BF%E5%A4%A7_121320006
@@ -427,8 +427,8 @@ trojan://d56cb8dc-e932-4d57-bd90-1381a1245f90@UNLK3.LVWF8N-HH8E-2300-NMOO-D2E9NA
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiNGU4OWE5NWMtM2IzNy00NzEwLWFiNmItYWY4NDRjZDI5YWMwIiwicGFnZV90aW1lIjoxNzM2ODg1NDM2LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjIwLjU3LjcxLjIwNSJ9Cg==";</script>
-<script src="/bxQXCRDWR.js"></script>
+<script>window.park = "eyJ1dWlkIjoiNzFlNTgwYmItYzdkNy00YTlkLTlhNGYtYTFlYzA0N2ZiODY2IiwicGFnZV90aW1lIjoxNzM2ODg4OTI3LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjE3Mi4yMTAuODQuMjMyIn0K";</script>
+<script src="/bZrFQwFwE.js"></script>
 </body>
 </html>
 
