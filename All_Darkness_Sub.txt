@@ -485,21 +485,6 @@ trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign01.lovehjq.xyz:46521?allowI
 trojan://928dc6ee-495b-446f-9f20-883dedce564a@UNLK1.LVWF8N-HH8E-2300-NMOO-D2E9NAOBEACN.9D8F269F96B25232-759CBB36D6548597.KAUFEN:20152?allowInsecure=1&peer=13-231-155-134.nhost.00cdn.com&sni=13-231-155-134.nhost.00cdn.com#%E9%9F%A9%E5%9B%BD_121320048
 trojan://928dc6ee-495b-446f-9f20-883dedce564a@UNLK3.LVWF8N-HH8E-2300-NMOO-D2E9NAOBEACN.9D8F269F96B25232-759CBB36D6548597.KAUFEN:20152?allowInsecure=1&peer=ip3691376078.mobgslb.tbcache.com&sni=ip3691376078.mobgslb.tbcache.com#%E9%9F%A9%E5%9B%BD_121320050
 trojan://d56cb8dc-e932-4d57-bd90-1381a1245f90@UNLK3.LVWF8N-HH8E-2300-NMOO-D2E9NAOBEACN.9D8F269F96B25232-759CBB36D6548597.KAUFEN:20152?allowInsecure=1&sni=ip3691376078.mobgslb.tbcache.com#%E9%9F%A9%E5%9B%BD_121320055
-<!doctype html>
-<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBANDrp2lz7AOmADaN8tA50LsWcjLFyQFcb/P2Txc58oYOeILb3vBw7J6f4pamkAQVSQuqYsKx3YzdUHCvbVZvFUsCAwEAAQ==_HC6lVP0U6K9bn814CgO10UkTFZNTY6T3JaKeaIsaIG2x9Uq2zG0SzoDm5IKBYXW9FZRehZ9THl3DZoQp7yD+ng==" lang="en" style="background: #2B2B2B;">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAADElEQVQI12P4//8/AAX+Av7czFnnAAAAAElFTkSuQmCC">
-    <link rel="preconnect" href="https://www.google.com" crossorigin>
-</head>
-<body>
-<div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiMDM3MzZkZjQtNzQ1MS00MDFhLThkYzQtOTFjOGI4OWQyODY3IiwicGFnZV90aW1lIjoxNzQxOTQ3MDU1LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjE3Mi4xOTAuMTExLjIyNiJ9Cg==";</script>
-<script src="/bjkExLhKG.js"></script>
-</body>
-</html>
-
 #profile-title: base64:UkV2aWwtU2hhZG93c29ja3M=
 //profile-update-interval: 6
 //subscription-userinfo: upload=5368709120; download=117037858816; total=955630223360; expire=1762677732
