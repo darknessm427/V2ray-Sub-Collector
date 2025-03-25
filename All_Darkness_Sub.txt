@@ -101,8 +101,8 @@ trojan://d56cb8dc-e932-4d57-bd90-1381a1245f90@UNLK3.LVWF8N-HH8E-2300-NMOO-D2E9NA
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiYjNlOTI3NTYtMjM1YS00M2U4LThiNmMtMWJhYTRlNDk4MDA5IiwicGFnZV90aW1lIjoxNzQyOTA1MjA2LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjIwLjE2MS42Mi4zNiJ9Cg==";</script>
-<script src="/boFPFUmlN.js"></script>
+<script>window.park = "eyJ1dWlkIjoiODdmMTE4YjktNjkzOS00YTQ2LTgxYjQtM2M3ZGY2YWNjNGZmIiwicGFnZV90aW1lIjoxNzQyOTA4ODcyLCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjY4LjE1NC4zMS4xNjAifQo=";</script>
+<script src="/bzonDjKEL.js"></script>
 </body>
 </html>
 
