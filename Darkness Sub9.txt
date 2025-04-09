@@ -689,3 +689,16 @@ vmess://eyJhZGQiOiIxMDQuMjEuOTUuMTY1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiJtY2kubW9zaS5tb3NpcHJvLm1sIiwiYWlkIjoiMCIsImhvc3QiOiJEdXNzZWxkb3JmLmtvdGljay5zaXRlIiwiaWQiOiJiNGRjYjEwNy1lMGFiLTQ4YTYtYjllMi1kODRkZDA1ZGE2NDIiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3NwZWVkdGVzdCIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1MjcwNVRlbGVncmFtIDogQHYycmF5bWFrZXJzIiwic2N5IjoiYXV0byIsInNuaSI6IkR1c3NlbGRvcmYua290aWNrLnNpdGUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI5NS4yMTYuMjI5LjEwIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY5MTM0MjAxLTUyNzctNGJlMy04OGFjLWZlNzFmZTFjNWY5NCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTQ1MDEiLCJwcyI6IkB3ZWFyZXN0YW5kINqp2KfZhtin2YQg2YXYpyIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxMDQuMjEuODMuMTA4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMwMi5meGlhb21pLnNicyIsImlkIjoiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmsiLCJwb3J0IjoiNDQzIiwicHMiOiJATmluamFfdjJyYXkiLCJzY3kiOiJhdXRvIiwic25pIjoiaG1zMDIuZnhpYW9taS5zYnMiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+
+<html>
+  <head>
+    <meta content="origin" name="referrer">
+    <title>Rate limit &middot; GitHub</title>
+    <meta name="viewport" content="width=device-width">
+    <style type="text/css" media="screen">
+      body {
+        background-color: #f6f8fa;
+        color: rgba(0, 0, 0, 0.5);
+        font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+        font-size: 14px;
+        line-height: 1.5;
