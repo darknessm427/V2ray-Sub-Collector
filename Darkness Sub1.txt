@@ -158,6 +158,20 @@ hy2://96e027fb-ec4b-4d49-b861-346dfd5ebee7@209.141.35.56:50000?insecure=1&sni=mg
 hy2://b8bd42a9-551f-419d-b70d-4aefdd2cb074@208.87.242.215:443?mport=20000-55000&insecure=1&sni=www.bing.com#🔒 HYSTERIA-UDP 🇺🇸 US-208.87.242.215:443
 hy2://b5c516c0-80cf-4ecf-9f57-283deb8c247f@129.154.196.206:34512?insecure=1&sni=anycast.us.kg#🔒 HYSTERIA-UDP 🇰🇷 KR-129.154.196.206:34512
 vless://acbbaac-acab-caba-dcba-acbcaabbcbca@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
+vless://abcbcaa-caba-abac-bcad-cbacbbcabaac@127.0.0.1:1080?security=tls&type=tcp#🔄 LATEST-UPDATE 📅 SUN-28-ORDIBEHESHT-1404 🕑 07:46
+vless://bcabcaa-aacb-abca-adbc-bcaacbcabbac@127.0.0.1:2080?security=tls&type=tcp#🤖 TELEGRAM-CHANNEL 🌟 ARTIFICIAL-INTELLIGENCE 🖥 @NEUROVANCE 🧠
+vless://bcbcaaa-acab-bcaa-bcda-ccabbacabcba@127.0.0.1:3080?security=tls&type=tcp#🛡 TELEGRAM-CHANNEL 🔐 MTPROTO-PROXY 🌍 @NEXUPROXY 📡
+tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.191.133:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-64.176.191.133:443
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.197.98:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇸🇪 SE-70.34.197.98:443
+tuic://6b389472-9094-4c8a-a780-3d371b2eade5:6b389472-9094-4c8a-a780-3d371b2eade5@45.76.82.254:35403?congestion_control=cubic&alpn=h3&sni=vkvd127.mycdn.me&udp_relay_mode=native&allow_insecure=1#🔒 TUIC-UDP 🇩🇪 DE-45.76.82.254:35403
+tuic://7c81d0a8-8e23-44d4-94b5-56d33b7af07d:7c81d0a8-8e23-44d4-94b5-56d33b7af07d@31.25.237.9:52849?congestion_control=bbr&udp_relay_mode=native&sni=www.bing.com&alpn=h3&allow_insecure=1#🔒 TUIC-UDP 🇬🇧 GB-31.25.237.9:52849
+tuic://6313c68a-472b-4999-ba33-094a55ea7549:FRebRlCrO+huXaprEwr6@70.34.198.64:443?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇸🇪 SE-70.34.198.64:443
+tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227?congestion_control=bbr&udp_relay_mode=native&sni=bing.com&alpn=h3&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-64.110.25.10:11227
+tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@209.250.254.198:443?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3&allow_insecure=1#🔒 TUIC-UDP 🇳🇱 NL-209.250.254.198:443
+tuic://d1bb3aae-ace9-4b0f-9ae5-85ab73acbb43:Mahsaamini@64.176.186.193:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇺🇸 US-64.176.186.193:443
+tuic://87bc1693-8860-41d7-acf4-e6edf49abbbb:crivAv10hAdr-fop4Lne@70.34.208.3:443?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#🔒 TUIC-UDP 🇸🇪 SE-70.34.208.3:443
+tuic://38e38f61-b1dd-4b34-90d0-f6222fd7393f:e7b1c11f0d40cc95@136.244.88.153:443?congestion_control=bbr&udp_relay_mode=native&sni=www.apple.com&alpn=h3&allow_insecure=1#🔒 TUIC-UDP 🇩🇪 DE-136.244.88.153:443
+vless://bcacaab-acab-caba-adcb-cababbcaabcc@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻 DEVELOPED-BY SOROUSH-MIRZAEI 📌 FOLLOW-CONTACT SYDSRSMRZ
 ssr://NDUuNTUuMi4yMzI6MTQyOTM6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOk1qRTNNR1k0Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NlppeTVhU3g1cFdJWjJsMGFIVmlJRk4xWWtOeVlYZHNaWExudm83bG03MWZNVEl4TXpJd016azQmZ3JvdXA9
 trojan://027c71ac-026b-4755-9a33-26558ce6f6a2@172.105.5.158:443?allowInsecure=1&sni=ddragon.leagueoflegends.com#%E9%98%B2%E5%A4%B1%E6%95%88github+SubCrawler%E5%8A%A0%E6%8B%BF%E5%A4%A7_121320005
 trojan://b5e4e360-5946-470b-aad0-db98f50faa57@frontend.yijianlian.app:54590?allowInsecure=1&sni=#%E5%8A%A0%E6%8B%BF%E5%A4%A7_121320006
@@ -223,8 +237,8 @@ trojan://d56cb8dc-e932-4d57-bd90-1381a1245f90@UNLK3.LVWF8N-HH8E-2300-NMOO-D2E9NA
 </head>
 <body>
 <div id="target" style="opacity: 0"></div>
-<script>window.park = "eyJ1dWlkIjoiNjAyMmZmMDUtZDU4OC00NDgzLWI3OTktZGM0YTA2MjYxODQyIiwicGFnZV90aW1lIjoxNzQ3NTM5NjMxLCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjUyLjE2NS4xNTguOTgifQo=";</script>
-<script src="/bPgxbVGtL.js"></script>
+<script>window.park = "eyJ1dWlkIjoiODNiMmZhMDctYWYxMS00ZjFjLTkyNDgtNDQyMThjNWM5ZTUyIiwicGFnZV90aW1lIjoxNzQ3NTQxODE3LCJwYWdlX3VybCI6Imh0dHBzOi8vYXBpLnllYmVraGUubGluay9zaGVydmluLyIsInBhZ2VfbWV0aG9kIjoiR0VUIiwicGFnZV9yZXF1ZXN0Ijp7fSwicGFnZV9oZWFkZXJzIjp7fSwiaG9zdCI6ImFwaS55ZWJla2hlLmxpbmsiLCJpcCI6IjE3Mi4xODMuMTU5LjQ3In0K";</script>
+<script src="/bsUhefijm.js"></script>
 </body>
 </html>
 
@@ -688,17 +702,3 @@ ss://cmM0LW1kNTplZmFuY2N5dW4@163.177.45.154:8774#%F0%9F%87%A8%F0%9F%87%B3%20CN-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@43.249.36.70:443#%F0%9F%87%AD%F0%9F%87%B0%20HK-43.249.36.70%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@5.252.25.61:8080#%F0%9F%87%A9%F0%9F%87%AA%20DE-5.252.25.61%3A8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@5.44.249.51:2377#%F0%9F%87%B8%F0%9F%87%AC%20SG-5.44.249.51%3A2377
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEb0hTdDJsb1dscU80dHJFQlBtSTRn@217.211.72.49:55551#%F0%9F%87%B8%F0%9F%87%AA%20SE-217.211.72.49%3A55551
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMGZhM2E5Yi0yMTE1LTRjYzAtYThmNS03ZjRmN2NhZjZlYzE@85.90.207.5:8080#%F0%9F%87%A6%F0%9F%87%B2%20AM-85.90.207.5%3A8080
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.21:38388#%F0%9F%87%BB%F0%9F%87%B3%20VN-103.186.154.21%3A38388
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@107.148.6.121:8388#%F0%9F%87%AF%F0%9F%87%B5%20JP-107.148.6.121%3A8388
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.136:2377#%F0%9F%87%B9%F0%9F%87%BC%20TW-60.249.28.136%3A2377
-ss://YWVzLTEyOC1nY206Njg2MWZjYmMtMWY5NC00ZjVkLTg0ZDUtZTFjZGJhOTkxNTEz@23.80.80.18:45581#%F0%9F%87%BA%F0%9F%87%B8%20US-23.80.80.18%3A45581
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYzRmODFhNzhlYjEyM2Rk@57.128.190.212:46264#%F0%9F%87%AB%F0%9F%87%B7%20FR-57.128.190.212%3A46264
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.102:8090#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.102%3A8090
-ss://YWVzLTI1Ni1nY206RVhDQjNLS1cwR1hRM0VDRA@154.196.244.19:16009#%F0%9F%87%B8%F0%9F%87%AC%20SG-154.196.244.19%3A16009
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@67.220.95.102:7001#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.102%3A7001
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.150.248.235:6679#%F0%9F%87%BA%F0%9F%87%B8%20US-23.150.248.235%3A6679
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@67.220.95.135:8090#%F0%9F%87%BA%F0%9F%87%B8%20US-67.220.95.135%3A8090
-ss://YWVzLTI1Ni1nY206M0pIVE5LMTNUNkJDRVZOSA@156.231.104.24:18014#%F0%9F%87%AF%F0%9F%87%B5%20JP-156.231.104.24%3A18014
-ss://YWVzLTI1Ni1nY206MEE4NzZYWlVaWDkzTjM3MQ@156.231.104.20:18010#%F0%9F%87%AF%F0%9F%87%B5%20JP-156.231.104.20%3A18010
