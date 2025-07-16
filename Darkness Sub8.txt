@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=mahsa.tas-bazi.com&fp=firefox&type=xhttp&sni=mahsa.tas-bazi.com#@Vip_Security join us - 819
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=auto.tas-bazi.com&fp=firefox&type=xhttp&sni=auto.tas-bazi.com#@Vip_Security join us - 818
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=ashil.tas-bazi.com&fp=firefox&type=xhttp&sni=ashil.tas-bazi.com#@Vip_Security join us - 817
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=ashil.tas-bazi.com&fp=chrome&type=xhttp&sni=ashil.tas-bazi.com#@Vip_Security join us - 816
@@ -702,3 +701,4 @@ vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.200.160.99:443?security=tls&sni
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@192.200.160.94:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg&path=%2F%3Fed%3D2560#@Vip_Security join us - 122
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.107:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg&path=%2F%3Fed%3D2560#@Vip_Security join us - 121
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.16.110.103:443?security=tls&sni=dse.bgm2024.us.kg&type=ws&host=dse.bgm2024.us.kg&path=%2F%3Fed%3D2560#@Vip_Security join us - 120
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.242:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vb.ylks0033.dpdns.org&type=ws&sni=vb.ylks0033.dpdns.org#@Vip_Security join us - 119
