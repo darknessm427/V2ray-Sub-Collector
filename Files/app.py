@@ -9,7 +9,7 @@ TIMEOUT = 20  # seconds
 fixed_text = """#profile-title: base64:w5DOm8mM4oKt4ZGOzp7wkJKh8JCSoXzwk4SC8JOGgw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
-#profile-web-page-url: https://github.com/paradise_of_freedom
+#profile-web-page-url: https://t.me/paradise_of_freedom
 """
 
 
@@ -141,7 +141,7 @@ def main():
         custom_fixed_text = f"""#profile-title: base64:{encoded_title}
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
-#profile-web-page-url: https://github.com/darkness427
+#profile-web-page-url: https://github.com/darknessm427
 """
 
         input_filename = os.path.join(output_folder, f"Darkness Sub{i + 1}.txt")
