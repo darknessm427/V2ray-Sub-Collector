@@ -9,7 +9,7 @@ TIMEOUT = 20  # seconds
 fixed_text = """#profile-title: base64:w5DOm8mM4oKt4ZGOzp7wkJKh8JCSoXzwk4SC8JOGgw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
-#profile-web-page-url: https://github.com/mansor427
+#profile-web-page-url: https://github.com/paradise_of_freedom
 """
 
 
@@ -75,20 +75,20 @@ def main():
 
     protocols = ["vmess", "vless", "trojan", "ss", "ssr", "hy2", "tuic", "warp://"]
     links = [
-        "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/hysteria",
-        "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/tuic",
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/xhttp",
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/reality",
         "https://raw.githubusercontent.com/AzadNetCH/Clash/main/V2Ray.txt",
-        "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/ssr",
-        "https://raw.githubusercontent.com/Leon406/SubCrawler/main/sub/share/tr",
+        "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/vless.txt",
+        "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/Protocols/vmess.txt",
     ]
     dir_links = [
-        "https://api.yebekhe.link/shervin/",
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/vless",
         "https://raw.githubusercontent.com/NiREvil/vless/main/sub/G-Core",
         "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
-        "https://raw.githubusercontent.com/coldwater-10/V2rayCollector/main/vmess_iran.txt",
+        "https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/vmess",
         "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Reality-Azadi-config/Config/Azadi-Reality-Different",
-        "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Reality-Azadi-config/Config/Config",
-        "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/MCI.txt",
+        "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vmess.txt",
+        "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vless.txt",
         "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/Mobinet.txt",
         "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/Mokhabrat.txt",
         "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/Rightel.txt",
@@ -136,7 +136,7 @@ def main():
     num_files = (num_lines + max_lines_per_file - 1) // max_lines_per_file
 
     for i in range(num_files):
-        profile_title = f"ÐΛɌ₭ᑎΞ𐒡𐒡|𓄂𓆃"
+        profile_title = f"ÐΛɌ₭ᑎΞ𐒡𐒡🗽𓄂𓆃"
         encoded_title = base64.b64encode(profile_title.encode()).decode()
         custom_fixed_text = f"""#profile-title: base64:{encoded_title}
 #profile-update-interval: 1
