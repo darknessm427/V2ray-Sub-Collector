@@ -7,7 +7,7 @@ import os
 warp_fixed_text = """#profile-title: base64:w5DOm8mM4oKt4ZGOzp7wkJKh8JCSoXzwk4SC8JOGg3x3YXJw
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
-#profile-web: https://github.com/darkness427
+#profile-web: https://github.com/darkness4m27
 
 
 """
@@ -34,8 +34,8 @@ def fetch_and_process_links(links):
 
 def main():
     warp_links = [
-        'https://raw.githubusercontent.com/mansor427/Warp-Autosub/main/subwarp/warp',
-        'https://raw.githubusercontent.com/mansor427/Warpauto/main/warp.json',
+        'https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/warpauto.json',
+        'https://raw.githubusercontent.com/darknessm427/WoW/refs/heads/main/subwarp/warp',
         'https://raw.githubusercontent.com/NiREvil/vless/main/hiddify/auto-gen-warp'
     ]
     # Process the links and filter out warp lines
