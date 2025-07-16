@@ -83,16 +83,16 @@ def main():
     ]
     dir_links = [
         "https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/vless",
-        "https://raw.githubusercontent.com/NiREvil/vless/main/sub/G-Core",
+        "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
         "https://raw.githubusercontent.com/NiREvil/vless/main/sub/SSTime",
         "https://raw.githubusercontent.com/itsyebekhe/PSG/refs/heads/main/subscriptions/xray/normal/vmess",
         "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Reality-Azadi-config/Config/Azadi-Reality-Different",
         "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vmess.txt",
         "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/filtered/subs/vless.txt",
-        "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/Mobinet.txt",
+        "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/vmess_iran.txt",
         "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/Mokhabrat.txt",
-        "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/Rightel.txt",
-        "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/irancell.txt",
+        "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/vless_iran.txt",
+        "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/ss_iran.txt",
         "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/shatel.txt",
         "https://raw.githubusercontent.com/amirmohammad-mohammad-88/Sub-Config-operator/Config/various",
     ]
