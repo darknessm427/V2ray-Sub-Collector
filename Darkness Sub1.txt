@@ -1,11 +1,11 @@
 #profile-title: base64:w5DOm8mM4oKt4ZGOzp7wkJKh8JCSofCfl73wk4SC8JOGgw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
-#profile-web-page-url: https://github.com/darkness427
+#profile-web-page-url: https://github.com/darknessm427
 #profile-title: base64:w5DOm8mM4oKt4ZGOzp7wkJKh8JCSoXzwk4SC8JOGgw==
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
-#profile-web-page-url: https://github.com/paradise_of_freedom
+#profile-web-page-url: https://t.me/paradise_of_freedom
 #profile-title: base64:UFNHIHwgVkxFU1M=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
