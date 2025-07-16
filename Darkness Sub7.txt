@@ -2,6 +2,11 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://839ff62c-108e-4e69-94d6-fe2af53e6e9f@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#@Vip_Security join us - 1516
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 1515
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 1514
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 1513
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=none&encryption=none&host=vkvd127.mycdn.me&type=ws#@Vip_Security join us - 1512
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@188.119.112.3:2052?path=%2F&security=&encryption=none&host=vkvd127.mycdn.me&type=ws#@Vip_Security join us - 1511
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@172.67.137.11:2086?path=%2F&security=none&encryption=none&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#@Vip_Security join us - 1510
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@104.18.1.125:2086?path=%2F&security=none&encryption=none&host=TdWwPlBs61.kOmAtSo.oRg&type=httpupgrade#@Vip_Security join us - 1509
@@ -697,8 +702,3 @@ vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-o
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=mahsa.tas-bazi.com&fp=firefox&type=xhttp&sni=mahsa.tas-bazi.com#@Vip_Security join us - 819
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=auto.tas-bazi.com&fp=firefox&type=xhttp&sni=auto.tas-bazi.com#@Vip_Security join us - 818
 vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=ashil.tas-bazi.com&fp=firefox&type=xhttp&sni=ashil.tas-bazi.com#@Vip_Security join us - 817
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=ashil.tas-bazi.com&fp=chrome&type=xhttp&sni=ashil.tas-bazi.com#@Vip_Security join us - 816
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=ali.tas-bazi.com&fp=firefox&type=xhttp&sni=ali.tas-bazi.com#@Vip_Security join us - 815
-vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=akbar.tas-bazi.com&fp=firefox&type=xhttp&sni=akbar.tas-bazi.com#@Vip_Security join us - 814
-vless://4def9b45-592c-43e5-a62b-987beffa5d33@5.75.197.204:35487?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&sid=0b886008af8942c3&type=tcp&headerType=none#@Vip_Security join us - 813
-vless://4def9b45-592c-43e5-a62b-987beffa5d33@5.75.192.185:35487?security=reality&encryption=none&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&headerType=none=&fp=chrome&type=tcp&sni=tgju.org&sid=0b886008af8942c3#@Vip_Security join us - 812
