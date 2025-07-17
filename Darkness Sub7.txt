@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram%3A%40@Vip_Security join us - 1510
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23spt.pages.dev:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=23spt.pages.dev&fp=randomized&type=ws&sni=23sPT.pAGEs.dEV#@Vip_Security join us - 1509
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.3:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&host=v2nGfasT-b95.PAGEs.dEv&type=ws&sni=V2NgFAST-b95.Pages.dEv#@Vip_Security join us - 1508
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.96.3:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=maNSor427-pANel2.PAgES.DeV&fp=randomized&type=ws&sni=MaNsor427-pANeL2.PAGeS.dEV#@Vip_Security join us - 1507
@@ -702,3 +701,4 @@ vless://4f6dc02f-60fe-4695-a596-ac4faea271e0@prod1-cloud-lb01-fhel-tcvm04.cybers
 vless://4f0ec48d-85ff-4163-bac7-eae00246fb17@prod6-cloud03-net03.cyberscaler.com:6068?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 813
 vless://4ee5e660-17c3-4bd9-a314-8a9efe7d3250@www.speedtest.net.cdn.cloudflare.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=fuZZY-iNCIdent.SpORtLAND.CoMpany&type=ws#@Vip_Security join us - 812
 vless://4ee5e660-17c3-4bd9-a314-8a9efe7d3250@www.speedtest.net.cdn.cloudflare.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=aNxIoUs-diSCuSsIOn.sporTLAnD.CompANY&type=ws#@Vip_Security join us - 811
+vless://4ee5e660-17c3-4bd9-a314-8a9efe7d3250@www.speedtest.net.cdn.cloudflare.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=BeAmIng-amOuNT.SPoRTlaND.COMpany&type=ws#@Vip_Security join us - 810
