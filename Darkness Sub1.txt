@@ -6,6 +6,18 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://t.me/paradise_of_freedom
+¾g¬³ÿÞÈYMÌËMÌLÈZY[ÜÝÛÙZYØÈYÍXYNLMNNXÍKMMLXÌ]ÜÈ]Û[ÝÜÈÜ
+ÈÈYÙYRÚ[Õ[YÜ[N\ZÕYÙYLÈØÞH]]ÈÛHÛÙZYØÈÈÈ\HKæzË?ýìèÌÜ¸ÈÈÄ¸ÄÈÔ¸ÄÔä°¥èÀ°±Á¸è°Àè°¡½ÍÐè°¥èÌÔÍÀÜàÜ´ÜÅ´ÐÐÉ´åå´äÀÉäÀÌÔåÔ°¹ÐèÑÀ°ÁÑ è°Á½ÉÐèÌÌäÐÀ°ÁÌèqÕàÍqÕÈÕ)½¥¸­Q±É´éÉ¡}YA9qÕàÍqÕÌ°ÍäèÕÑ¼°Í¹¤è°Ñ±Ìè°ÑåÁè¹½¹°ØèÈô¾g¬³ÿÞÈÈYÙYRÚ[Õ[YÜ[N\ZÕYÙYLÈYMÌMMKHÜ\HÛHYXÎ
+YLKN
+Y
+KMËN
+XYXNLÍZY]ÜÈ]ÕSKUSQÔSKPÒSSUQTÔËUÔÈÜÝLL
+Ì
+NM
+NN
+ÍÎ
+ÍÎNN
+ÍÎKÚÚÛÙÛÚY\ÛÙY[ÚÙÙ[ÚYÙÙÙ[ÚYÙÚËÞ[ÝHÈoë,ÿ÷²&FB#¢#3ã"ã2ã#r"Â&B#¢#"Â&Çâ#¢""Â&g#¢""Â&÷7B#¢""Â&B#¢#CCbÖ#2ÓF#Ó#2Ó63SFC#B"Â&æWB#¢'F7"Â'F#¢""Â'÷'B#¢#3""Â'2#¢%ÇVC6EÇVFC#T¦öâµFVÆVw&Ó¤f&õeåÇVC6EÇVFfS2"Â'67#¢&WFò"Â'6æ#¢""Â'FÇ2#¢""Â'GR#¢""Â'b#¢#"'Òù²Ïÿ{"add": "lifetime.idk.io.vn", "aid": "0", "alpn": "", "fp": "", "host": "lifetime.idk.io.vn", "id": "90e56755-db30-4455-95d0-6ab9da305720", "net": "ws", "path": "/vmess", "port": "443", "ps": "\ud83d\udd25Join+Telegram:@Farah_VPN\ud83d\udfe3", "scy": "auto", "sni": "", "tls": "tls", "type": "---", "v": "2"}
 #profile-title: base64:UFNHIHwgVkxFU1M=
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
@@ -690,15 +702,3 @@ vless://10a1ffcb-ca7a-499a-d2e2-d166d3e074c7@Def.irimcs.org:2053?type=grpc&servi
 vless://25d5ece5-8952-4529-98fa-30b09bacd307@ems.irimcs.org:2053?type=grpc&serviceName=@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns@Catvpns&security=tls&fp=&alpn=&sni=Ter.Iranasanejesh.org#â‌” XX | ًںں¢ | vless | @catvpns | 11
 vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@maralhost.com:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=norooz.cconfigv2ray.workers.dev&fp=chrome&type=ws&sni=norooz.cconfigv2ray.workers.dev#ًں‡®ًں‡· IR | ًںں¢ | vless | @cconfig_v2ray | 5
 vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@Free.CConfigV2ray.workers.dev:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Free.CConfigV2ray.workers.dev&fp=chrome&type=ws&sni=Free.CConfigV2ray.workers.dev#â‌” XX | ًںں¢ | vless | @cconfig_v2ray | 6
-vless://1c4520d8-b91d-4a6d-b21e-fbe98da8f363@Frees.CConfigV2ray.workers.dev:2053?path=vless-ws/?ed=2048&security=tls&encryption=none&alpn=h2,http/1.1&host=Frees.CConfigV2ray.workers.dev&fp=chrome&type=ws&sni=Frees.CConfigV2ray.workers.dev#â‌” XX | ًںں¢ | vless | @cconfig_v2ray | 7
-vless://50ced16f-78dd-5499-acf9-a57fe1895728@Free.Cconfigv2rayserv.workers.dev:443?path=vless-ws/?ed=2048&security=tls&encryption=none&host=free.cconfigv2rayserv.workers.dev&fp=chrome&type=ws&sni=free.cconfigv2rayserv.workers.dev#â‌” XX | ًںں¢ | vless | @cconfig_v2ray | 9
-vless://94d8db49-e681-470a-bdd1-688b9823e4ed@A2L.GODGAME.FUN:18789?path=/CH_A2L__PG_A2L&security=none&encryption=none&host=CH_A2L__PG_A2L&type=ws#â‌” XX | ًں”´ | vless | @ch_a2l | 3
-vless://9301cca8-1121-448d-b8bb-1dd19ad182a9@A2L.GODGAME.FUN:18789?path=/CH_A2L&security=none&encryption=none&host=CH_A2L&type=ws#â‌” XX | ًں”´ | vless | @ch_a2l | 5
-vless://8e5604cd-0fa9-40c3-9bcd-70f96ce2c323@food.france-learns.ir:80?path=/download&security=&encryption=none&host=webdade.com&type=ws#â‌” XX | ًں”´ | vless | @chanel_v2ray_2 | 2
-vless://cedf689e-3658-46d0-85df-06b1279e631f@300232332.webnama.com.tr:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ًں‡©ًں‡ھ DE | ًں”´ | vless | @codvpn | 2
-vless://10b56a07-ae1f-4ce5-816f-4743fd0f3991@www.speedtest.net:443?path=/goli&security=tls&encryption=none&host=jooin.golestan-vpn.link&fp=chrome&type=ws&sni=jooin.golestan-vpn.link#ًں‡؛ًں‡¸ US | ًںں¢ | vless | @config_proxy_ir | 14
-vless://---Parsashonam--10-@www.speedtest.net:8080?path=/Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam,Telegram:@Parsashonam&security=none&encryption=none&host=test1.وˆ‘ن»¬ç´¯ن؛†.website&type=ws#ًں‡؛ًں‡¸ US | ًں”´ | vless | @config_proxy_ir | 18
-vless://103868fa-6eaa-4368-b497-066c39fd0cf7@g.configvip7.site:8443?mode=gun&security=tls&encryption=none&fp=safari&type=grpc&serviceName=@CONFIG_ViP7,&sni=configvip7.site#â‌” XX | ًںں¢ | vless | @config_vip7 | 3
-vless://40b7d140-2ae6-4ef5-a1bd-46c430bf89ab@cdn.melodyshopone2.ir:8080?path=/&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#â‌” XX | ًں”´ | vless | @configforvpn | 6
-vless://00f4ebcf-6bae-4eb2-9064-2a272e4d4875@cdn.melodyshopone2.ir:8080?path=/&security=none&encryption=none&host=cdn.melodyshopone2.ir&type=ws#â‌” XX | ًں”´ | vless | @configforvpn | 7
-vless://43e99f82-3f83-49d6-a625-2d420f6aa317@www.speedtest.net:80?type=ws&path=/Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs?ed=80&host=www.speedtest.net.c.1.avaacado.ir&security=none#ًں‡؛ًں‡¸ US | ًں”´ | vless | @configms | 17
