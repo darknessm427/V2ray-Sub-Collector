@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://baa893dd-8c80-4184-832f-fc8281e81e6c@91.99.199.145:56127?security=reality&encryption=none&pbk=iZBGYZP2PommEmcSDKWOypL3d3HWsWG7WDOh-Cuz418&headerType=none&fp=chrome&spx=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&type=tcp&sni=www.latimes.com&sid=6d26d809580dc9f7#@Vip_Security join us - 2062
 vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@172.67.162.95:2087?security=tls&sni=xcsa.ylks2024.us.kg&type=ws&host=xcsa.ylks2024.us.kg&path=%2F%3Fed%3D2048#@Vip_Security join us - 2061
 vless://ba50e392-753a-4828-a7b8-d72ce226fa6a@152.70.155.147:2083?security=tls&sni=xcsz.ylks2024.us.kg&type=ws&host=xcsz.ylks2024.us.kg&path=%2F%3Fed%3D2048#@Vip_Security join us - 2060
 vless://ba3797e0-31a5-4510-ea35-6e409c4953e5@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=fatmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@Vip_Security join us - 2059
@@ -701,4 +702,3 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=%2Fdownload
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#@Vip_Security join us - 1365
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@188.114.97.155:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=showmo.wfft.ir&type=ws#@Vip_Security join us - 1364
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&sni=my.ski1plag.ir&alpn=h2,http/1.1&fp=random&type=ws&path=/Telegram@Config_Rayegan&host=my.ski1plag.ir&packetEncoding=xudp&encryption=none#@Vip_Security join us - 1363
-vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=my.ski1plag.ir&fp=random&type=ws&sni=my.ski1plag.ir#@Vip_Security join us - 1362

@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=my.ski1plag.ir&fp=random&type=ws&sni=my.ski1plag.ir#@Vip_Security join us - 1362
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@104.16.53.11:8443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=my.ski1plag.ir&fp=random&type=ws&sni=my.ski1plag.ir#@Vip_Security join us - 1361
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#@Vip_Security join us - 1360
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?mode=stream-one&path=%2Fstatue%2F%3Fv2rayng_fars----%40v2rayng_fars&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#@Vip_Security join us - 1359
@@ -701,4 +702,3 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security
 vless://4%61c9748%65-%61b31-499%65-9221-3%6575c314b503@194.182.79.72:32827?mode=gun&security=reality&encryption=none&authority=&pbk=Q-zmZ8W_ZN8ua7qt2xGR9EHG56TfC4LL39V7pNcM0gM&fp=chrome&spx=%2F&type=grpc&serviceName=Jo%69n-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON&sni=sourceforge.net&sid=e69d8702eba67ed7#@Vip_Security join us - 665
 vless://3fcdcba4-c686-4951-b9f0-80caa7d05943@free.zayn2012vip2.top:8080?type=grpc&serviceName=MT_TEAM_IRAN_MT_TEAM_IRAN_MT_TEAM_IRAN_MT_TEAM_IRAN_MT_TEAM_IRAN_MT_TEAM_IRAN_MT_TEAM_IRAN_MT_TEAM_IRAN&security=reality&fp=chrome&pbk=OUonXvWLzJQhQlc3BWmDKDSX2DNfB2-oVgdWgiblGSs&sni=sourceforge.net&sid=af2f1628&spx=%2F#@Vip_Security join us - 664
 vless://3f0c9a0f-239d-4fdc-c3bc-3698bae8f2a0@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@Vip_Security join us - 663
-vless://3ed3966a-ca0e-4a46-a437-8000836fa495@ws.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#@Vip_Security join us - 662

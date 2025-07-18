@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://3ed3966a-ca0e-4a46-a437-8000836fa495@ws.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#@Vip_Security join us - 662
 vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#@Vip_Security join us - 661
 vless://3ec5186b-d636-48b0-9a0a-30d824f63078@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D80&security=none&encryption=none&host=asebeeme.global.ssl.fastly.net&type=xhttp#@Vip_Security join us - 660
 vless://3e969c36-76f6-4c03-a6e0-f53b64534cc2@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=AngrY-aNSwER.oneeAt.co&type=ws#@Vip_Security join us - 659
@@ -701,4 +702,3 @@ ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.166.88.221:8118#@Vip_Security join 
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.154.136.51:8118#@Vip_Security join us - 636
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@217.182.198.219:8119#@Vip_Security join us - 635
 ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg%3D%3D@pl04.outline.abvpn.ru:47777#@Vip_Security join us - 634
-ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg%3D%3D@146.19.170.82:47777#@Vip_Security join us - 633

@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://jointelegram%40V2rayvpn_official@n1.boutiqueman.shop:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=n1.boutiqueman.shop#@Vip_Security join us - 2762
 vless://itsproxy-1@bot.nimeshab-nabod.info:80?mode=auto&path=%2F%40itsproxy%3Fed%3D2560&security=none&encryption=none&host=Behrfbot.global.ssl.fastly.net&type=xhttp#@Vip_Security join us - 2761
 vless://ipcloudflaretamiz@test.fast.hosting-ip.com:80?mode=auto&path=%2F&security=none&encryption=none&host=ipcloudflaretamiz.io&type=xhttp#@Vip_Security join us - 2760
 vless://iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@Vip_Security join us - 2759
@@ -701,4 +702,3 @@ vless://bacff32b-48b5-5191-b222-33538e15c735@45.89.55.188:8880?mode=gun&security
 vless://bacacba-caba-acba-cbda-cbaaccbbacab@127.0.0.1:1080?security=tls&type=tcp#@Vip_Security join us - 2065
 vless://bab0b044-1e92-420e-bdb0-351a57c0f0a5@103.249.133.79:58440?type=tcp&security=reality&fp=chrome&sni=www.latimes.com&pbk=9qIfswg5ImAKqsb7k_8Zlyj-EcPacIvEfZnhEkYktHg&sid=3bba58385bf1ad&spx=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#@Vip_Security join us - 2064
 vless://baaaccb-abac-caba-badc-cacbacbacabb@127.0.0.1:1080?security=tls&type=tcp#@Vip_Security join us - 2063
-vless://baa893dd-8c80-4184-832f-fc8281e81e6c@91.99.199.145:56127?security=reality&encryption=none&pbk=iZBGYZP2PommEmcSDKWOypL3d3HWsWG7WDOh-Cuz418&headerType=none&fp=chrome&spx=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&type=tcp&sni=www.latimes.com&sid=6d26d809580dc9f7#@Vip_Security join us - 2062
