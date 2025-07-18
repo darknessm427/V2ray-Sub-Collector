@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#@Vip_Security join us - 1335
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.205.130:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 1334
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#@Vip_Security join us - 1333
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3F&headerType=http&type=tcp#@Vip_Security join us - 1332
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.165.57:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 1331
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.14.202:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#@Vip_Security join us - 1330
@@ -702,3 +699,6 @@ vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&
 vless://3c18ee20-d542-4fec-804a-91e4988cb9de@mtn-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=ViP.iTV2RAY.lol#@Vip_Security join us - 638
 vless://3bd19247-d248-4fc4-8662-0bcd37fa48b2@FASTSHOVPNTELEGRAM.fast.hosting-ip.com:80?mode=auto&path=%2FFASTSHOVPN%3Fed%3D2048&security=none&encryption=none&host=crazyofferzzshopp.com&type=xhttp#@Vip_Security join us - 637
 vless://3bcc6dbf-0ab4-4674-85c8-39bd994434f9@s3.esrtz.onl:46470?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Vip_Security join us - 636
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.172:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#@Vip_Security join us - 635
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@15.204.153.78:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=randomized&type=tcp&sni=147135010103.sec19org.com#@Vip_Security join us - 634
+vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@147135010103.sec19org.com:443?security=tls&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 633

@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&type=grpc&encryption=none#@Vip_Security join us - 2735
-vless://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2734
-vless://ecee63a4-a4a9-4c77-a589-5142c4cddeae@94.156.203.153:29880?security=none&type=tcp&headerType=none&encryption=none#@Vip_Security join us - 2733
 vless://ecc19b72-2cc8-4690-b23d-960d3e3c6d40@172.64.146.118:8443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=pardazeshvpn-tg24.pages.dev&fp=random&type=ws&sni=pardazeshvpn-tg24.pages.dev#@Vip_Security join us - 2732
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=firefox&type=ws&sni=simorgh.hpcode.ir#@Vip_Security join us - 2731
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=%2FJavid-SHAH-KingRezaPahlavi%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=simorgh.hpcode.ir&fp=firefox&type=ws&sni=simorgh.hpcode.ir#@Vip_Security join us - 2730
@@ -702,3 +699,6 @@ vless://b54fbd00-dc57-46d0-8bc0-d5546b977012@104.18.26.90:8880?path=%2F&security
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=%2F%3Fed&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#@Vip_Security join us - 2038
 vless://b51aa057-c62e-4bd4-8ffe-f275714576f3@104.248.194.230:80?mode=auto&path=%2Fshahinshams%3Fed%3D2560&security=reality&encryption=none&pbk=z3dFjHp3NPxSRP51s-EJGLO0P--M4hCorPlvOQ9ksiE&host=sha834ydtrfcvshin3877.global.ssl.fastly.net&fp=chrome&spx=%2F&type=xhttp&sni=marzijooon.adas.monster&sid=2a70224f5466#@Vip_Security join us - 2037
 vless://b50c35c5-76e2-4b13-903d-d5c74ad34d23@turkws.configforvpn.fun:2087?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=turkws.configforvpn.fun#@Vip_Security join us - 2036
+vless://b4f1d581-ece1-45c2-a990-f743c45bf8cd@toofan.zeroa.store:8681?mode=gun&security=reality&encryption=none&pbk=LjaEpIQZyga0txhwf7JRHlqFOrImB4dEpkw3-AASWUI&fp=chrome&spx=%2FHiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN---HiByeVPNN&type=grpc&serviceName=Tahmznilana&sni=journalofbigdata.springeropen.com&sid=be#@Vip_Security join us - 2035
+vless://b4f1d581-ece1-45c2-a990-f743c45bf8cd@toofan.zeroa.store:8681?mode=gun&security=reality&encryption=none&pbk=LjaEpIQZyga0txhwf7JRHlqFOrImB4dEpkw3-AASWUI&fp=chrome&spx=%2F&type=grpc&serviceName=Tahmznilana&sni=journalofbigdata.springeropen.com&sid=be#@Vip_Security join us - 2034
+vless://b4a29ec1-5569-4ff3-aca2-8183e26fbfe2@www.speedtest.net:2096?encryption=none&security=tls&sni=638872398562281077.zagreb-prx-dnraaad.info&type=ws&alpn=h3h2&host=638872398562281077.zagreb-prx-dnraaad.info&path=/rsjcbpws#@Vip_Security join us - 2033
