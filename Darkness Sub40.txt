@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://f73e9865-80c3-45ba-8391-597139c37bdc@91.99.129.82:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@Vip_Security join us - 2717
-vless://f73d8952-81f2-4bac-b6c4-d81348f282ef@45.80.229.254:58258?sni=yahoo.com&sid=a3&security=reality&encryption=none&headerType=none&type=tcp&pbk=t75QpaHSW2E2O2jzeAa7ELBlrDk4ttCKUJYzwsfvPzk#@Vip_Security join us - 2716
 vless://f73d8952-81f2-4bac-b6c4-d81348f282ef@45.80.229.254:58258?security=reality&encryption=none&pbk=t75QpaHSW2E2O2jzeAa7ELBlrDk4ttCKUJYzwsfvPzk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a3#@Vip_Security join us - 2715
 vless://f711153f-b7b3-47cc-9d99-2b2a25fd0d73@103.249.133.79:58440?type=tcp&security=reality&fp=chrome&sni=www.latimes.com&pbk=9qIfswg5ImAKqsb7k_8Zlyj-EcPacIvEfZnhEkYktHg&sid=3bba58385bf1ad&spx=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#@Vip_Security join us - 2714
 vless://f711153f-b7b3-47cc-9d99-2b2a25fd0d73@103.249.133.79:58440?security=reality&encryption=none&pbk=9qIfswg5ImAKqsb7k_8Zlyj-EcPacIvEfZnhEkYktHg&headerType=none&fp=chrome&type=tcp&sni=www.latimes.com#@Vip_Security join us - 2713
@@ -702,3 +700,5 @@ vless://b7ef3741-92f4-4302-9b06-9f943f3700e5@bot.nimeshab-nabod.info:80?mode=aut
 vless://b79ee06f-d158-48c3-b32d-7ecb90f5f317@91.99.232.132:39954?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 2020
 vless://b79a624b-c54e-4f1b-b2c5-db03a6a35910@test.fast.hosting-ip.com:80?path=farsi.khamenei.ir%2Fcontact%2FViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%3Fed%3D2096&security=none&encryption=none&host=tgidvirav2ray.org&type=ws#@Vip_Security join us - 2019
 vless://b74eea5d-9c5b-41f4-9f0c-9cf09499d504@www.speedtest.net.cdn.cloudflare.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Pd.xR6QsY3613.ZuLair.orG&type=ws#@Vip_Security join us - 2018
+vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&fp=chrome&type=ws&sni=de04.abvpn.ru#@Vip_Security join us - 2017
+vless://b6b74885-a9c1-4e7b-9bf5-a0f8a08446c5@web.bbv2ry.pics:443?type=ws&path=%2F&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=Sky2.bbv2ry.pics#@Vip_Security join us - 2016

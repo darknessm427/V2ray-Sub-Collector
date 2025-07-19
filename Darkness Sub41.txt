@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&fp=chrome&type=ws&sni=de04.abvpn.ru#@Vip_Security join us - 2017
-vless://b6b74885-a9c1-4e7b-9bf5-a0f8a08446c5@web.bbv2ry.pics:443?type=ws&path=%2F&host=Sky2.bbv2ry.pics&security=tls&fp=chrome&alpn=http%2F1.1%2Ch2&sni=Sky2.bbv2ry.pics#@Vip_Security join us - 2016
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.24.158.0:2052?encryption=none&security=none&type=ws&host=register.tunnelbreaking.shop&path=%2F#@Vip_Security join us - 2015
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.17.169.85:2052?encryption=none&security=none&type=ws&host=register.tunnelbreaking.shop&path=%2F#@Vip_Security join us - 2014
 vless://b654f2d5-b650-4613-89a1-9dbc423216ed@turkws.configforvpn.fun:2087?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=turkws.configforvpn.fun#@Vip_Security join us - 2013
@@ -702,3 +700,5 @@ vless://7b63ed50-f1f8-4776-b7f2-60e73f6b66c0@venom.spritbraker.ir:443?type=tcp&s
 vless://7b5ea382-cbc6-4169-9f88-8200ca80c31a@104.24.135.129:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fandouhuayuan.pages.dev&fp=random&type=ws&sni=fandouhuayuan.pages.dev#@Vip_Security join us - 1320
 vless://7b2fac0c-3b65-4253-8247-266cbff3dde5@188.245.101.3:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@Vip_Security join us - 1319
 vless://7af0cefc-ab80-4701-a9fe-67dfddc2a0f7@135.125.244.42:1210?security=reality&sni=ubuntu.com&type=grpc&serviceName=@@jet_config-@jet_config-@jet_config&fp=chrome&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#@Vip_Security join us - 1318
+vless://7a8ad9a0-d01b-4c40-a697-965ac8ae4da7@ir053.v2netservice.uk:8443?security=none&encryption=none&host=ponisha.ir&headerType=http&type=tcp#@Vip_Security join us - 1317
+vless://7a711d4e-6606-4e1c-b228-7979511a8459@172.66.40.99:8080?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D8080&security=none&encryption=none&host=kk213.motorphrotan.ir.&type=httpupgrade#@Vip_Security join us - 1316
