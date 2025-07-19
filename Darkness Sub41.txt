@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://b79a624b-c54e-4f1b-b2c5-db03a6a35910@test.fast.hosting-ip.com:80?path=farsi.khamenei.ir%2Fcontact%2FViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%3Fed%3D2096&security=none&encryption=none&host=tgidvirav2ray.org&type=ws#@Vip_Security join us - 2043
-vless://b74eea5d-9c5b-41f4-9f0c-9cf09499d504@www.speedtest.net.cdn.cloudflare.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Pd.xR6QsY3613.ZuLair.orG&type=ws#@Vip_Security join us - 2042
-vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&fp=chrome&type=ws&sni=de04.abvpn.ru#@Vip_Security join us - 2041
-vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.24.158.0:2052?encryption=none&security=none&type=ws&host=register.tunnelbreaking.shop&path=%2F#@Vip_Security join us - 2040
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.16.184.232:2052?encryption=none&security=none&type=ws&host=register.tunnelbreaking.shop&path=%2F#@Vip_Security join us - 2039
 vless://b654f2d5-b650-4613-89a1-9dbc423216ed@turkws.configforvpn.fun:2087?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=turkws.configforvpn.fun#@Vip_Security join us - 2038
 vless://b5ee8f67-0f25-467b-aca4-01001f00d802@65.109.192.110:55953?security=reality&encryption=none&pbk=RELg-Z1AXhG9945I_8hN884Z5Txd9ZxI92sl4jHzXWU&host=divarcdn.com&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=stackoverflow.com&sid=ec01ceda#@Vip_Security join us - 2037
@@ -702,3 +698,7 @@ vless://7bda027c-cbc8-488f-864f-cfb415cd8d77@unique.bitiboot.com:443?encryption=
 vless://7bda027c-cbc8-488f-864f-cfb415cd8d77@157.173.127.227:443?security=reality&encryption=none&pbk=q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=40e3350da285#@Vip_Security join us - 1346
 vless://7bd338e7-703e-4310-9871-78393a40d483@193.238.153.70:11044?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 1345
 vless://7b93b058-f902-48a1-90a0-918ab81fb9fc@94.232.168.16:30501?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 1344
+vless://7b9255ca-535d-44ca-dc53-e234921605d0@chnaihe.ac.ir:443?mode=multi&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&sni=kare.kanal-tel-nufilter.store#@Vip_Security join us - 1343
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 1342
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.205.130:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 1341
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#@Vip_Security join us - 1340

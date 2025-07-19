@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=telegram-join-v2xaytelegram-join-v2xay-telegram-join&headerType=none&type=tcp&sni=app.chandplus.com#@Vip_Security join us - 2743
-vless://fa5d0f68-9c5f-4436-896f-e8a4cc588623@tel.VPNCUSTOMIZE.cam:8443?type=grpc&mode=gun&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&security=tls&fp=chrome&sni=20ns2-V2ray.Vpncustomize.Com#@Vip_Security join us - 2742
-vless://f9f52055-ff98-4f3c-baa4-869864503e1e@104.25.140.153:443?path=%2F&security=tls&encryption=none&host=BPB-pANEL-En-1O0.pAges.DEV&fp=chrome&type=ws&sni=BPB-pANEL-En-1O0.pAges.DEV#@Vip_Security join us - 2741
-vless://f9c54d82-1fe3-41d8-9211-23a88de308d9@91.99.149.143:43470?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@Vip_Security join us - 2740
 vless://f97f837b-1881-429b-88e8-f33a850bd1a9@www.speedtest.net:2096?encryption=none&security=tls&sni=638868958469957699.amsterdam-prx-dnraaam.info&type=ws&alpn=h3h2&host=638868958469957699.amsterdam-prx-dnraaam.info&path=/xctxpqws#@Vip_Security join us - 2739
 vless://f922a88b-d4f5-4371-924e-c0335c990569@all.digiv2.online:2087?type=ws&host=ConneCtion-Ir-021.digiv2ray1.store&path=/DigiV?ed%3D2048&security=tls&fp=chrome&sni=ConneCtion-Ir-021.digiv2ray1.store&alpn=h2#@Vip_Security join us - 2738
 vless://f8ff8435-f201-471b-b08b-602cef6ca180@45.83.143.71:443?security=reality&encryption=none&pbk=KuXbGeSIqhg5_bFaYN1ZW7F4m4LyjLio8Yh1YEE46xM&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry&sni=ftp.debian.org&sid=8a#@Vip_Security join us - 2737
@@ -702,3 +698,7 @@ vless://b8a0fe1a-fbea-4572-a878-20b7f7c98636@104.16.178.96:80?encryption=none&se
 vless://b8869cc1-853c-472e-93c3-1a1094d9ee60@Hh.somo44.sbs:8080?path=%2Fhhvghhv&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#@Vip_Security join us - 2046
 vless://b7a8bf9d-0a31-438d-c8c5-c6e819cae0af@172.235.165.34:15738?type=tcp&path=%2F&headerType=http&security=none#@Vip_Security join us - 2045
 vless://b79ee06f-d158-48c3-b32d-7ecb90f5f317@91.99.232.132:39954?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 2044
+vless://b79a624b-c54e-4f1b-b2c5-db03a6a35910@test.fast.hosting-ip.com:80?path=farsi.khamenei.ir%2Fcontact%2FViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%3Fed%3D2096&security=none&encryption=none&host=tgidvirav2ray.org&type=ws#@Vip_Security join us - 2043
+vless://b74eea5d-9c5b-41f4-9f0c-9cf09499d504@www.speedtest.net.cdn.cloudflare.net:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Pd.xR6QsY3613.ZuLair.orG&type=ws#@Vip_Security join us - 2042
+vless://b6cdcef0-b61b-424d-81f8-41e40e762dde@de04.abvpn.ru:443?path=%2Fwebsocket&security=tls&encryption=none&fp=chrome&type=ws&sni=de04.abvpn.ru#@Vip_Security join us - 2041
+vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@104.24.158.0:2052?encryption=none&security=none&type=ws&host=register.tunnelbreaking.shop&path=%2F#@Vip_Security join us - 2040

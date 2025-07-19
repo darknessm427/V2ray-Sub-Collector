@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://3c5e6fc8-6911-429d-b9b7-29f2074d183d@Www.speedtest.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=DAuntLess-hoRSe.oNeEAT.cO.&type=ws#@Vip_Security join us - 643
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@104.27.62.243:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=HarmonY-427.pages.DEV&fp=firefox&type=ws&sni=HarmonY-427.pages.DEV#@Vip_Security join us - 642
-vless://3c2e5f39-d738-40d4-929c-249ea568cb4a@65.109.228.235:45743?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 641
-vless://3c1b6cb1-6f68-4431-8fed-feb21b96d71b@91.99.170.96:40212?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@Vip_Security join us - 640
 vless://3bcc6dbf-0ab4-4674-85c8-39bd994434f9@s3.esrtz.onl:46470?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Vip_Security join us - 639
 vless://3ba8c5d2-b1d2-44b6-bd57-5028817ad1b5@172.67.168.22:443?encryption=none&security=tls&sni=AzadI.fagitE5184.woRKErS.dEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=azadi.fagite5184.workers.dev&path=%2Ftelegram@V2ray_Alpha%2F%3Fed%3D2560#@Vip_Security join us - 638
 vless://3b9bc773-05eb-4d5f-8c1f-57342c0c4f40@51.81.36.172:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135010103.sec19org.com#@Vip_Security join us - 637
@@ -702,3 +698,7 @@ ss://YWVzLTI1Ni1nY206VVhVYTMzSGpSMQ%3D%3D@155.94.175.171:56432#@Vip_Security joi
 ss://YWVzLTI1Ni1nY206VVE2Mks4Rzg4VkdCTlpYTw==@156.245.190.24:15015#@Vip_Security join us - 610
 ss://YWVzLTI1Ni1nY206VFRLOERTTzZNWlJFRUpRMQ@219.135.227.209:17003#@Vip_Security join us - 609
 ss://YWVzLTI1Ni1nY206VEc6QEVua2VsdGVfbm90aWYmJlRHOkBOb3RpZl9DaGF0@116.206.124.41:34045#@Vip_Security join us - 608
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6697#@Vip_Security join us - 607
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@54.36.174.181:6679#@Vip_Security join us - 606
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.157.40.81:6679#@Vip_Security join us - 605
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@23.154.136.148:6679#@Vip_Security join us - 604
