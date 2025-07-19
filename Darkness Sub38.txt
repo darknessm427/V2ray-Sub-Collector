@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://f5da3cc4-c81c-418e-a836-fbb53b841caa@77.110.101.4:4810?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 2740
-vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=brmahasang.ahaysiahzangi.dpdns.org&fp=random&type=ws&sni=brmahasang.ahaysiahzangi.dpdns.org#@Vip_Security join us - 2739
-vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=brmahasang.ahaysiahzangi.dpdns.org&fp=chrome&type=ws&sni=brmahasang.ahaysiahzangi.dpdns.org#@Vip_Security join us - 2738
-vless://f5bb39a2-c997-4381-baf0-307ac3bd3464@all.mdvpnsec.cfd:443?path=%2F&security=tls&encryption=none&host=MdVpnSec-V2rayNg-Free.snappfoodd.site&type=ws&sni=MdVpnSec-V2rayNg-Free.snappfoodd.site#@Vip_Security join us - 2737
 vless://f5940000-f45f-4f83-822b-9c2deaed74b6@194.182.79.64:14072?mode=gun&security=reality&encryption=none=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&pbk=rBFBT_1w_zGmAu58xZ11pvWfOrf1wmW-LUVKkqwFrTc&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=29c9b711b2a9fb#@Vip_Security join us - 2736
 vless://f503c72d-485e-4091-9d0c-9ad34d61c914@freeconfig.fergalvpnmod.com:12765?path=%2Ftelegram%40FergalVpnMod&security=&encryption=none&host=cloudflare.com&type=ws#@Vip_Security join us - 2735
 vless://f4fab729-40d0-4ba3-b063-56a46167a6f5@91.99.98.186:30424?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@Vip_Security join us - 2734
@@ -702,3 +698,7 @@ vless://b4a16d3b-e9ba-4d25-b81b-f2c2b4e6b744@151.101.2.219:80?security=none&type
 vless://b480bea0-ea8b-433f-9e65-d109da2bc403@173.245.59.100:2052?security=none&type=httpupgrade&host=dash.cloudflare.com.www.speedtest.net.cdn.ir.Elmahstyle.ir.&path=%2Fresult%3Fed%3D2086#@Vip_Security join us - 2043
 vless://b4492a2f-1f9f-45e8-b176-91d13b9e3aa9@SvnTeam.fast.hosting-ip.com:80?path=%2F%40SvnProBot%3Fed%3D2560&security=none&encryption=none&host=shad.ir&type=ws#@Vip_Security join us - 2042
 vless://b4473fe7-6e2e-441e-8b2e-a8baec8a5172@116.203.29.106:50424?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 2041
+vless://b43a834f-4e56-4910-87d8-328cb50db70f@188.245.90.180:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@Vip_Security join us - 2040
+vless://b3bb5f55-e7d6-4302-ab66-2bfd2f2e897f@45.136.5.42:56324?security=reality&encryption=none&pbk=gcNyysrKpad7uqzpwNO65IKppIqcudJS5WN6ZpfSjHw&fp=chrome&spx=%2F&type=grpc&sni=tgju.org&sid=ba2806#@Vip_Security join us - 2039
+vless://b3a0f19f-b0f9-4a96-95de-49c5c5a725e0@abdzgg.teemazad.com:37062?security=none&encryption=none&host=Zvtm62fo.divarcdn.com&headerType=http&type=tcp#@Vip_Security join us - 2038
+vless://b36d2e19-d7e6-40e8-c93e-1d7b6bd90241@45.85.119.120:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=Hn.jack7564.xyz#@Vip_Security join us - 2037
