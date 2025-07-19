@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://3e032a0f-b397-408e-8cc9-f428634612d9@91.99.123.99:26892?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@Vip_Security join us - 657
-vless://3dgvdi6tnx@3dgvdi6tnx-4515017476-direct.rahavard365.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=vpnowl&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=3dgvdi6tnx-4515017476-direct.rahavard365.co#@Vip_Security join us - 656
 vless://3d554bba-9c77-499f-9055-1eb42058ed00@99823232.webnama.com.tr:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 655
 vless://3d554bba-9c77-499f-9055-1eb42058ed00@892389823.webnama.com.tr:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 654
 vless://3d554bba-9c77-499f-9055-1eb42058ed00@300232332.webnama.com.tr:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 653
@@ -702,3 +700,5 @@ ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg%3D%3D@pl04.outline.abvpn.ru:
 ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg%3D%3D@146.19.170.82:47777#@Vip_Security join us - 624
 ss://YWVzLTI1Ni1nY206WUhLODJUUjczMTE0Vk45Tw==@154.196.244.26:16016#@Vip_Security join us - 623
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.162.200.28:3389#@Vip_Security join us - 622
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.157.40.95:5000#@Vip_Security join us - 621
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.154.136.51:8888#@Vip_Security join us - 620
