@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 43
-vless://027f5bd9-4095-484c-b149-2fae488b457b@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638883051421404077.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638883051421404077.amsterdam-prx-dnraaal.info&path=/rlrsttws#@Vip_Security join us - 42
-vless://01ebaa8b-5c2f-41cb-9841-c76caf331767@5.202.6.243:1484?security=none&type=tcp&path=/&headerType=http#@Vip_Security join us - 41
 vless://01ebaa8b-5c2f-41cb-9841-c76caf331767@5.202.6.243:1484?security=none&type=tcp&path=%2F&headerType=http#@Vip_Security join us - 40
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.chandplus.com#@Vip_Security join us - 39
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#@Vip_Security join us - 38
@@ -702,3 +699,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.158.64.226:443#@Vip_
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@172.187.115.88:443#@Vip_Security join us - 43
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@172.166.13.118:443#@Vip_Security join us - 42
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.82.156:443#@Vip_Security join us - 41
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@131.145.45.21:443#@Vip_Security join us - 40
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NjNlMTgxNi02ZTk1LTRmOWMtYTkwZS1iYTYyYjE2YmE5YzE=@gg01.6bnw.top:40018#@Vip_Security join us - 39
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NjNlMTgxNi02ZTk1LTRmOWMtYTkwZS1iYTYyYjE2YmE5YzE=@gg01.6bnw.top:40012#@Vip_Security join us - 38
