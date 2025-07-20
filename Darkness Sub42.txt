@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://8ec07b8c-289b-41df-a0c5-2b5f8c941e5f@zn.boshrachoice.ir:4433?security=reality&encryption=none&pbk=IUk4LR6VI6CnvLMY_ks1KdOHvB1_byMvQM3gZfuU5S0&headerType=none&fp=chrome&type=tcp&sni=sourceforge.net&sid=6762f9cf85154ca2#@Vip_Security join us - 1552
+vless://8e644ba4-c10f-4285-8c27-82cde672513f@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&host=join-----VPNCUSTOMIZE--VPNCUSTOMIZE.IR.&type=ws#@Vip_Security join us - 1551
 vless://8e4d0dba-884f-4bbd-9f1d-ea5ec78efe7d@bam.erfann.shop:15807?security=none&encryption=none&host=ua.yektanet.com&headerType=http&type=tcp#@Vip_Security join us - 1550
 vless://8e093f0d-61a6-4283-9126-7f346b1abebc@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=CrITicAL-maTh.OnEeAT.co&type=ws#@Vip_Security join us - 1549
 vless://8daf8f18-c1ad-4528-8a20-f6364bfcb78e@157.90.166.86:20874?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 1548
@@ -700,5 +702,3 @@ vless://52c0e96b-b8d7-44a5-a995-bd866bf39ec6@104.21.64.1:443?security=tls&sni=M1
 vless://52adc6ba-b1c7-4541-a594-08fc698be640@GrOUNdED-brotHER.SeoToolSFOryOu.co.uK:80?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 855
 vless://524ef193-d0ee-4f6b-bf0b-1ab15a76cc9a@europeless.duckdns.org:443?type=ws&path=%2Fgetupdates&host=europeless.duckdns.org&security=tls#@Vip_Security join us - 854
 vless://52395e5e-40db-4c24-c32e-57954697f906@218.33.84.142:26518?security=reality&encryption=none&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&headerType=none&fp=chrome&type=tcp&sni=www.lovelive-anime.jp#@Vip_Security join us - 853
-vless://51fda508-20aa-419e-b4c3-3a6202411412@172.67.73.163:8080?path=%2F&security=none&encryption=none&host=18.6na7PY43IT.zuLaiR.Org.&type=ws#@Vip_Security join us - 852
-vless://51d3d249-9095-4cbd-8fd2-3e6c1039cab4@172.67.180.238:8880?path=%2F%3Fed%3D2048&security=&encryption=none&host=falcunargo.c2259d7c10.workers.dev&type=ws#@Vip_Security join us - 851
