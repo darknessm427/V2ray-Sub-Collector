@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://00f061fc-5083-4f2f-8408-67990e4cbfaa@164.92.172.116:37051?security=reality&encryption=none&pbk=4HV8B6aiVjtQHJ6wEtGtMilz62FS8jnI68xNZrt56z0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Referson.com&sid=48e98e27#@Vip_Security join us - 23
 vless://00b4785b-6ae1-496c-ad87-9dc4f89b7b3e@www.speedtest.net:2096?path=%2Fgflzprws&security=tls&encryption=none&host=638879176706376779.amsterdam-prx-dnraaal.info&fp=chrome&type=ws&sni=638879176706376779.amsterdam-prx-dnraaal.info#@Vip_Security join us - 22
 vless://00b4785b-6ae1-496c-ad87-9dc4f89b7b3e@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706376779.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706376779.amsterdam-prx-dnraaal.info&path=/gflzprws#@Vip_Security join us - 21
 vless://0081a47d-9396-48ac-a3e5-d4fce010e33f@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY:تلگرام&sni=ViP.iTV2RAY.lol#@Vip_Security join us - 20
@@ -702,3 +701,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODlmODQ=@j-p04.loveroise.com:54102#@Vip_Security join us - 71
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowOTgzM2E2Zi00ZDQ2LTQyNmUtODdmZS03NzkzYTU0ODlmODQ=@h-k02.loveroise.com:54002#@Vip_Security join us - 70
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMGY2ZjBjOC05NGYyLTQ5NjMtOTVmMi0yYjBjMzhkZDFhZGU@osijdjxmd15.yunxiangvip.mom:27803#@Vip_Security join us - 69
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#@Vip_Security join us - 68

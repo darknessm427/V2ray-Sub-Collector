@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://c210a8f6-e6fe-41da-c0f0-3e5b477b077d@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@Vip_Security join us - 2123
 vless://c210a8f6-e6fe-41da-c0f0-3e5b477b077d@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@Vip_Security join us - 2122
 vless://c20edc65-9a39-4045-8f96-65a7ae5ab035@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&fp=randomized&type=ws#@Vip_Security join us - 2121
 vless://c1c15aa0-f5ce-4e1e-c9af-8eb80852166a@prod2-hge-cloud03-hybrid-vlt01.cyberscaler.com:18716?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 2120
@@ -702,3 +701,4 @@ vless://8034b9fc-fcb8-4ff1-92e1-856eb256840e@mtn-iTV2RAY.ddns.net:2087?mode=gun&
 vless://80224ec3-8289-43a4-8de1-dce19bd6c439@94.156.203.224:26626?type=tcp&security=reality&fp=chrome&pbk=rwpQdRKmL3gnGph-hm3zEsMhv48CPpgiGn-FNrHiNmY&sni=Soft98.ir&flow=xtls-rprx-vision&sid=ed84644a&spx=%2F#@Vip_Security join us - 1426
 vless://80172ff8-708e-4a71-aa85-42eea7171ba9@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=8080&security=none&encryption=none&host=ba-velam-kon.motorphrotan.ir.&type=httpupgrade#@Vip_Security join us - 1425
 vless://8016e3e2-85a9-4e9c-86cc-379a888aa59d@arvancloud.de.ir.systemgamingirani.ir:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#@Vip_Security join us - 1424
+vless://801033cb-b1c6-441b-aa4c-955e3f9bf2a0@zula.ir:8880?path=/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN/@LOCKEY_VPN%3Fed%3D2048&security=none&encryption=none&host=Www.Speedtest.net.VVV.Backup.Digikala.Com.Zula.ir.CodePhPpluS13.Ir.&type=httpupgrade#@Vip_Security join us - 1423
