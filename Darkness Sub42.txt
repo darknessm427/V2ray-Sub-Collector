@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://8f21a6bb-d508-4b6a-b7bd-ddbcc30cb7b1@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#@Vip_Security join us - 1554
+vless://8f10f456-fbb0-492a-a71b-9b88cde3e5a3@91.107.251.56:22?mode=gun&security=reality&encryption=none&pbk=O1JNAhjldpMPvqA-GCbjVlm1gvVQSYAtXULtfC-9z1w&fp=chrome&type=grpc&serviceName=%DA%A9%D8%A7%D9%86%D8%A7%D9%84%E2%80%8C%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%40ev2rayy&sni=yahoo.com&sid=d757f949ab85#@Vip_Security join us - 1553
 vless://8ec07b8c-289b-41df-a0c5-2b5f8c941e5f@zn.boshrachoice.ir:4433?security=reality&encryption=none&pbk=IUk4LR6VI6CnvLMY_ks1KdOHvB1_byMvQM3gZfuU5S0&headerType=none&fp=chrome&type=tcp&sni=sourceforge.net&sid=6762f9cf85154ca2#@Vip_Security join us - 1552
 vless://8e644ba4-c10f-4285-8c27-82cde672513f@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE-telegram-VPNCUSTOMIZE%3Fed%3D2560&security=none&host=join-----VPNCUSTOMIZE--VPNCUSTOMIZE.IR.&type=ws#@Vip_Security join us - 1551
 vless://8e4d0dba-884f-4bbd-9f1d-ea5ec78efe7d@bam.erfann.shop:15807?security=none&encryption=none&host=ua.yektanet.com&headerType=http&type=tcp#@Vip_Security join us - 1550
@@ -700,5 +702,3 @@ vless://52d0efb6-2e9f-451e-b600-56649889747c@turkycf.configforvpn.fun:2053?mode=
 vless://52c68cd9-5e34-4cd5-8345-e3746c5fd703@45.76.174.136:443?type=xhttp&path=%2Frfgthj&host=&mode=stream-one&security=none#@Vip_Security join us - 857
 vless://52c0e96b-b8d7-44a5-a995-bd866bf39ec6@104.21.64.1:443?security=tls&sni=M10EEeeEEeEEeEEeEeeEeeEeeeeeEe.7777128.xYZ&alpn=http/1.1&fp=chrome&type=ws&path=/YzFLmzNIEQsAmceLxv94lPbgMw&host=m10eeeeeeeeeeeeeeeeeeeeeeeeeee.7777128.xyz&encryption=none#@Vip_Security join us - 856
 vless://52adc6ba-b1c7-4541-a594-08fc698be640@GrOUNdED-brotHER.SeoToolSFOryOu.co.uK:80?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 855
-vless://524ef193-d0ee-4f6b-bf0b-1ab15a76cc9a@europeless.duckdns.org:443?type=ws&path=%2Fgetupdates&host=europeless.duckdns.org&security=tls#@Vip_Security join us - 854
-vless://52395e5e-40db-4c24-c32e-57954697f906@218.33.84.142:26518?security=reality&encryption=none&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&headerType=none&fp=chrome&type=tcp&sni=www.lovelive-anime.jp#@Vip_Security join us - 853
