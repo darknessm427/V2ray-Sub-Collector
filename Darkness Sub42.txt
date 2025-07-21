@@ -2,12 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://7d307f5e-3508-4ced-8b68-968ddfeb6a34@91.99.104.110:59337?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@Vip_Security join us - 1374
-vless://7d2df3b7-51d5-4ebd-a6f6-0ecfd69c27d8@speedtest.net:80?type=xhttp&path=%2F@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF%3Fed%3D2048&host=lool-fool.global.ssl.fastly.net&mode=auto&security=none#@Vip_Security join us - 1373
-vless://7d29daed-b57f-4855-818b-3b4b4839b2f6@198.62.62.4:2096?encryption=none&security=tls&sni=638878462229496017.ahvaz-prx-dnraaad.info&type=ws&alpn=&host=638878462229496017.ahvaz-prx-dnraaad.info&path=/sfbjbgws#@Vip_Security join us - 1372
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com&headerType=http&type=tcp#@Vip_Security join us - 1371
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=none&encryption=none&host=bmw.com%2F%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%3Fed%3D2560&headerType=http&type=tcp#@Vip_Security join us - 1370
-vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@62.60.163.77:3333?security=&encryption=none&host=bmw.com%2F%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%3Fed%3D2560&headerType=http&type=tcp#@Vip_Security join us - 1369
 vless://7d283c1a-3a5b-4b2a-a924-0bd256e89726@1conf.top:3333?security=none&encryption=none&headerType=http&type=tcp#@Vip_Security join us - 1368
 vless://7d05d766-4f45-455e-b789-70253ec34b8f@104.21.69.44:2053?path=%2Fcontainers%2Fde&security=tls&encryption=none&host=ah12.ai351.com&fp=chrome&type=ws&sni=ah12.ai351.com#@Vip_Security join us - 1367
 vless://7cccefc2-6e9b-47bb-f30c-ea2d3cdc8593@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@Vip_Security join us - 1366
@@ -702,3 +696,9 @@ vless://4197db62-128a-4f80-8eb8-4c881136938e@turkws.configforvpn.fun:2087?path=%
 vless://41956a47-8432-4a3f-b70d-a54fc7efd6b8@www.visa.com:2095?encryption=none&security=none&type=ws&host=0223.jq2ter91.workers.dev&path=%2F%3Fed%3D2560#@Vip_Security join us - 677
 vless://41956a47-8432-4a3f-b70d-a54fc7efd6b8@104.18.15.19:8080?encryption=none&security=none&type=ws&host=0223.jq2ter91.workers.dev&path=%2F%3Fed%3D2560#@Vip_Security join us - 676
 vless://4188aee8-0117-445d-a51b-ec214b3318c3@78.141.234.16:8000?security=reality&encryption=none&pbk=GGlKs0cQDaQoDkiDlpeIWE-h0K3ohsHr7u9B3A9GODU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=17ce7de25d262bbe#@Vip_Security join us - 675
+vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&type=ws#@Vip_Security join us - 674
+vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&fp=random&type=ws&sni=di.dibdibini.dpdns.org#@Vip_Security join us - 673
+vless://4179c595-08ca-45cd-b555-91b6f1faeadc@172.67.128.105:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=di.dibdibini.dpdns.org&fp=chrome&type=ws#@Vip_Security join us - 672
+vless://4179c595-08ca-45cd-b555-91b6f1faeadc@104.25.107.242:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=di.dibdibini.dpdns.org&fp=randomized&type=ws&sni=di.dibdibini.dpdns.org#@Vip_Security join us - 671
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.199.19:2082?path=%2F&security=none&encryption=none&host=SgTbRzSl18.sAlEaLaMoHtArAm.cOm&type=ws#@Vip_Security join us - 670
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@172.67.137.11:8080?path=%2F&security=none&encryption=none&host=PbDpGsCo7.HaMeCi-dSsTeMaNe.oRg&type=ws#@Vip_Security join us - 669
