@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://7d6be8d1-c074-49d6-a912-0c9f4b8feb43@activeservice.mispd.ir:59752?mode=gun&security=reality&encryption=none&pbk=4-IeeFySub_R2q5HNmeG5V94sdgRvfvHGDmxaB05-DA&fp=chrome&spx=%2F&type=grpc&sni=tgju.org&sid=30be9fdd72#@Vip_Security join us - 1376
 vless://7d61649d-69a5-47fb-b26a-b45246640c5e@de5.iranbax.com:443?encryption=none&security=reality&sni=greenpepper.ir&fp=chrome&pbk=D_GaALhflCjd9CUDkPPOwOq-CWv9g1FTTYLgcBDRyU0&spx=/&type=grpc&serviceName=@iranbaxvpn-@iranbaxvpn-@iranbaxvpn-@iranbaxvpn&mode=gun#@Vip_Security join us - 1375
 vless://7d307f5e-3508-4ced-8b68-968ddfeb6a34@91.99.104.110:59337?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@Vip_Security join us - 1374
 vless://7d2df3b7-51d5-4ebd-a6f6-0ecfd69c27d8@speedtest.net:80?type=xhttp&path=%2F@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF,@iP_CF%3Fed%3D2048&host=lool-fool.global.ssl.fastly.net&mode=auto&security=none#@Vip_Security join us - 1373
@@ -702,3 +701,4 @@ vless://41ed1447-0623-4e86-b159-aee5a6f67a1c@157.90.236.4:29032?security=none&en
 vless://41bd1a4c-855e-4ebc-85ce-9c927840fa82@iranserver.com:2095?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&encryption=none&security=none&type=ws&host=www.myket.ir.www.cafebazaar.ir.%E5%83%8F%E9%B8%9F%E4%B8%80%E6%A0%B7%E8%87%AA%E7%94%B1.online.#@Vip_Security join us - 679
 vless://4197db62-128a-4f80-8eb8-4c881136938e@turkws.configforvpn.fun:2087?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=turkws.configforvpn.fun#@Vip_Security join us - 678
 vless://41956a47-8432-4a3f-b70d-a54fc7efd6b8@www.visa.com:2095?encryption=none&security=none&type=ws&host=0223.jq2ter91.workers.dev&path=%2F%3Fed%3D2560#@Vip_Security join us - 677
+vless://41956a47-8432-4a3f-b70d-a54fc7efd6b8@104.18.15.19:8080?encryption=none&security=none&type=ws&host=0223.jq2ter91.workers.dev&path=%2F%3Fed%3D2560#@Vip_Security join us - 676
