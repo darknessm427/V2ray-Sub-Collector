@@ -2,13 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://033a4982-a8c7-4bfb-9481-5a8a1c62cfd6@104.21.93.95:80?path=%2FiDE2j5JJnqTGPjmS%3Fed%3D2560&security=&encryption=none&host=azadnet.b0b723a182.workers.dev&type=ws#@Vip_Security join us - 46
-vless://02d3ce27-70f5-4d26-ae35-6e5840d5c1a0@172.245.232.117:443?security=reality&encryption=none&pbk=dl8h7j1NKxBL_p2leIy9SWKznB0VG5h8ftsb0hlLICk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2404#@Vip_Security join us - 45
-vless://02d3ce27-70f5-4d26-ae35-6e5840d5c1a0@172.245.232.117:443?security=reality&encryption=none&pbk=dl8h7j1NKxBL_p2leIy9SWKznB0VG5h8ftsb0hlLICk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=2404#@Vip_Security join us - 44
-vless://029f4737-0bb2-477e-8c9f-2ffb7933e284@royal26.starlinkz.cloud:31878?security=none&encryption=none&host=confingplus&headerType=http&type=tcp#@Vip_Security join us - 43
-vless://029d527b-1a84-4f3a-b80b-4c2c1e6c0c06@91.99.171.104:443?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@Vip_Security join us - 42
-vless://0296a016-82c7-4d0b-8d8a-4dfb79467f1a@188.212.97.192:2070?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@Vip_Security join us - 41
-vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 40
 vless://029254f9-05e8-47b2-a9a9-6e62e84aeb92@172.234.150.158:2321?security=&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 39
 vless://027f5bd9-4095-484c-b149-2fae488b457b@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=638883051421404077.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638883051421404077.amsterdam-prx-dnraaal.info&path=/rlrsttws#@Vip_Security join us - 38
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=api.chandplus.com#@Vip_Security join us - 37
@@ -702,3 +695,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206dFBFaGtpbGo1NlBwZHJ4bll5eFVHeDJDTGdzRW5rVzhkaXlOc2tzaUZDYz06bTV0K2NBZ1Jpc1ppS1JXdGhHRm1MeWQ1QUdVNGJwOEVBMlN1Q1JMaVJWYz0%3D@85.133.202.69:54209#@Vip_Security join us - 7
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206a09kcG13VGpLUGdPVVNPN1E3Y0FPSi8rcHpQUnhYQWIzTjk3WDJJRnBrTT06bVM3NjRVNlVxZ1BxUkdWUXVkdXNNRW83enRrRlhPTHVJc1c0N2o4enAwND0=@167.172.111.237:21108#@Vip_Security join us - 6
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Z0tYUjFha2dIVHhnZkd0dm8vRmN0U2o4bk9mTlVpeFppdFhFWkFnRXVLOD06UmhzL0ZNcE8rTnVFNnQ1ZTlaVG5WV29wbDRnUHNldGFSUktuNXRxYWFLND0%3D@89.110.79.39:49634#@Vip_Security join us - 5
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0%3D@212.118.42.181:9260#@Vip_Security join us - 4
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UHNXcGN3WDh2cFdDVkZ2M3MyV0VKbUhuZW81ZmhhOVVjb24wcm12T1NpOD06ODk4cUFpbEFOMzJWbkZLUldIaU0wbFJyVHV0MVM2RS9kQmpPUXdsRzBudz0%3D@direct.yangon.ca:8444#@Vip_Security join us - 3
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NWROcEV6aUJ4L2JEOWM5U0dYaTNldDhodm5YVlpvdVZFbHdVYkhoVklqST06T0FyM29xMkxOVGUvL2kyY3RoU01mWjIwSlRuTUFKVVozQUxTS2JyNkFGTT0@45.88.24.94:29056?type=tcp#@Vip_Security join us - 2
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MmxuOTh0MzQ2VUpDbk16QzFyMUJRV2hqcEdOMmdyb3Z2UzYzWWlNZTJPVT06eTVrVHlEWldyemg3VmttODhYenBUWTIybGdkVVh5M2YwV28rZVVZMFdJcz0@172.235.165.34:54026?type=tcp#@Vip_Security join us - 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAwQDQ1LjE0NC40OC42Mzo1NzQ1Ng==#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU=@23.27.24.181:40030#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@freakconfig13.felafel.org:443#🔥Join+Telegram:@Farah_VPN🟣
