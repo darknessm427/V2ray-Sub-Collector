@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.164.239:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=random&type=ws&sni=barayeiran.nastaranh.dpdns.org#@Vip_Security join us - 2108
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#@Vip_Security join us - 2107
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&fp=random&type=ws&sni=barayeiran.nastaranh.dpdns.org#@Vip_Security join us - 2106
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@104.16.0.113:80?path=%2F%3Fed%3D2560%2F%3FJOKERRVPN&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#@Vip_Security join us - 2105
@@ -701,4 +702,3 @@ vless://82edde93-71ea-4ee3-a0ef-16282b216261@85.9.104.142:50517?security=none&en
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 1411
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@mOoDy-LoCk.SEotoolSfOrYOU.Co.uK:80?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 1410
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@mOoDy-LoCk.SEotoolSfOrYOU.Co.uK:80?flow=&path=%2F&type=ws#@Vip_Security join us - 1409
-vless://829619da-d88e-4c12-acd5-4172f8145d22@62.60.216.61:8443?security=reality&encryption=none&pbk=Itg7rBe40jt_FLzZ7gmbuApmnkDDQDxa2E1gZRxLfgk&headerType=none&fp=chrome&type=tcp&sni=www.cdnjs.cloudflare.com&sid=947ba02be8959504#@Vip_Security join us - 1408
