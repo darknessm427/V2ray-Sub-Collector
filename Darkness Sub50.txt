@@ -2,11 +2,15 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-ss://b1855905-34cd-44c1-a83a-127f64833a57@216.22.5.76:443?type=tcp&amp;path=%2F&amp;host=zula.ir&amp;headerType=http&amp;security=none#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1nY206TlRBeFpUazJOR1kyWlRNek5qaGhOemxrTnpWall6VXdNamRqTldKaA==@193.142.30.152:10081#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGpAZXhjaGFuZ2UuZ2FtZWF1cmVsYS5jbGljazo1Mjk1Mg==#🔥Join+Telegram:@Farah_VPN🟣
-ss://d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.128.1:2096?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=vlee.amclubs.nyc.mn&amp;type=ws&amp;sni=vlee.amclubs.nyc.mn#🔥Join+Telegram:@Farah_VPN🟣
-ss://c92348f4-1ebb-4232-b546-c056f3721ffb@185.143.233.120:443?path=%2Fwp-content%3Fed%3D2020&amp;security=tls&amp;encryption=none&amp;host=mrpooya6.sbs&amp;type=ws&amp;sni=mydigipay.com#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@195.154.200.150:2376#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#🔥Join+Telegram:@Farah_VPN🟣
+ss://eyJhZGQiOiI1MS43OS4xMDIuMjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiI1MS43OS4xMDIuMjUzIiwiaWQiOiI1OGZlMTU0Mi01MjkwLTQwYWQtODE1YS03NzcwN2E4MWFmZTUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsInBvcnQiOiI4MCIsInBzIjoiQ2FuYWRhIE9WSCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==#🔥Join+Telegram:@Farah_VPN🟣
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.66.40.151:443?security=tls&amp;sni=a.xn--i-sx6a60i.us.kg&amp;fp=chrome&amp;type=ws&amp;path=/?ed%3D2560&amp;host=a.xn--i-sx6a60i.us.kg&amp;encryption=none#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplekcyTHF4OFNTNjg%3D@147.45.116.44:443#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ@154.3.8.151:30067#🔥Join+Telegram:@Farah_VPN🟣
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@108.162.195.168:443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&amp;security=tls&amp;encryption=none&amp;host=edcck.ambercc.filegear-sg.me&amp;fp=random&amp;type=ws&amp;sni=edcck.ambercc.filegear-sg.me#🔥Join+Telegram:@Farah_VPN🟣
+ss://chacha20-ietf-poly1305:shadowsocks@185.146.173.3050:443#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzeWJYOFROQWVWQ1k1YWZSdlZER1k1@185.195.65.134:8443#🔥Join+Telegram:@Farah_VPN🟣
+ss://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&amp;security=none&amp;encryption=none&amp;host=vngsupply.ip-ddns.com&amp;type=ws#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.105.244.165:7306#🔥Join+Telegram:@Farah_VPN🟣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBnQDQ1Ljg3LjE3NS4xOTI6ODA4MA==#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.165.233.93:989#🔥Join+Telegram:@Farah_VPN🟣
 
