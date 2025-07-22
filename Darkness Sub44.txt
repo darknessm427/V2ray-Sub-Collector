@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://00f061fc-5083-4f2f-8408-67990e4cbfaa@164.92.172.116:37051?security=reality&encryption=none&pbk=4HV8B6aiVjtQHJ6wEtGtMilz62FS8jnI68xNZrt56z0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=Referson.com&sid=48e98e27#@Vip_Security join us - 27
-vless://00b4785b-6ae1-496c-ad87-9dc4f89b7b3e@www.speedtest.net:2096?encryption=none&security=tls&sni=638879176706376779.amsterdam-prx-dnraaal.info&type=ws&alpn=&host=638879176706376779.amsterdam-prx-dnraaal.info&path=/gflzprws#@Vip_Security join us - 26
-vless://00b4785b-6ae1-496c-ad87-9dc4f89b7b3e@www.speedtest.net:2096?encryption=none&security=tls&sni=638868951946668359.amsterdam-prx-dnraaal.info&type=ws&alpn=h3h2&host=638868951946668359.amsterdam-prx-dnraaal.info&path=/gflzprws#@Vip_Security join us - 25
 vless://00a77d98-a067-4fd3-9031-52526a32becc@cloud.configforvpn.fun:2096?path=%2Fmm&security=tls&encryption=none&fp=chrome&type=ws&sni=root.configforvpn.fun#@Vip_Security join us - 24
 vless://0097730b-4566-41e4-8a0b-de1a4d41606c@channel.shadowshop.shadoshop.gq:443?security=reality&encryption=none&pbk=mWv1xkW8RWNb7ncEMUFZrnvFLBc43S3HkiyznNA6NjY&headerType=none&fp=chrome&spx=%2Fjoinchannel&type=tcp&flow=xtls-rprx-vision&sni=shop.smashingmagazine.com&sid=ca73dcd0#@Vip_Security join us - 23
 vless://004ba5d4-d448-4960-a762-e5190ab415f2@www.indyskipass.com:443?encryption=none&security=tls&sni=albedoalbedochan.violetchaan.ip-ddns.com&alpn=http%2F1.1&fp=chrome&type=ws&host=albedoalbedochan.violetchaan.ip-ddns.com&path=%2F#@Vip_Security join us - 22
@@ -702,3 +699,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5anU5Tjhock5GR1ZwOEVXNm1pazli@23.177.185.63:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDczZTA4OC1kYzVhLTRkZmUtODkyNy01NjM1MWVlODA0MDc%3D@144.126.146.38:30789#@Vip_Security join us - 75
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NnJlandvNUI1cnZxektCSFZMb2QyRlAvN0NHNFd6amNYWHBSRjQ1R2pFPQ==@16.171.137.43:8080#@Vip_Security join us - 74
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4MTllMzhkMWQ2ZGIxNGI0@157.173.109.231:11107#@Vip_Security join us - 73
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I%3D@78.153.131.96:443#@Vip_Security join us - 72
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3T3J2TDBKSDlmMkx2SUU0NU1UN1dO@77.105.166.12:8594#@Vip_Security join us - 71
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTA1YTMyYi0wMTJjLTQ3MTEtODllMi03M2I2NzEzZWNhNzU%3D@pr.fastsoonlink.com:40030#@Vip_Security join us - 70
