@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://01cb18d1-2062-47e7-999b-ec08e8b2ec85@104.24.148.184:80?security=&type=ws&path=/?ed%3D2560&host=muddy-rain-0a28-ppal03.mitey24737.workers.dev&encryption=none#@Vip_Security join us - 27
-vless://01b794fb-fa59-46a4-8140-50c63dda3621@VPNCUSTOMIZE.fastly80-3.hosting-ip.com:80?path=/Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Telegram-VPNCUSTOMIZE-VPNCUSTOMIZE.ir&fp=randomized&type=ws#@Vip_Security join us - 26
-vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 25
-vless://01453d95-69a8-4cb4-a5eb-f073c62f4576@venom.spritbraker.ir:443/?type=tcp&security=reality&pbk=fCdQnxkoid28t27haGSLEd3rr0R3zxw57xg40wwfU0I&fp=chrome&sni=venom.spritbraker.ir&sid=93f3face&spx=%2FTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-40Venom_serversTelegram-Channel-Venom_servers-Telegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-40Venom_serversTelegram-Channel-Venom_servers-Telegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-40Venom_serversTelegram-Channel-Venom_servers-Telegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-Venom_serversTelegram-Channel-40Venom_serversTelegram-Channel-Venom_servers&flow=xtls-rprx-vision#@Vip_Security join us - 24
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880?path=%2FTelegram&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#@Vip_Security join us - 23
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880?path=%2FTelegram&security=&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#@Vip_Security join us - 22
 vless://011c3c13-fbfb-4783-eb12-ce30912321d2@85.9.125.186:16597?security=none&encryption=none&headerType=http&type=tcp#@Vip_Security join us - 21
@@ -702,3 +698,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@85.210.222.97:443#@Vip
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.240.172:443#@Vip_Security join us - 49
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.212.246:443#@Vip_Security join us - 48
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.203.128:443#@Vip_Security join us - 47
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.202.58:443#@Vip_Security join us - 46
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@74.177.194.209:443#@Vip_Security join us - 45
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@4.250.141.14:443#@Vip_Security join us - 44
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@172.187.115.88:443#@Vip_Security join us - 43
