@@ -2,6 +2,21 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://e0dab845-5f26-4fe3-a158-1487adaa5389@ping.amirhossein.info:8443?path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&security=&encryption=none&host=ping.amirhossein.info&type=ws#ًں‡®ًں‡· IR | ًں”´ | vless | @fnet00 | 3
+vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?type=xhttp&path=/admin?ed=2048&host=speedy_lool.global.ssl.fastly.net&mode=auto&security=none#ًں‡؛ًں‡¸ US | ًں”´ | vless | @fnet00 | 7
+vless://e78bbef7-f083-487a-88da-219e11e96baa@check-host.net:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=8880&security=none&encryption=none&host=www.speedtest.net.speedtest24.ir&type=httpupgrade#ًں‡؛ًں‡¸ US | ًں”´ | vless | @freakconfig | 11
+vless://b881fa08-455e-43bb-f9e3-f8092295150c@free.omegav.fun:59964?security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.eset.com&sid=3b#â‌” XX | ًںں¢ | vless | @free_omega | 0
+vless://52199cb4-6715-49ec-a120-c314be6acf58@all.richscale.io:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=omegapro&sni=pro.richscale.io#â‌” XX | ًںں¢ | vless | @free_omega | 3
+vless://edc0a710-b736-455a-a9f2-d26150e624b2@eNThuSIasTic-CeNTUrY.OneEAt.cO:80?security=none&encryption=none&type=ws&path=/#ًں‡؛ًں‡¸ US | ًں”´ | vless | @free_serverir | 53
+vless://81b0fda4-e507-475d-ba32-9bfb7b582832@Www.speedtest.net:2095?type=httpupgrade&host=Fi1.vipmehspd.ir.&path=/@FREE_VPN02@FREE_VPN02&security=none#ًں‡؛ًں‡¸ US | ًں”´ | vless | @free_vpn02 | 13
+vless://cac74c06-a8ad-4d06-98a4-88f642076d01@Www.speedtest.net:2095?type=httpupgrade&host=Fi1.vipmehspd.ir.&path=/@FREE_VPN02@FREE_VPN02&security=none#ًں‡؛ًں‡¸ US | ًں”´ | vless | @free_vpn02 | 14
+vless://2b6f8f8c-4e7f-40f6-95b0-b57e88e8137a@Www.speedtest.net:2095?type=httpupgrade&host=Fi1.vipmehspd.ir.&path=/@FREE_VPN02@FREE_VPN02@FREE_VPN02@FREE_VPN02&security=none#ًں‡؛ًں‡¸ US | ًں”´ | vless | @free_vpn02 | 16
+vless://8b7efacf-8e83-4e51-ab55-1263baccd4b2@www.speedtest.net:443?path=/&security=tls&encryption=none&alpn=h3&host=7f905f51.garywelch.pages.dev&fp=chrome&type=ws&sni=7f905f51.garywelch.pages.dev#ًں‡؛ًں‡¸ US | ًںں¢ | vless | @free_vpn_for_all_of_us | 19
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?type=grpc&encryption=none#ًں‡؛ًں‡¸ US | ًں”´ | vless | @freeconfigsplus | 18
+vless://23b98ecb-e2be-481d-9708-f90259f925db@online.4zkaban.xyz:80?encryption=none&headerType=none&type=ws&path=@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config&host=13.ok-config-18.buzz#â‌” XX | ًں”´ | vless | @freedom_config | 5
+vless://23b98ecb-e2be-481d-9708-f90259f925db@online.4zkaban.xyz:80?encryption=none&headerType=none&type=ws&path=@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config&host=13.ok-config-19.buzz#â‌” XX | ًں”´ | vless | @freedom_config | 6
+vless://c056d27f-b44c-42e7-b631-66e4c04ba35d@online.4zkaban.xyz:80?encryption=none&headerType=none&type=ws&path=@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config&host=13.ok-config-19.buzz#â‌” XX | ًں”´ | vless | @freedom_config | 7
+vless://55605610-d5e8-4f76-8032-9452370fa1a2@online.4zkaban.xyz:80?encryption=none&headerType=none&type=ws&path=/@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config&host=14.ok-config-20.buzz#â‌” XX | ًں”´ | vless | @freedom_config | 8
 vless://85ed7efa-aa83-419a-8210-29919a7669e8@online.4zkaban.xyz:80?encryption=none&headerType=none&type=ws&path=@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config,@Freedom_Config&host=13.ok-config-20.buzz#â‌” XX | ًں”´ | vless | @freedom_config | 9
 vless://d140e9c8-14a1-4299-868d-d17b06d27f1c@mp9.ir:443?security=tls&alpn=h2,http/1.1&encryption=none&host=bike-skilled-you-cooperative.trycloudflare.com&fp=chrome&type=ws&sni=bike-skilled-you-cooperative.trycloudflare.com#ًں‡؛ًں‡¸ US | ًںں¢ | vless | @freeiranianv2rey | 13
 vless://480c278e-1c64-4ddd-9635-2df5e8dafffe@www.speedtest.net:8080?path=/@V_2rayngVpn&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#ًں‡؛ًں‡¸ US | ًں”´ | vless | @freenapsternetv | 1
@@ -687,18 +702,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#%F0%
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.233.170:989#premium-ca
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.75.119.38:989#premium-au%20%281%29
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.192.124.188:989#premium-br
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989#premium-si%20%281%29
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@45.153.124.90:989#premium-md%20%281%29
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.243.215.17:989#premium-my
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#premium-mk
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.143.32:989#premium-pe%20%281%29
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#%F0%9F%87%B2%F0%9F%87%B0%20MK-46.183.185.15%3A989
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@217.30.10.18:9031#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18%3A9031
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.254.87:990#%F0%9F%87%AC%F0%9F%87%B9%20GT-185.47.254.87%3A990
-ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ@217.30.10.18:9033#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18%3A9033
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.47.252.251:989#%F0%9F%87%B5%F0%9F%87%AA%20PE-185.47.252.251%3A989
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.1.27:990#%F0%9F%87%B2%F0%9F%87%BD%20MX-147.78.1.27%3A990
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.16.212:989#%F0%9F%87%A8%F0%9F%87%B4%20CO-154.223.16.212%3A989
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc@old.afoothabs.monster:55330#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%2887%29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpydFI0WVg3NHZ3cVJKdTlNR0gzZTFOM0NRZEdNV0NVRmt5TGlzaWppRnV2aGtVOU1jVjVUcHlnZmtlcm5KNFVRZTYzSnRjRFFrclE5SGZjaHpxUXoxa0xDblRSb3I4amc@166.1.157.228:55330
-ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.18:9084
