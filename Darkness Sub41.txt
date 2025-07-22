@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.181.47:8443?mode=stream-one&path=%2Fxhttp&security=none&encryption=none&type=xhttp#@Vip_Security join us - 2127
 vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.124.92:8443?type=xhttp&path=%2Fxhttp&host=&mode=stream-one&security=none#@Vip_Security join us - 2126
 vless://bb203cdb-7ef8-4f64-90b4-fea09c992a0c@18af2b3fcdb049509aa2.synom-beyron.info:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2125
 vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@185.228.59.3:1001?security=none&encryption=none&headerType=http&type=tcp#@Vip_Security join us - 2124
@@ -701,4 +702,3 @@ vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.47.82:2053?encryption=none&s
 vless://80764883-7f6b-4c46-8ecd-887cdf541c07@172.66.44.174:2053?path=%2Foqlixwai6lzpnumq&security=tls&encryption=none&host=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv&fp=random&type=ws&sni=edC32e3B.bpb-PaNel-EN-87s.PAGes.dEv#@Vip_Security join us - 1430
 vless://8058f619-5305-4c4c-b764-509685f68c91@prod2-hge-cloud01-hybrid-t01.cyberscaler.com:18616?security=none&encryption=none&host=sourceforge.net&headerType=http&type=tcp#@Vip_Security join us - 1429
 vless://8055afa4-b587-4218-bcf6-3b7d0b366cde@78.47.65.38:12365?mode=auto&path=%2F%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN&security=reality&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&pbk=URBzficmDa8s-CNq6Sp5WtGew_bfYb0LS07JN8Hkkwc&fp=chrome&spx=%2F&type=xhttp&sni=zhaket.com&sid=e4e5a8#@Vip_Security join us - 1428
-vless://8034b9fc-fcb8-4ff1-92e1-856eb256840e@mtn-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY:تلگرام&sni=ViP.iTV2RAY.lol#@Vip_Security join us - 1427
