@@ -2,13 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.12.246:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@Vip_Security join us - 88
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.54.252:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@Vip_Security join us - 87
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.70.31.29:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@Vip_Security join us - 86
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.182.175:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@Vip_Security join us - 85
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.68.174.66:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@Vip_Security join us - 84
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.65.111.43:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@Vip_Security join us - 83
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.123.224.178:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@Vip_Security join us - 82
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.11.245.19:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#@Vip_Security join us - 81
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.118.31:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@Vip_Security join us - 80
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.192.190.191:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@Vip_Security join us - 79
@@ -702,3 +695,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@85.210.221.208:443#@Vi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.241.99:443#@Vip_Security join us - 145
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.210.184:443#@Vip_Security join us - 144
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.202.224:443#@Vip_Security join us - 143
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.210:443#@Vip_Security join us - 142
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.199.135:443#@Vip_Security join us - 141
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.170.42:443#@Vip_Security join us - 140
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@74.177.138.134:443#@Vip_Security join us - 139
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.178.194:443#@Vip_Security join us - 138
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#@Vip_Security join us - 137
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@172.187.115.175:443#@Vip_Security join us - 136
