@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://e0dab845-5f26-4fe3-a158-1487adaa5389@ping.amirhossein.info:8443?path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&security=&encryption=none&host=ping.amirhossein.info&type=ws#ًں‡®ًں‡· IR | ًں”´ | vless | @fnet00 | 3
-vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?type=xhttp&path=/admin?ed=2048&host=speedy_lool.global.ssl.fastly.net&mode=auto&security=none#ًں‡؛ًں‡¸ US | ًں”´ | vless | @fnet00 | 7
-vless://e78bbef7-f083-487a-88da-219e11e96baa@check-host.net:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=8880&security=none&encryption=none&host=www.speedtest.net.speedtest24.ir&type=httpupgrade#ًں‡؛ًں‡¸ US | ًں”´ | vless | @freakconfig | 11
-vless://b881fa08-455e-43bb-f9e3-f8092295150c@free.omegav.fun:59964?security=reality&encryption=none&pbk=qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.eset.com&sid=3b#â‌” XX | ًںں¢ | vless | @free_omega | 0
 vless://52199cb4-6715-49ec-a120-c314be6acf58@all.richscale.io:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=firefox&type=grpc&serviceName=omegapro&sni=pro.richscale.io#â‌” XX | ًںں¢ | vless | @free_omega | 3
 vless://edc0a710-b736-455a-a9f2-d26150e624b2@eNThuSIasTic-CeNTUrY.OneEAt.cO:80?security=none&encryption=none&type=ws&path=/#ًں‡؛ًں‡¸ US | ًں”´ | vless | @free_serverir | 53
 vless://81b0fda4-e507-475d-ba32-9bfb7b582832@Www.speedtest.net:2095?type=httpupgrade&host=Fi1.vipmehspd.ir.&path=/@FREE_VPN02@FREE_VPN02&security=none#ًں‡؛ًں‡¸ US | ًں”´ | vless | @free_vpn02 | 13
@@ -170,7 +166,6 @@ vless://ba8eb673-b4a2-41b8-a813-0e535e2cf374@mrvpn1403.rightel001.chaghooosazi.s
 vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@add.ski1plag.ir:80?path=/upload&security=&encryption=none&host=my.ski1plag.ir&fp=chrome&type=ws#ًں‡؛ًں‡¸ US | ًں”´ | vless | @msv2raynp | 4
 vless://4f0ec48d-85ff-4163-bac7-eae00246fb17@prod6-cloud03-net03.cyberscaler.com:6068?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#â‌” XX | ًں”´ | vless | @mt_proxy | 5
 vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#ًں‡؛ًں‡¸ US | ًں”´ | vless | @mtproxy22_v2ray | 64
-vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#ًں‡؛ًں‡¸ US | ًں”´ | vless | @mtproxy22_v2ray | 66
 vless://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.Co.Uk:80?type=ws&path=/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#ًں‡؛ًں‡¸ US | ًں”´ | vless | @mtproxy22_v2ray | 67
 vless://6ccdb8be-c4f0-4703-b753-b416242d62b5@n2vpn-helper.projectis.ir:2053?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#ًں‡¨ًں‡¦ CA | ًںں¢ | vless | @n2vpn | 5
 vless://a295f5d8-fbb0-4a71-bef3-a39a6334bfc4@n2vpn-helper.projectis.ir:2053?path=/@n2vpn&security=tls&encryption=none&host=n2vpn.projectis.ir&fp=chrome&type=ws&sni=n2vpn.projectis.ir#ًں‡¨ًں‡¦ CA | ًںں¢ | vless | @n2vpn | 6
@@ -186,10 +181,9 @@ vless://0bdb1407-0554-4834-97cd-ba3487af59b5@join-zedmodeon.servehalflife.com:20
 vless://3c110307-dcf0-4002-b944-6d2c9530dd23@www.visa.com:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=dash.zedmodeon.lat#ًں‡؛ًں‡¸ US | ًںں¢ | vless | @nepo_v2ray | 23
 vless://3f7e0b9a-0288-4040-b386-5d7805b24f2c@mtn.reallyrich.space:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=random&type=grpc&serviceName=mtn.reallyrich.space&sni=sv.reallyrich.space#â‌” XX | ًںں¢ | vless | @netazadchannel | 3
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beloved-failure.seotoolsforyou.co.uk:80?type=ws&encryption=none&path=/#ًں‡؛ًں‡¸ US | ًں”´ | vless | @netfreedom0 | 19
-vless://05d53516-fbf5-49a5-b84c-3f18b0e2bdd9@300232332.webnama.com.tr:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ًں‡©ًں‡ھ DE | ًں”´ | vless | @netmellianti | 13
-vless://05d53516-fbf5-49a5-b84c-3f18b0e2bdd9@em-5.webnama.com.tr:4928?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ًں‡©ًں‡ھ DE | ًں”´ | vless | @netmellianti | 14
-vless://2ac5f66e-c301-47df-a086-e66b990f6e67@em-2.webnama.com.tr:3799?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ًں‡©ًں‡ھ DE | ًں”´ | vless | @netmellianti | 15
-vless://2ac5f66e-c301-47df-a086-e66b990f6e67@em-1.webnama.com.tr:3799?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ًں‡©ًں‡ھ DE | ًں”´ | vless | @netmellianti | 16
+vless://05d53516-fbf5-49a5-b84c-3f18b0e2bdd9@em-5.webnama.com.tr:4928?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ًں‡©ًں‡ھ DE | ًں”´ | vless | @netmellianti | 13
+vless://2ac5f66e-c301-47df-a086-e66b990f6e67@em-2.webnama.com.tr:3799?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ًں‡©ًں‡ھ DE | ًں”´ | vless | @netmellianti | 14
+vless://2ac5f66e-c301-47df-a086-e66b990f6e67@em-1.webnama.com.tr:3799?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#ًں‡©ًں‡ھ DE | ًں”´ | vless | @netmellianti | 15
 vless://3581187d-45af-46e0-acb1-18d70140b271@salar.mohad.sbs:80?path=/&security=none&encryption=none&type=ws#â‌” XX | ًں”´ | vless | @next_serverpanel | 0
 vless://6286f1e7-a6a5-4408-837c-a6de7ef8fe2c@salar.mohad.sbs:80?path=/&security=none&encryption=none&type=ws#â‌” XX | ًں”´ | vless | @next_serverpanel | 1
 vless://a630a4c4-9472-4b9e-9a8f-f1e1fe8c26c2@salar.mohad.sbs:80?path=/&security=none&encryption=none&type=ws#â‌” XX | ًں”´ | vless | @next_serverpanel | 2
@@ -277,7 +271,7 @@ vless://ab3bee31-6d56-4a50-8a84-70e114352783@knowledgemap.ubntddns.com:443?type=
 vless://abcdf5d9-d08a-4d23-8e63-dee8d85c76cc@lessless.duckdns.org:443?type=ws&path=/getupdates&host=lessless.duckdns.org&security=tls#ًں‡·ًں‡؛ RU | ًںں¢ | vless | @socks5tobefree | 9
 vless://78f71fb4-3425-4eb8-a734-8b5401634fa8@lessless.duckdns.org:443?type=ws&path=/getupdates&host=lessless.duckdns.org&security=tls#ًں‡·ًں‡؛ RU | ًںں¢ | vless | @socks5tobefree | 10
 vless://524ef193-d0ee-4f6b-bf0b-1ab15a76cc9a@europeless.duckdns.org:443?type=ws&path=/getupdates&host=europeless.duckdns.org&security=tls#ًں‡³ًں‡± NL | ًںں¢ | vless | @socks5tobefree | 11
-vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#ًں‡·ًں‡؛ RU | ًںں¢ | vless | @socks5tobefree | 12
+vless://80a7501b-8d1b-4e9d-bea5-903fb1053274@torless.duckdns.org:443?security=tls&sni=torless.duckdns.org&fp=random&type=ws&path=/getupdates&host=torless.duckdns.org&encryption=none#â‌” XX | ًںں¢ | vless | @socks5tobefree | 12
 vless://11435f21-d566-42ce-dd13-e68b6b1d60b6@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#ًں‡؛ًں‡¸ US | ًں”´ | vless | @spikevpn | 21
 vless://1e7276eb-2b51-45b1-c9cf-fe2f8742788b@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#ًں‡؛ًں‡¸ US | ًں”´ | vless | @spikevpn | 22
 vless://48b0a388-1136-4943-8c2b-532afb347f31@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#ًں‡؛ًں‡¸ US | ًں”´ | vless | @spikevpn | 23
@@ -364,7 +358,7 @@ vless://telegram---v2rayNGcloud---@Pishgam.sdcards.ir:80?path=/@V2rayNGcloud---T
 vless://de608bad-6c21-42d8-b217-cb734b175940@Join-V2RayTz.SiNoTz.tk:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=uGshhproxyV2raykufukfkyKuyk-irancel-Mokhabera-Sshpr-raitel-MIc.Snappfoodd.site#â‌” XX | ًںں¢ | vless | @v2rayngconfings | 13
 vless://4fac0e66-13a0-443f-fd7a-8c0b027e4632@Join.V2RayTz.sbs:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&sni=fe.MsV2ray.cfd#â‌” XX | ًںں¢ | vless | @v2rayngconfings | 15
 vless://42873f71-9718-4f3d-9907-de43001e2284@618-Join.V2RayTz.sbs:8080?mode=gun&security=reality&encryption=none&pbk=4OTfR6IQ_6Z-5EiAi08sSfUjZtC30c2x6jl9BE9KFwg&fp=chrome&spx=/&type=grpc&serviceName=@LIGHTNING6&sni=www.speedtest.net&sid=356dc0#â‌” XX | ًںں¢ | vless | @v2rayngconfings | 17
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#ًں‡¯ًں‡µ JP | ًںں¢ | vless | @v2rayngrit | 14
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#ًں‡؛ًں‡¸ US | ًںں¢ | vless | @v2rayngrit | 14
 vless://df9025d2-d8a6-4451-9e90-f8d7644d06ee@www.speedtest.net:80?encryption=none&security=none&type=ws&host=mihanyas.ir.www.zula.ir.xn--4all.king4usd.shop.&path=/@custom_config?ed=2048#ًں‡؛ًں‡¸ US | ًں”´ | vless | @v2rayngrr13 | 0
 vless://3488f5ea-47f8-4d6c-b1af-289c010c57cd@de.gy-nt.shop:443?security=reality&encryption=none&pbk=B65r_UBsBFSlwq7XbrrWI0SuCxkB8KhQEYaGrB54mTc&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=miro.com#ًں‡©ًں‡ھ DE | ًںں¢ | vless | @v2rayngseven | 5
 vless://65d5900a-b16c-47c0-d749-50f9d0a5cb7e@chat.deepseek.com:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#ًں‡؛ًں‡¸ US | ًں”´ | vless | @v2rayngseven | 6
@@ -702,3 +696,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.218:990#%F0%
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.233.170:989#premium-ca
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.75.119.38:989#premium-au%20%281%29
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.192.124.188:989#premium-br
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989#premium-si%20%281%29
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@45.153.124.90:989#premium-md%20%281%29
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.243.215.17:989#premium-my
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.37:989#premium-mk
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@138.186.143.32:989#premium-pe%20%281%29
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.185.15:989#%F0%9F%87%B2%F0%9F%87%B0%20MK-46.183.185.15%3A989
