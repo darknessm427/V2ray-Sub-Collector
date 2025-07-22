@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://bfa97e71-394a-474d-9de1-a601d3faafe3@www.speedtest.net:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=de.vpncustomize.Website&fp=chrome&type=ws&sni=de.vpncustomize.Website#@Vip_Security join us - 2128
+vless://bfa01d9d-b7ad-4ca0-a9e7-d94a7db02f4a@139.162.187.176:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#@Vip_Security join us - 2127
+vless://bfa01d9d-b7ad-4ca0-a9e7-d94a7db02f4a@139.162.187.176:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 2126
+vless://bf989dce-7af7-423b-a499-71da71cdcef1@de6rt.samsungmarketshop.ir:2083?mode=auto&path=%2Fapps%2FAndroid%2F%3Fed%3D80&security=reality&encryption=none&pbk=53XOEMg4ftOAn_gSdlNndT5Xrfj4PB5J-YKOZoqTODk&fp=firefox&spx=%2F&type=xhttp&sni=refersion.com&sid=aeba#@Vip_Security join us - 2125
 vless://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%3Fed%3D2050&security=tls&alpn=http%2F1.1&encryption=none&host=nb-de.nitter.ir&fp=chrome&type=ws&sni=nitter.ir#@Vip_Security join us - 2124
 vless://bf3c99e7-68b4-4bad-b110-ebaf2ecab772@speedtest.net:80?type=xhttp&path=%2Fadmin%3Fed%3D2048&host=speedy_lool.global.ssl.fastly.net&mode=auto&security=none#@Vip_Security join us - 2123
 vless://bedd9f06-f222-4c99-a00f-65e3667931ce@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@Vip_Security join us - 2122
@@ -698,7 +702,3 @@ vless://840fce73-112f-44e1-8bdf-cee760ed7a03@141.98.233.95:1518?security=none&en
 vless://83ef6996-0885-48cb-cbb0-96f91157f2cc@193.151.132.234:1001?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#@Vip_Security join us - 1431
 vless://83dc5c38-92fb-4d92-adb2-038575a12d49@194.182.79.250:52612?mode=gun&security=reality&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&pbk=tVPnI0CG8zT6VlwpceDzo2WqrNwBSUMbYk0_08ybxhs&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=78a48e1e#@Vip_Security join us - 1430
 vless://83dc5c38-92fb-4d92-adb2-038575a12d49@194.182.79.250:52612?mode=gun&security=reality&encryption=none&pbk=tVPnI0CG8zT6VlwpceDzo2WqrNwBSUMbYk0_08ybxhs&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=78a48e1e#@Vip_Security join us - 1429
-vless://83dc5c38-92fb-4d92-%61db2-038575%6112d49@194.182.79.250:52612?mode=gun&security=reality&encryption=none&authority=&pbk=tVPnI0CG8zT6VlwpceDzo2WqrNwBSUMbYk0_08ybxhs&fp=chrome&spx=%2F&type=grpc&serviceName=Jo%69n-ZE%44MO%44EON-ZE%44MO%44EON-b%69%61-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON&sni=journalofbigdata.springeropen.com&sid=78a48e1e#@Vip_Security join us - 1428
-vless://83aa2634-96a7-4ee6-aac1-07fd96f1c6c0@zula.ir:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV&fp=chrome&type=ws&sni=aMI-02-SJsD6TExaRobDu76.THIekliNlNT9.WorkErs.dEV#@Vip_Security join us - 1427
-vless://83a85a41-fb7f-43e0-9c15-d199509a9624@178.162.244.224:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 1426
-vless://83a85a41-fb7f-43e0-9c15-d199509a9624@178.162.244.224:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 1425
