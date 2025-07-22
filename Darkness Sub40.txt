@@ -2,6 +2,11 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://fbc96a4a-6aea-4b91-97f5-ef49d41da669@nextgenerationaiplatform.ir:443?path=%2FsafasssfasfasfA%3Fed&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nExtgEnerAtionAIplatform.iR#@Vip_Security join us - 2889
+vless://fbb8b297-be50-4452-bed9-49aa80317164@45.76.241.67:443?type=xhttp&path=%2Foiuygt&host=&mode=stream-one&security=none#@Vip_Security join us - 2888
+vless://fba20f1f-8cfb-4d90-87aa-b284ec5f6ecf@216.22.5.72:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#@Vip_Security join us - 2887
+vless://fb853741-88ef-4aa0-ba2f-999f04535960@188.114.97.3:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=HovEYda-arIamehr-KINg.pAgES.dev&type=ws&sni=HovEyda-ARIAMEHR-KinG.PAgEs.Dev#@Vip_Security join us - 2886
+vless://facefd1f-903b-411d-b0a2-286c9a76e471@162.159.152.87:2083?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=bPB-XiaOeR886.pAGES.DEv&fp=chrome&type=ws&sni=bPB-XiaOeR886.pAGES.DEv#@Vip_Security join us - 2885
 vless://facefd1f-903b-411d-b0a2-286c9a76e471@162.159.152.87:2083?path=%2FTelegram%40Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=bPB-XiaOeR886.pAGES.DEv&fp=chrome&type=ws&sni=bPB-XiaOeR886.pAGES.DEv#@Vip_Security join us - 2884
 vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?sni=yahoo.com&host=%2F-%3Fed&sid=a31a8d04622560&security=reality&encryption=none&headerType=none&fp=chrome&type=tcp&pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s#@Vip_Security join us - 2883
 vless://fac1c66f-3ba3-4d24-8ae8-d6049d949898@51.38.64.196:443?security=reality&encryption=none&pbk=guQofANvA8Ia_uVwhRMriU09zudRTM_k7Nr498g161s&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=a31a8d04622560#@Vip_Security join us - 2882
@@ -697,8 +702,3 @@ vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.221.206:443?type=tcp&path=%2F
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.186.0:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 2192
 vless://c39a101c-0a7b-4940-8e6a-f8346d70b24b@91.99.177.240:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 2191
 vless://c3975f60-60d4-4f14-9780-070ce18c1dda@172.66.44.183:443?encryption=none&security=tls&sni=A-4Km.PaGEs.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=a-4km.pages.dev&path=%2FDoA9bvFjD83ix3v9%3Fed%3D2560#@Vip_Security join us - 2190
-vless://c3975f60-60d4-4f14-9780-070ce18c1dda@172.66.44.183:443?encryption=none&security=tls&sni=A-4Km.PaGEs.dEV&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=a-4km.pages.dev&path=%2F#@Vip_Security join us - 2189
-vless://c383b50e-aace-4444-b71a-630fc6330f87@151.101.64.155:80?security=none&type=ws&host=FastShoVpn.TelegramChannel.com&path=%2Ftelegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN-telegram-FASTSHOVPN%3Fed%3D2048#@Vip_Security join us - 2188
-vless://c35aa3ef-b21a-43af-c820-1a3bc6498044@104.21.28.188:2087?path=%2FTelegram%3A%40@Vip_Security join us - 2187
-vless://c3231e14-aca0-43d0-8970-8b4eb2ec3c3f@45.154.98.29:443?security=tls&alpn=h2&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=chopper.lnmarketplace.net#@Vip_Security join us - 2186
-vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fierce-data.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#@Vip_Security join us - 2185
