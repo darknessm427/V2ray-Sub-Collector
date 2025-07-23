@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=%2FlBgrvNbOl0QQyamD%2FMTg1LjY4LjkzLjM5%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=siMOWEbSitesPeEdTest.iR#@Vip_Security join us - 365
+vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=%2FKFh3HO76VUQPJDgM%2FOC4yMjAuMTM0LjEzNg&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=simoWEbsiTESPEedTEST.ir#@Vip_Security join us - 364
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=%2FFY78Jwbpng8dLmb2%2FdHVyay5yYWRpY2FsaXphdGlvbi5pcg&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=siMOweBSITESPeEdTest.IR#@Vip_Security join us - 363
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=%2FDNosqlK7BxEXdZOf%2FOTQuMTc3LjguMTA&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=SIMowEBsitespeedTEst.ir#@Vip_Security join us - 362
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@www.speedtest.net:443?path=%2F8DBpLq5GSEtdR3Da%2FMTM1LjE4MS4xNjguMzA&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=SimOwEBSitEsPEEDtEst.ir#@Vip_Security join us - 361
@@ -700,5 +702,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#@Vi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.82:990#@Vip_Security join us - 384
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#@Vip_Security join us - 383
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#@Vip_Security join us - 382
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.2.182:990#@Vip_Security join us - 381
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#@Vip_Security join us - 380
