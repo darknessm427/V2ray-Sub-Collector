@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjM1MDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
-vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjM2MDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
-vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjM3MDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
-vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjM4MDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
 vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjMwMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
 vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjMxMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
 vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjMyMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
@@ -702,3 +698,7 @@ vless://f1e481af-4fd4-40ce-aedc-9a5529c10e8a@ver2.tcod008.info:28505?security=no
 vless://f16293a9-500a-4c0a-b4d8-adad9efdfed2@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&sni=638886055652719137.warsaw-prx-dnraaao.info&type=ws&alpn=&host=638886055652719137.warsaw-prx-dnraaao.info&path=/aghccwws#@Vip_Security join us - 2716
 vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80?security=&type=ws&path=/&host=danuwazero.com&encryption=none#@Vip_Security join us - 2715
 vless://f13e82ba-618f-4b5e-badf-c87d79217639@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN%3Fed%3D8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#@Vip_Security join us - 2714
+vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=%2F&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#@Vip_Security join us - 2713
+vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.27.207.92:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=azADNet-seMEJ.pageS.DeV&fp=randomized&type=ws&sni=AzAdnET-SemeJ.pAGES.dev#@Vip_Security join us - 2712
+vless://f06ac303-e626-451d-bcfc-ee825ee69398@104.18.1.20:443?path=%2FoyF1T0jNP2ARuOYS%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=AZaDnet-SEmEj.pAgEs.DeV&fp=randomized&type=ws&sni=azadNet-SeMej.PAGES.DEV#@Vip_Security join us - 2711
+vless://f0120192-22d8-47cf-9963-7f8f77900e11@174.138.5.94:45500?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 2710
