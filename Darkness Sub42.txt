@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://7e91c270-c067-4c9c-9231-9208471487ce@www.speedtest.net:8880?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D2048&security=none&encryption=none=---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&host=arm1.dollardoon.com&type=httpupgrade#@Vip_Security join us - 1344
+vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@LiGHT-PReseNce.oneEaT.Co:80?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 1343
 vless://7e74ff43-3a90-48b3-8372-7d92a045c2d4@LiGHT-PReseNce.oneEaT.Co:80?flow=&path=%2F&type=ws#@Vip_Security join us - 1342
 vless://7e485f11-e775-40c0-81d2-3c8561e6dd97@other.muchzeros.000.pe:34311?type=tcp&security=reality&pbk=sojbJQBfQc5tdE2QjXGelIvYISxbTy2pWidbO3tZm2Y&fp=random&sni=www.digikala.com&sid=c38275&spx=%2F&flow=xtls-rprx-vision#@Vip_Security join us - 1341
 vless://7e38ef07-350d-41f3-8314-b21543d4b950@188.227.84.154:8443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 1340
@@ -700,5 +702,3 @@ vless://3e5e8070-39b4-4a25-94cf-43c629b54eea@151.101.120.1:80?mode=auto&path=%2F
 vless://3e25842f-5365-41e6-b10e-10fc8faaf64f@151.101.3.8:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20100%2C%20%22noGRPCHeader%22%3A%20false%2C%20%22xmux%22%3A%20%7B%22maxConcurrency%22%3A%2016%2C%20%22maxConnections%22%3A%200%2C%20%22cMaxReuseTimes%22%3A%2064%2C%20%22cMaxLifetimeMs%22%3A%200%2C%20%22hMaxRequestTimes%22%3A%20800%2C%20%22hKeepAlivePeriod%22%3A%200%7D%7D&host=seyyedmt.ir&type=xhttp#@Vip_Security join us - 647
 vless://3e032a0f-b397-408e-8cc9-f428634612d9@91.99.123.99:26892?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#@Vip_Security join us - 646
 vless://3d7a5834-e52b-40cc-ae4f-f23a00fc9f4a@82.115.18.218:57072?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 645
-vless://3d554bba-9c77-499f-9055-1eb42058ed00@99823232.webnama.com.tr:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 644
-vless://3d554bba-9c77-499f-9055-1eb42058ed00@892389823.webnama.com.tr:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 643

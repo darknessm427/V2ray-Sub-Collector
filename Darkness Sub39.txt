@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjM3MDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
+vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjM4MDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
 vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjMwMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
 vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjMxMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
 vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjMyMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
@@ -700,5 +702,3 @@ vless://f149f3ea-ac0f-4e29-8db2-89d57b4f6eac@151.101.1.124:80?security=&type=ws&
 vless://f13e82ba-618f-4b5e-badf-c87d79217639@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN%3Fed%3D8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#@Vip_Security join us - 2747
 vless://f12977e6-d296-4d94-9aaf-d31770b70f84@104.21.69.44:443?path=%2F&security=tls&encryption=none&host=cr77.hedieh.dpdns.org&fp=chrome&type=ws&sni=cr77.hedieh.dpdns.org#@Vip_Security join us - 2746
 vless://f10c5379-3719-45f9-8843-b8f915379a4f@f1.webdw.online:443?mode=gun&security=reality&encryption=none&pbk=aBBb86CtF_njXBhO3nq4I2CsEuH5NIz9WI2wH7qhu3k&fp=chrome&spx=%2F&type=grpc&serviceName=wallex.ir&sni=zula.ir&sid=15cbffa6#@Vip_Security join us - 2745
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.43:80?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#@Vip_Security join us - 2744
-vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#@Vip_Security join us - 2743
