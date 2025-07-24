@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://6739dbe1-ca9b-4735-9ed3-41867754594b@151.101.192.155:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=biantoZedmodeonyour-name.global.ssl.fastly.net&type=xhttp#@Vip_Security join us - 968
+vless://671caed8-14ca-4526-8e64-1c7bde072039@outshop.bestshop10.ir:26745?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 967
 vless://6718b144-8aeb-4b91-a846-c44b04803610@103.215.223.192:443?security=none&encryption=none&headerType=http&type=tcp#@Vip_Security join us - 966
 vless://670d931b-9d26-5c5b-9ee2-780be46e1cf0@5.180.52.15:2052?path=%2Fvless&security=&encryption=none&host=mihanwebhost.iri&type=ws#@Vip_Security join us - 965
 vless://6683e519-99b1-4df8-9d20-f39a2a7ed1b0@217.60.236.41:3134?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 964
@@ -700,5 +702,3 @@ vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.71:3237?security=none&e
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.38:3237?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 271
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@185.231.205.23:3237?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 270
 vless://1d828176-751a-2700-6a53-08129bd4db2b@z4.magicnetwork.info:443?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp#@Vip_Security join us - 269
-vless://1d399c5a-1c32-4fff-a4d0-d78fd3328a4c@104.19.56.61:443?path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=pages.teasalo.cloudns.org&fp=random&type=ws&sni=pages.teasalo.cloudns.org#@Vip_Security join us - 268
-vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#@Vip_Security join us - 267
