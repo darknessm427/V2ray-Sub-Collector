@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2FJoin---hibyevpn---Join---hibyevpn---Join---hibyevpn%3Fed%3D2560&security=tls&encryption=none&host=sub.divib.dynv6.net&type=ws&sni=sub.divib.dynv6.net#@Vip_Security join us - 1756
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2F&security=tls&encryption=none&host=sub.divib.dynv6.net&fp=chrome&type=ws&sni=sub.divib.dynv6.net#@Vip_Security join us - 1755
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sub.divib.dynv6.net&type=ws&sni=sub.divib.dynv6.net#@Vip_Security join us - 1754
 vless://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sub.divib.dynv6.net&fp=chrome&type=ws&sni=sub.divib.dynv6.net#@Vip_Security join us - 1753
@@ -702,3 +701,4 @@ vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.1:443?path=%2Fyoulingkais
 vless://71dce9af-d790-4b38-a1fd-7745e0923bd3@104.21.16.169:443?encryption=none&security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&path=-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047#@Vip_Security join us - 1059
 vless://71b7cafa-7d98-4190-ae0f-6654886edd5b@germany.playshoptv.com:9090?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 1058
 vless://7193b0d2-8a38-466b-845f-8c44f25acb4c@IPB-AlphaOmega-Company.1AlphaOmega.Org:80?path=%2Fwss9000%3Fed%3D2560&security=none&encryption=none&host=USA-ComPany-AlphaOmega-Team.AlphaOmegaComPany-PoWerFull.Ir.&type=httpupgrade#@Vip_Security join us - 1057
+vless://7193b0d2-8a38-466b-845f-8c44f25acb4c@IPB-AlphaOmega-Company.1AlphaOmega.Org:80?path=%2Fwss9000%3Fed%3D2560&security=none&encryption=none&host=UA-ComPany-AlphaOmega-Team.AlphaOmegaComPany-PoWerFull.Ir.&type=httpupgrade#@Vip_Security join us - 1056

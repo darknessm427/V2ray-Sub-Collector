@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjI5MDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBاتح”:”/download”}==@Filter_breaker | United States
 vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjIxMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBhdGgiOiIvZG93bmxvYWQifQ==@Filter_breaker | United States
 vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjIyMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBhdGgiOiIvZG93bmxvYWQifQ==@Filter_breaker | United States
 vmess://eyJhZGQiOiIxMDQuMTkuMTY4LjIzMDAiLCJwb3J0Ijo0NDMsInZpZCI6ImMxMjM0NTY3LTc4OTAtNGRmMi1iMTIzLTQ1Njc4OTAxMjM0NSIsInNlY3VyaXR5IjoiYXV0byIsInR5cGUiOiJ3cyIsInBhdGgiOiIvZG93bmxvYWQifQ==@Filter_breaker | United States
@@ -702,3 +701,4 @@ vless://f475c570-eba2-4a74-9948-d22ce8492aff@157.245.24.38:2087?security=reality
 vless://f43617b5-1a02-4776-bffe-85c30a27458a@trvip.irannoweb.art:8080?security=none&encryption=none&headerType=http&type=tcp#@Vip_Security join us - 2459
 vless://f40c8d52-5ea8-48f7-be8c-239c72737690@Www.speedtest.net:2095?path=%2F%40FREE_VPN02%40FREE_VPN02&security=none&encryption=none&host=Fi1.vipmehspd.ir.&type=httpupgrade#@Vip_Security join us - 2458
 vless://f3cfe074-ba7f-4a28-8050-080815435597@irt.oremote.org:16103?type=tcp&path=%2Flt&host=divar.ir&headerType=http&security=none#@Vip_Security join us - 2457
+vless://f38e1473-0bb8-4190-8d49-ba1aaaf4e264@157.180.28.52:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pics.floorshoping22.com#@Vip_Security join us - 2456
