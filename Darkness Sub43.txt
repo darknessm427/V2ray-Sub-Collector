@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@www.speedtest.net:443?path=%2F8Zt3ENlar8SKeK3c%2FMTA5LjEyMC4xMzQuMTMz%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=sIMOWebSITEspEedtesT.Ir#@Vip_Security join us - 356
 vless://289a4e03-317f-4bf8-97d3-e33200df6a2b@104.21.80.252:443?path=%2FOvFDUa0OIcxzDtAe%2FMjEzLjE0OC4xMC4xNzc&security=tls&alpn=http%2F1.1&encryption=none&host=simowebsitespeedtest.ir&fp=randomized&type=ws&sni=simOwebsiTeSPeedTEsT.IR#@Vip_Security join us - 355
 vless://2806aefe-d935-4722-b677-fb6434f62c8d@151.101.64.155:80?path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Lightning6.ir&type=ws#@Vip_Security join us - 354
 vless://279c8e66-2b1d-466d-99aa-95b51708311e@78.129.155.89:8443?security=reality&encryption=none&pbk=2Czmwe30_iRsGakJCnlCbGoT6k8i2SYhmi-XPuUunQo&fp=chrome&spx=%2F&type=grpc&sni=tgju.org&sid=3a37589c#@Vip_Security join us - 353
@@ -701,4 +702,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#@Vi
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#@Vip_Security join us - 374
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#@Vip_Security join us - 373
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.20.227:990#@Vip_Security join us - 372
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#@Vip_Security join us - 371
