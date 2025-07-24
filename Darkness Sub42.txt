@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://6c64eb8d-81bd-4a9b-932c-a470a15e68e2@84.32.190.251:2200?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 1059
-vless://6c39add6-18b8-577c-9a9c-be2082507050@speedtest.wlftest.xyz:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&spx=%2F&type=tcp&sni=www.speedtest.net&sid=ce#@Vip_Security join us - 1058
 vless://6c39add6-18b8-577c-9a9c-be2082507050@159.69.123.36:443?security=reality&encryption=none&pbk=NT3ozRtEyDjNV_2rUXFAf65Uf52OfdKANpePb3eZQAA&headerType=none&fp=ios&type=tcp&sni=www.speedtest.net&sid=ce#@Vip_Security join us - 1057
 vless://6c25ba82-a67f-4bdb-a235-6f5e3190e44a@tufts.edu:443?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN?%3Fed%3D2560&security=tls&encryption=none&alpn=h3&host=Lockey-VPN.com.tr&fp=chrome&type=ws&sni=tufts.edu#@Vip_Security join us - 1056
 vless://6c25ba82-a67f-4bdb-a235-6f5e3190e44a@speedtest.net:80?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN%3Fed%3D80&security=none&encryption=none&host=Lockey-VPN.com.tr&type=ws#@Vip_Security join us - 1055
@@ -702,3 +700,5 @@ vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:2053?path=%2FYe3vH0FB
 vless://264a6474-e655-5831-80b8-7a306b37cb6b@194.147.35.250:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=194.147.35.250&path=%2Fvless#@Vip_Security join us - 362
 vless://263535f3-e631-442f-b25f-1f3f1db2b8e7@151.101.3.8:80?mode=auto&path=%2Fv2rayfree1vpn&security=none&encryption=none&host=v2rayfree1vpn.global.ssl.fastly.net&type=xhttp#@Vip_Security join us - 361
 vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@record.persianmizban.com:443?path=%2F&security=tls&encryption=none&host=lgoin.persianmizban.com&fp=chrome&type=ws&sni=lgoin.persianmizban.com#@Vip_Security join us - 360
+vless://260cc7e4-1e11-44e8-81fd-b162fbb1c83e@104.21.24.0:443?path=%2F&security=tls&encryption=none&host=lgoin.persianmizban.com&fp=chrome&type=ws&sni=lgoin.persianmizban.com#@Vip_Security join us - 359
+vless://260c4900-69a9-465c-8c3a-272eb1b4ec00@45.131.7.7:8080?encryption=none&security=none&sni=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&type=ws&host=ShaHrAmcOnfIgWoRKERcjsA9898.CoNfIGshaHrAmcOnfIg.woRKeRs.dev&path=%2F#@Vip_Security join us - 358
