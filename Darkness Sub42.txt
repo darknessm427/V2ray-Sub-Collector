@@ -2,13 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://783164cb-6410-4a96-e432-832489e4848c@ec10.kiava.fun:8443?security=reality&encryption=none&pbk=Hu85h5TPDKaWIt2Q1Sb5ILRXxH-bIMH-E7HV36ibfGo&headerType=none&fp=chrome&spx=%2Fnew&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#@Vip_Security join us - 1184
-vless://782e9a27-fcc5-4f0c-a6c9-327d0426daaa@vxlup.serverara.ir:8484?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 1183
-vless://7814883a-ff1c-42d5-9da6-45bec1f1caa4@199.34.228.178:2095?path=%2F%3Fed%3D2095&security=none&encryption=none&host=9943580d7b7ee2dd.9943580d7b7ee2dd.mObIleGGatte.Ir&type=httpupgrade#@Vip_Security join us - 1182
-vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 1181
-vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Vip_Security join us - 1180
-vless://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&encryption=none&pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a20a8fdc#@Vip_Security join us - 1179
-vless://77371595-b7aa-472a-9d61-e9731861af07@217.60.236.215:8443?security=none&encryption=none&host=head.shecanMarket.com&headerType=http&type=tcp#@Vip_Security join us - 1178
 vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?path=%2Fdl%2Findex.php&security=reality&encryption=none&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&fp=chrome&type=http&sni=ubuntu.com&sid=61138e86#@Vip_Security join us - 1177
 vless://76f5a084-02f6-4a9d-b7c2-54ebf310dc8a@kinsta.cnew.ir:7958?type=tcp&path=%2Fkinsta&host=exo.ir&headerType=http&security=none#@Vip_Security join us - 1176
 vless://76b3cbba-e6ac-485a-9481-336a0415eab9@172.67.157.202:80?encryption=none&security=none&type=ws&host=OlD-disk-EFCd.JojAhoF109.WorKerS.DEv&path=%2FodHGn0T9HGFXsTlN%3Fed%3D2560#@Vip_Security join us - 1175
@@ -702,3 +695,10 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?encryption=none&secu
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.bankonbasak.com:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 487
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 486
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net#@Vip_Security join us - 485
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 484
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 483
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 482
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 481
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#@Vip_Security join us - 480
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 479
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net#@Vip_Security join us - 478
