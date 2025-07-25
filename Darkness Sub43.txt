@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&security=tls&encryption=none&host=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO&type=ws&sni=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO#@Vip_Security join us - 322
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=ZhN5vJ9dY7.9pEsC.cOm&type=ws&host=ZhN5vJ9dY7.9pEsC.cOm&path=/&alpn=h2%2Chttp%2F1.1&fp=chrome#@Vip_Security join us - 321
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=FlN5fXaYrS.9pEsC.cOm&type=ws&host=FlN5fXaYrS.9pEsC.cOm&path=/&alpn=h2%2Chttp%2F1.1&fp=chrome#@Vip_Security join us - 320
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=VpNwS2iJkA.vPbEtHoRvP002.iNfO&type=ws&sni=VpNwS2iJkA.vPbEtHoRvP002.iNfO#@Vip_Security join us - 319
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=MkS1mYeRw9.SaLaMgOjAi09-2.InFo&type=ws&sni=MkS1mYeRw9.SaLaMgOjAi09-2.InFo#@Vip_Security join us - 318
@@ -702,3 +700,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@war.ssvpnapp.win:57456
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#@Vip_Security join us - 365
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE%3D@45.128.151.67:31348#@Vip_Security join us - 364
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.199:8080#@Vip_Security join us - 363
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#@Vip_Security join us - 362
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#@Vip_Security join us - 361
