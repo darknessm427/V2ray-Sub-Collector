@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://ada6d0f5-9820-41d2-b098-f0513fcd171a@www.speedtest.net:8880?path=%2FChannel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE%3Fed%3D2048&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.&fp=randomized&type=ws#@Vip_Security join us - 1722
 vless://ad966d2b-5d1a-4f03-9956-5cbd024a238a@172.66.47.97:443?security=tls&sni=3.sleepzzzz.cloudns.be&type=ws&host=3.sleepzzzz.cloudns.be&path=%2F%3Fed%3D2560#@Vip_Security join us - 1721
 vless://ad372bb8-c479-53ca-beac-0081e2f37613@172.67.195.221:443?security=tls&sni=worker-ali2.qlodwdul.wORkerS.DeV&type=ws&host=worker-ali2.qlodwdul.wORkerS.DeV&fp=chrome&alpn=h3,h2,http/1.1#@Vip_Security join us - 1720
 vless://ad372bb8-c479-53ca-beac-0081e2f37613@104.21.44.58:443?security=tls&sni=worker-ali2.qlodwdul.wORkerS.DeV&type=ws&host=worker-ali2.qlodwdul.wORkerS.DeV&fp=chrome&alpn=h3,h2,http/1.1#@Vip_Security join us - 1719
@@ -702,3 +701,4 @@ vless://7%61711d4%65-6606-4%651c-b228-7979511%618459@172.66.40.99:8080?path=%2Ft
 vless://6fee3115-e2db-4b44-b6f0-68cd4135da2f@172.233.160.243:443?mode=stream-one&path=%2F&security=&encryption=none&type=xhttp#@Vip_Security join us - 1025
 vless://6fc3195e-e1ad-4e1b-8552-ac88e2780364@194.182.79.70:31516?mode=gun&security=reality&encryption=none=-@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann---@ghalagyann&pbk=tUuTbwQPiJSQXexLrOXTo6DsoOsXw_TTRSormnX8emk&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=5f3c96#@Vip_Security join us - 1024
 vless://6fc3195e-e1ad-4e1b-8552-ac88e2780364@194.182.79.70:31516?mode=gun&security=reality&encryption=none&pbk=tUuTbwQPiJSQXexLrOXTo6DsoOsXw_TTRSormnX8emk&fp=chrome&spx=%2F&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=5f3c96#@Vip_Security join us - 1023
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.231.38.95:443?path=%2F&security=tls&encryption=none&host=bnnm.azurewebsites.net&fp=random&type=ws&sni=bnnm.azurewebsites.net#@Vip_Security join us - 1022
