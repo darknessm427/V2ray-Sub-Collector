@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#@Vip_Security join us - 480
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 479
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net#@Vip_Security join us - 478
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 477
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.14.69:2096?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http%2F1.1&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#@Vip_Security join us - 476
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=random&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 475
@@ -699,6 +702,3 @@ ss://YWVzLTEyOC1nY206Nzk3Mzk4MzItYjg4OC00MTVhLWE0NTQtOGI1MzkxMWM5NDRh@1.170.247.
 ss://YWVzLTEyOC1nY206NTRkY2Q3NTY0OWRjNGM3OA==@117.143.14.154:42929#@Vip_Security join us - 543
 ss://YWVzLTEyOC1nY206MjdkYzQyOTctNDRhZS00MWFlLWEwNjUtMjg2NGRhMWRiMTM0@vip1hz1.whatfuck.top:38812#@Vip_Security join us - 542
 ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#@Vip_Security join us - 541
-ss://YWVzLTEyOC1nY206MTAwODY%3D@153.121.43.183:10087#@Vip_Security join us - 540
-ss://YWVzLTEyOC1nY206MGRjMGEwZWUtMDA4Yy00MDYzLWIyZjYtYjFmZDJiOGVmNDdi@45.89.109.184:10001#@Vip_Security join us - 539
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#@Vip_Security join us - 538
