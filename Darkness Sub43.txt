@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2086?path=%2F%3Fed%3D2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#@Vip_Security join us - 478
-vless://32849afc-1632-4273-9db6-833dc02a7af7@free.miladiran1.shop:2001?security=none&encryption=none&headerType=http&type=tcp#@Vip_Security join us - 477
 vless://32622124-139e-4eab-8fb8-faaf021acd3f@poseidex.house0of1nyxora.top:2096?security=reality&encryption=none&pbk=jM7JL3cp1HdLpEuvRDGJlzI-zUXW_6z8FkQBqimt4BE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=88dfa714#@Vip_Security join us - 476
 vless://323b04df-9596-4b4b-a0dc-27bec648e28f@www.speedtest.net.cdn.cloudflare.net:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=NIce-APartMEnt.ZULAir.ORg&type=ws#@Vip_Security join us - 475
 vless://321cc007-bb85-41c9-b686-1f45cf5174e0@172.66.45.9:443?path=%2F%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mistlink-cl9.pages.dev&fp=chrome&type=ws&sni=MiSTliNK-CL9.pAgEs.Dev#@Vip_Security join us - 474
@@ -702,3 +700,5 @@ ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@194.41.59.80:8388#@Vip_Security join us - 531
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzQTAwblRRbVRzM01WYlV1TlFMdkNi@65.38.120.217:65283#@Vip_Security join us - 530
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzNjhWQUM5c1dnempYMzlab3VnMXZZ@194.87.45.189:443#@Vip_Security join us - 529
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzMVoyUzJTckdqVU1LS2N6MDllLzlzcExucmo1dEtXK2xjVCtjRStxYk5FPQ@157.180.127.73:39069#@Vip_Security join us - 528
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzI1cwdHFnJUBO@109.120.186.9:23022#@Vip_Security join us - 527
