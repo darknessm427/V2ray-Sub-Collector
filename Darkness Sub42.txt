@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=&encryption=none&host=fast.com&headerType=http&type=tcp#@Vip_Security join us - 1182
-vless://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&encryption=none&pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a20a8fdc#@Vip_Security join us - 1181
-vless://77bb6b54-3892-47ec-837e-6ff8e38d527c@speedtest.net:80?mode=auto&path=%2Fadmin%3Fed%3D2048&security=none&encryption=none&host=speedy_lool.global.ssl.fastly.net&type=xhttp#@Vip_Security join us - 1180
-vless://7736f30b-d284-4125-a205-9abe9e1378e6@151.101.3.8:80?mode=auto&path=%2F%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN----%40V2rayArgoN&security=none&encryption=none&host=joinv2rayargoon.com&type=xhttp#@Vip_Security join us - 1179
-vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?path=%2Fdl%2Findex.php&security=reality&encryption=none&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&fp=chrome&type=http&sni=ubuntu.com&sid=61138e86#@Vip_Security join us - 1178
 vless://76f5a084-02f6-4a9d-b7c2-54ebf310dc8a@kinsta.cnew.ir:7958?type=tcp&path=%2Fkinsta&host=exo.ir&headerType=http&security=none#@Vip_Security join us - 1177
 vless://76bf3c4c-57c6-486d-b964-e0a7cf0882ee@104.18.26.94:443?encryption=none&security=tls&sni=esetsecuritylicense.kitonap759.workers.dev&fp=randomized&type=ws&host=esetsecuritylicense.kitonap759.workers.dev&path=%2F%3Fed%3D2560#@Vip_Security join us - 1176
 vless://76b3cbba-e6ac-485a-9481-336a0415eab9@172.67.157.202:80?encryption=none&security=none&type=ws&host=OlD-disk-EFCd.JojAhoF109.WorKerS.DEv&path=%2FodHGn0T9HGFXsTlN%3Fed%3D2560#@Vip_Security join us - 1175
@@ -702,3 +697,8 @@ vless://34208027-101c-4e79-a0e3-87f62ef214e6@172.66.46.220:2083?path=%2FTelegram
 vless://33d0980e-4054-474b-8f7c-05bf426963f1@91.99.150.157:1535?mode=auto&path=%2FAS&security=reality&encryption=none&pbk=g23nq_R9TIMbMIGQHB6gjDNewFzrHXPcj72bTS-RtX8&fp=chrome&type=xhttp&sni=stackoverflow.com#@Vip_Security join us - 485
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&encryption=none&host=EbRhP7yUx0.ToRsAnSpOrT16.oRg&type=ws&sni=EbRhP7yUx0.ToRsAnSpOrT16.oRg#@Vip_Security join us - 484
 vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=Ft77Ta8Q1m.EmShAbKhObE.oRg&type=ws&sni=Ft77Ta8Q1m.EmShAbKhObE.oRg#@Vip_Security join us - 483
+vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@104.26.6.89:443?path=%2F&security=tls&encryption=none&host=NpFzCqA01g.V2pLuSmLm.OrG&fp=chrome&type=ws&sni=NpFzCqA01g.V2pLuSmLm.OrG#@Vip_Security join us - 482
+vless://3363185d-ee02-44ac-a127-1c65fc02ada8@188.114.96.1:443?path=%2F&security=tls&encryption=none&host=td3j8gpbytxy7ob7l5yz3wywgmytsssx0xwjyr2gbbydpcd8bs3acqj4yr2i4z3.kck8tlk.workers.Dev&type=ws&sni=td3j8gpbytxy7ob7l5yz3wywgmytsssx0xwjyr2gbbydpcd8bs3acqj4yr2i4z3.kck8tlk.workers.Dev#@Vip_Security join us - 481
+vless://3315df08-e2a4-4dbd-eccc-fa0cbacf40a9@xpo.xpnvip.ir:443?type=tcp&security=reality&pbk=aWkDnGz6ncSTu_pOZggU23ZlBP-nrq65iCo2rSbujG8&fp=safari&sni=www.latimes.com&sid=&spx=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048#@Vip_Security join us - 480
+vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2095?path=%2F%3Fed%3D2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#@Vip_Security join us - 479
+vless://33039dbe-8889-42f1-9aeb-ecfbfa2a1640@104.18.32.69:2086?path=%2F%3Fed%3D2560&security=none&encryption=none&host=21tg.459tj345.workers.dev&type=ws#@Vip_Security join us - 478
