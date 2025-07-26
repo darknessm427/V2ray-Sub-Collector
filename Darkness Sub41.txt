@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68616@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Vip_Security join us - 1914
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68615@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Vip_Security join us - 1913
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68614@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Vip_Security join us - 1912
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68612@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Vip_Security join us - 1911
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68610@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Vip_Security join us - 1910
 vless://b1eab2af-19b9-49d6-986a-ba15481d8bc9@best.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=d7ai1rsnr28Xv2F2TktDrZ_YCbUK55w0QHPHcUYWLR8&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=greenpepper.ir&sid=614214c8#@Vip_Security join us - 1909
@@ -702,3 +699,6 @@ vless://7a8d449f-8f00-4b7b-8c87-f44af9898a57@167.99.216.10:45500?security=none&e
 vless://7a8ad9a0-d01b-4c40-a697-965ac8ae4da7@ir053.v2netservice.uk:8443?security=none&encryption=none&host=ponisha.ir&headerType=http&type=tcp#@Vip_Security join us - 1217
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.204.237:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 1216
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.198.174:443?security=none&encryption=none&host=zula.ir%2F%3FTelegram%40MTMVPN&headerType=http&type=tcp#@Vip_Security join us - 1215
+vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.90:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#@Vip_Security join us - 1214
+vless://7a1a3f11-fa58-44e5-8e65-dd1334927e19@shopplay3.playshoptv.com:42772?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#@Vip_Security join us - 1213
+vless://79de9b1e-d75e-4962-bbd8-42e9a6702033@45.150.33.157:50810?type=xhttp&mode=auto&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=reality&fp=chrome&sni=zhaket.com&pbk=J0pRUeUHMS_olwz0xLOMJxIxe-DhsCZA3qnAMRC4zTg&sid=aa60a00122200b76&spx=/#@Vip_Security join us - 1212
