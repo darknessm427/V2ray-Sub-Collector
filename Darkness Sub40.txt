@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://f13e82ba-618f-4b5e-badf-c87d79217639@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN%3Fed%3D8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#@Vip_Security join us - 2590
+vless://f11b2b93-7ced-425b-97f9-b3439af05485@nl.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 2589
 vless://f11b2b93-7ced-425b-97f9-b3439af05485@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 2588
 vless://f10c5379-3719-45f9-8843-b8f915379a4f@f1.webdw.online:443?mode=gun&security=reality&encryption=none&pbk=aBBb86CtF_njXBhO3nq4I2CsEuH5NIz9WI2wH7qhu3k&fp=chrome&spx=%2F&type=grpc&serviceName=wallex.ir&sni=zula.ir&sid=15cbffa6#@Vip_Security join us - 2587
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#@Vip_Security join us - 2586
@@ -700,5 +702,3 @@ vless://b24c8dc2-570e-488e-a7ee-fc64594ce388@turkws.configforvpn.fun:2087?path=%
 vless://b228220b-6f92-4350-b73d-a1f924a3c686@37.156.44.122:8443?encryption=none&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb&type=tcp&headerType=none&host=mci.ir#@Vip_Security join us - 1893
 vless://b228220b-6f92-4350-b73d-a1f924a3c686@213.142.134.92:8443?encryption=none&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb&type=tcp&headerType=none&host=mci.ir#@Vip_Security join us - 1892
 vless://b228220b-6f92-4350-b73d-a1f924a3c686@135.181.144.42:8443?encryption=none&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb&type=tcp&headerType=none&host=mci.ir#@Vip_Security join us - 1891
-vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs13.FligHtbEaN24.Com&type=ws#@Vip_Security join us - 1890
-vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs1.FligHtbEaN24.Com&type=ws#@Vip_Security join us - 1889

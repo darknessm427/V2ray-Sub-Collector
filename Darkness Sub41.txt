@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs13.FligHtbEaN24.Com&type=ws#@Vip_Security join us - 1890
+vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs1.FligHtbEaN24.Com&type=ws#@Vip_Security join us - 1889
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68618@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Vip_Security join us - 1888
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68617@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Vip_Security join us - 1887
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68616@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Vip_Security join us - 1886
@@ -700,5 +702,3 @@ vless://7b953823-958e-42a1-9528-e2a0fd8260cf@69.164.201.55:443?mode=stream-one&p
 vless://7b93491b-d1c0-4679-938d-56f0abec50b2@199.247.28.17:44914?mode=auto&path=%2F&security=reality&encryption=none&pbk=o1n1Qj_IBvl3xGDkMPzmuRJzKKW31L_r9kEeyW7e3F8&fp=chrome&spx=%2F&type=xhttp&sni=black-moai.com&sid=1ac2a2dde288#@Vip_Security join us - 1193
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 1192
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#@Vip_Security join us - 1191
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#@Vip_Security join us - 1190
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.199.137:443?security=none&encryption=none&host=zula.ir%2F%3F&headerType=http&type=tcp#@Vip_Security join us - 1189
