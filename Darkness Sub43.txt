@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#@Vip_Security join us - 502
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.148.22:443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#@Vip_Security join us - 501
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.147.22:443?path=%2Frkluheauth5uvnsb%2Fntqumty5ljiyos4xodg&security=tls&encryption=none&host=hOZori.iR&type=ws&sni=hOZori.iR#@Vip_Security join us - 500
 vless://3056458b-913a-4193-b428-cdf22675b3b5@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2Fydgmopws&security=tls&encryption=none&host=638890562127852879.amsterdam-prx-dnraaal.info&type=ws&sni=638890562127852879.amsterdam-prx-dnraaal.info#@Vip_Security join us - 499
@@ -702,3 +701,4 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#@Vip_Security join us
 ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0%3D@51.91.210.89:8080#@Vip_Security join us - 516
 ss://YWVzLTEyOC1nY206YS13eW00b3ZZNFl3@218.250.217.111:81#@Vip_Security join us - 515
 ss://YWVzLTEyOC1nY206T09TV0RZWFRTUldNVEFFSUo4WFVDRDI3UjJGMzg0T0RLVEhYRjQxWUxSVjQ%3D@185.112.32.244:31792#@Vip_Security join us - 514
+ss://YWVzLTEyOC1nY206Nzk3Mzk4MzItYjg4OC00MTVhLWE0NTQtOGI1MzkxMWM5NDRh@1.170.247.206:30332#@Vip_Security join us - 513

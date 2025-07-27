@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://b111c17d-c8a4-4d4d-a417-fa40a020bcc8@172.64.155.187:2052?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=24tg.hb01i8h0.workers.dev&path=%2F%3Fed%3D2560#@Vip_Security join us - 1902
 vless://b111c17d-c8a4-4d4d-a417-fa40a020bcc8@104.18.32.69:8880?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=24tg.hb01i8h0.workers.dev&path=%2F%3Fed%3D2560#@Vip_Security join us - 1901
 vless://b106570b-6b5f-40c1-8081-03093fbe8fa5@[2a0b:4140:659a:6::6]:33000?mode=gun&security=reality&encryption=none&authority=&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&fp=chrome&type=grpc&serviceName=b&sni=www.speedtest.net&sid=be7f13dd#@Vip_Security join us - 1900
 vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@172.67.193.39:443?encryption=none&security=tls&sni=bypassfilter.cmyyvat.workers.dev&fp=chrome&allowInsecure=1&type=ws&host=bypassfilter.cmyyvat.workers.dev&path=%2F%40bypass_filter%2F%3Fed%3D100#@Vip_Security join us - 1899
@@ -702,3 +701,4 @@ vless://7814883a-ff1c-42d5-9da6-45bec1f1caa4@199.34.228.178:2095?path=%2F%3Fed%3
 vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 1205
 vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Vip_Security join us - 1204
 vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=&encryption=none&host=fast.com&headerType=http&type=tcp#@Vip_Security join us - 1203
+vless://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&encryption=none&pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a20a8fdc#@Vip_Security join us - 1202

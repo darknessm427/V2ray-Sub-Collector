@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&encryption=none&pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a20a8fdc#@Vip_Security join us - 1202
 vless://77371595-b7aa-472a-9d61-e9731861af07@217.60.236.215:8443?security=none&encryption=none&host=head.shecanMarket.com&headerType=http&type=tcp#@Vip_Security join us - 1201
 vless://7727868a-8be6-44e7-cce5-7807502e8bb6@167.235.249.207:50563?path=%2Fdl%2Findex.php&security=reality&encryption=none&pbk=Y3a3xKtniKZXodz7X6dnFGcqeLs5QfwZ2YRaapLwSEg&fp=chrome&type=http&sni=ubuntu.com&sid=61138e86#@Vip_Security join us - 1200
 vless://76bf3c4c-57c6-486d-b964-e0a7cf0882ee@104.18.26.94:443?encryption=none&security=tls&sni=esetsecuritylicense.kitonap759.workers.dev&fp=randomized&type=ws&host=esetsecuritylicense.kitonap759.workers.dev&path=%2F%3Fed%3D2560#@Vip_Security join us - 1199
@@ -702,3 +701,4 @@ vless://30b4d64a-8981-47c1-b4c5-2507da32960e@172.233.223.125:443?mode=stream-one
 vless://30a4ba32-1e37-45f7-9a76-6ac5139220f0@85.198.23.170:2095?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Vip_Security join us - 505
 vless://306e217d-e75e-45b2-8a78-da78f13e3e2d@108.61.224.94:443?mode=stream-one&path=%2Frfghj&security=none&encryption=none&type=xhttp#@Vip_Security join us - 504
 vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2Frkluheauth5uvnsb%2Fntqumty5ljiyos4xodg%3D%3Fed%3D2560&security=tls&encryption=none&host=hOZori.iR&type=ws&sni=hOZori.iR#@Vip_Security join us - 503
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#@Vip_Security join us - 502
