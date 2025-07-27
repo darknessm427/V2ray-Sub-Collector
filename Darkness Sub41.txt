@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://b111f8c5-1244-4ec8-8d74-79c13ef9037e@102.177.189.248:2082?security=&encryption=none&host=q6.19kalA.co&type=ws#@Vip_Security join us - 1904
-vless://b111c17d-c8a4-4d4d-a417-fa40a020bcc8@172.64.155.187:2095?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=24tg.hb01i8h0.workers.dev&path=%2F%3Fed%3D2560#@Vip_Security join us - 1903
 vless://b111c17d-c8a4-4d4d-a417-fa40a020bcc8@172.64.155.187:2052?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=24tg.hb01i8h0.workers.dev&path=%2F%3Fed%3D2560#@Vip_Security join us - 1902
 vless://b111c17d-c8a4-4d4d-a417-fa40a020bcc8@104.18.32.69:8880?encryption=none&security=none&fp=chrome&allowInsecure=1&type=ws&host=24tg.hb01i8h0.workers.dev&path=%2F%3Fed%3D2560#@Vip_Security join us - 1901
 vless://b106570b-6b5f-40c1-8081-03093fbe8fa5@[2a0b:4140:659a:6::6]:33000?mode=gun&security=reality&encryption=none&authority=&pbk=JrN7nZEbUeBJFHTAKwtz5Dmd10SGgA8UCHEMLA2xOg0&fp=chrome&type=grpc&serviceName=b&sni=www.speedtest.net&sid=be7f13dd#@Vip_Security join us - 1900
@@ -702,3 +700,5 @@ vless://783164cb-6410-4a96-e432-832489e4848c@ec2.kiava.fun:8443?security=reality
 vless://782e9a27-fcc5-4f0c-a6c9-327d0426daaa@vxlup.serverara.ir:8484?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 1207
 vless://7814883a-ff1c-42d5-9da6-45bec1f1caa4@199.34.228.178:2095?path=%2F%3Fed%3D2095&security=none&encryption=none&host=9943580d7b7ee2dd.9943580d7b7ee2dd.mObIleGGatte.Ir&type=httpupgrade#@Vip_Security join us - 1206
 vless://77eb0a34-e172-48fa-8093-6c488664da44@fbi11.wizard2shop.com:8085?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 1205
+vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@Vip_Security join us - 1204
+vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=&encryption=none&host=fast.com&headerType=http&type=tcp#@Vip_Security join us - 1203
