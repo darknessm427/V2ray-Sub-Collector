@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#@Vip_Security join us - 530
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 529
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http%2F1.1&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#@Vip_Security join us - 528
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net#@Vip_Security join us - 527
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 526
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 525
@@ -699,6 +702,3 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.243:443#@Vip_Security join us 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.236:443#@Vip_Security join us - 542
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@37.19.198.160:443#@Vip_Security join us - 541
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#@Vip_Security join us - 540
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.132:443#@Vip_Security join us - 539
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.131:443#@Vip_Security join us - 538
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.47.130:443#@Vip_Security join us - 537
