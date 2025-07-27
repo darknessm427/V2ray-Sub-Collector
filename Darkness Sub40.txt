@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=random&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#@Vip_Security join us - 2526
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=%2FTel-%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=random&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#@Vip_Security join us - 2525
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN%3Fed%3D2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=random&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#@Vip_Security join us - 2524
 vless://f278037e-ce36-4634-9b4d-fca93e345a35@104.16.191.195:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiran.mahiozonboroon.qzz.io&fp=random&type=ws&sni=barayeiran.mahiozonboroon.qzz.io#@Vip_Security join us - 2523
@@ -702,3 +701,4 @@ vless://b26e6aca-66c8-491f-8389-b33ac192ffe8@zmaoz.faculty.ucdavis.edu:80?encryp
 vless://b26e6aca-66c8-491f-8389-b33ac192ffe8@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@Vip_Security join us - 1829
 vless://b24c8dc2-570e-488e-a7ee-fc64594ce388@turkws.configforvpn.fun:2087?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=turkws.configforvpn.fun#@Vip_Security join us - 1828
 vless://b228220b-6f92-4350-b73d-a1f924a3c686@213.142.134.92:8443?encryption=none&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb&type=tcp&headerType=none&host=mci.ir#@Vip_Security join us - 1827
+vless://b228220b-6f92-4350-b73d-a1f924a3c686@135.181.144.42:8443?encryption=none&security=reality&sni=refersion.com&fp=firefox&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&sid=27e6b66aa77662fb&type=tcp&headerType=none&host=mci.ir#@Vip_Security join us - 1826
