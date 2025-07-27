@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://aee7f4dd-1505-4efe-a081-199a3d9b7b97@www.speedtest.net:80?path=%2FELENaTheGreatDictator----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&fp=randomized&type=ws&sni=pAmchALL.COm.#@Vip_Security join us - 1928
 vless://aebb56af-a960-4774-b23c-e21c2e75751f@mci-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@iTV2RAY:تلگرام&sni=tm.iTV2RAY.lol#@Vip_Security join us - 1927
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&fp=chrome&type=tcp#@Vip_Security join us - 1926
 vless://ae036c2a-9f29-409a-adf5-0ce4b09550b7@87.107.153.243:49986?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 1925
@@ -702,3 +701,4 @@ vless://783164cb-6410-4a96-e432-832489e4848c@ec8.kiava.fun:8443?security=reality
 vless://783164cb-6410-4a96-e432-832489e4848c@ec79.kiava.fun:8443?security=reality&encryption=none&pbk=M0XxufVCeheKzKSWddYu1cDPF6mIpgtHUh1Kdx9vWFs&headerType=none&fp=chrome&spx=%2Fnew&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#@Vip_Security join us - 1231
 vless://783164cb-6410-4a96-e432-832489e4848c@ec78.kiava.fun:8443?security=reality&encryption=none&pbk=3nHgWsGMyqLvOnuXIh_XbNtPibm5cTprNe9Ik1T0eSw&headerType=none&fp=chrome&spx=%2Fnew&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#@Vip_Security join us - 1230
 vless://783164cb-6410-4a96-e432-832489e4848c@ec72.kiava.fun:8443?security=reality&encryption=none&pbk=4FIZ28_rLPyhf_vy_w91dFsq-3DdXyB8UjA7dXtKNgQ&headerType=none&fp=chrome&spx=%2Fnew&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#@Vip_Security join us - 1229
+vless://783164cb-6410-4a96-e432-832489e4848c@ec71.kiava.fun:8443?security=reality&encryption=none&pbk=fud6PNbWSTSp5vxXftbyG5KOW5pJUj7tGSXOfdf9WgY&headerType=none&fp=chrome&spx=%2Fnew&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#@Vip_Security join us - 1228

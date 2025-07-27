@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://783164cb-6410-4a96-e432-832489e4848c@ec71.kiava.fun:8443?security=reality&encryption=none&pbk=fud6PNbWSTSp5vxXftbyG5KOW5pJUj7tGSXOfdf9WgY&headerType=none&fp=chrome&spx=%2Fnew&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#@Vip_Security join us - 1228
 vless://783164cb-6410-4a96-e432-832489e4848c@ec7.kiava.fun:8443?security=reality&encryption=none&pbk=tWLVjgKzd4LB_5NohEDv7RL-av-6C0WRrkCZYV1M1wE&headerType=none&fp=chrome&spx=%2Fnew&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#@Vip_Security join us - 1227
 vless://783164cb-6410-4a96-e432-832489e4848c@ec6.kiava.fun:8443?security=reality&encryption=none&pbk=kvVodgenUZ70nxEOg6KYsott2_31awiFzoWXxyBk_UA&headerType=none&fp=chrome&spx=%2Fnew&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#@Vip_Security join us - 1226
 vless://783164cb-6410-4a96-e432-832489e4848c@ec5.kiava.fun:8443?security=reality&encryption=none&pbk=bX1haHlvshTK8EwCtDuSsgOb_W1KANfYyN8rUfaWFjY&headerType=none&fp=chrome&spx=%2Fnew&type=tcp&flow=xtls-rprx-vision&sni=coinmarketcap.com&sid=5e#@Vip_Security join us - 1225
@@ -702,3 +701,4 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?path=%2Fproxyip%
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2F%3FJOKERRVPN_BIA_CHANEL%40JOKERRVPN#@Vip_Security join us - 531
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#@Vip_Security join us - 530
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 529
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http%2F1.1&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#@Vip_Security join us - 528
