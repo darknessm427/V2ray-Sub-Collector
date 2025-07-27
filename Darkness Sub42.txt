@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://72dc074b-91ed-4564-9424-cd14652c1743@tak.blushop1403.info:33326?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@Vip_Security join us - 1101
-vless://72cab8fc-9392-4acd-b964-e4ba0524fb8e@104.21.7.235:2087?path=%2F%2CTelegram%3A%40@Vip_Security join us - 1100
-vless://71f0b464-a73e-4552-8758-c5c204bdfb45@79.127.69.118:2344?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@Vip_Security join us - 1099
 vless://71ed934c-8219-44d0-fad0-415363eba71d@prod-cloud-lb01-pac01.cyberscaler.com:20911?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 1098
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@69.84.182.1:443?path=%2Fyoulingkaishi&security=tls&encryption=none&host=vbbc.ylks2024.us.kg&type=ws&sni=vbbc.ylks2024.us.kg#@Vip_Security join us - 1097
 vless://71dce9af-d790-4b38-a1fd-7745e0923bd3@104.21.16.169:443?encryption=none&security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir2.marol78205.workers.dev&path=-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047#@Vip_Security join us - 1096
@@ -702,3 +699,6 @@ vless://2b854bf3-a8a2-4d90-9a1c-6b7f88835b10@speedtest.net:80?mode=auto&path=%2F
 vless://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088?security=reality&encryption=none&pbk=enVCnAoXILJUvAvwx8GNVOImPYFm3Jo-UHYHOlbDZW4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=learn.microsoft.com&sid=63cace289fb97072#@Vip_Security join us - 404
 vless://2b5feae8-1a36-43cd-a722-83522e34853c@57.128.178.253:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&type=tcp&sni=en.linceedab.com#@Vip_Security join us - 403
 vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@172.67.216.166:2095?encryption=none&security=none&type=ws&host=workerr.dimon22287.workers.dev&path=%2F%3Fed%3D2048#@Vip_Security join us - 402
+vless://2b3570bd-6f48-4c31-a904-0582e0b2e499@188.245.220.115:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#@Vip_Security join us - 401
+vless://2afe3271-8dd4-435c-a699-1150077b14e8@185.146.173.58:8880?path=%2F%3Fed%3D2048%2Ftelegram%40v2ray_alpha%2Fvless&security=none&encryption=none&host=4545.Need10sPeeD.iR.&type=httpupgrade#@Vip_Security join us - 400
+vless://2aa80173-4cf7-4165-8689-6ce3caf6b28e@nginx.avaaaal.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=amindc.ir&type=xhttp#@Vip_Security join us - 399

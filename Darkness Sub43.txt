@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://2b3570bd-6f48-4c31-a904-0582e0b2e499@188.245.220.115:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#@Vip_Security join us - 401
-vless://2afe3271-8dd4-435c-a699-1150077b14e8@185.146.173.58:8880?path=%2F%3Fed%3D2048%2Ftelegram%40v2ray_alpha%2Fvless&security=none&encryption=none&host=4545.Need10sPeeD.iR.&type=httpupgrade#@Vip_Security join us - 400
-vless://2aa80173-4cf7-4165-8689-6ce3caf6b28e@nginx.avaaaal.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=amindc.ir&type=xhttp#@Vip_Security join us - 399
 vless://2a800382-5878-4b1a-96a2-c5d8af844530@join.unlimiteddev.fastly80-3.hosting-ip.com:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=none#@Vip_Security join us - 398
 vless://2a478693-a06c-4191-999e-0bc05aac64bb@ww.speedxpn.sedanor.ir:2052?type=grpc&serviceName=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048&authority=&security=none#@Vip_Security join us - 397
 vless://2a478693-a06c-4191-999e-0bc05aac64bb@ww.speedxpn.sedanor.ir:2052?mode=gun&security=none&encryption=none&type=grpc&serviceName=%2F%40%58pnTeam%2F%40%58pnTeam%2F%40XpnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40%58pnTeam%2F%40XpnTeam%3Fed%3D2048#@Vip_Security join us - 396
@@ -702,3 +699,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@43.199.75.50:8316#@Vip
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@43.199.75.50:8313#@Vip_Security join us - 433
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@216.238.94.171:8313#@Vip_Security join us - 432
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@207.246.117.20:8313#@Vip_Security join us - 431
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@192.248.186.146:8313#@Vip_Security join us - 430
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@183.236.97.19:54602#@Vip_Security join us - 429
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@183.236.97.19:54203#@Vip_Security join us - 428
