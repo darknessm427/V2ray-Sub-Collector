@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://b1f58d90-e65f-4566-91f3-1b96e9a68619@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Vip_Security join us - 1995
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68618@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Vip_Security join us - 1994
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68617@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Vip_Security join us - 1993
 vless://b1f58d90-e65f-4566-91f3-1b96e9a68616@Speedtest.net:80?path=/@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--@Digiv2ray--%3Fed%3D2048&security=none&encryption=none&host=JoiIInNn--DIgiv2Ray.Ir.&type=ws#@Vip_Security join us - 1992
@@ -702,3 +701,4 @@ vless://7c05cbda-3034-4b0d-8e76-eee13986b3de@mmdamin.2.dragonspeed.top:5701?secu
 vless://7be30ab7-2077-4115-f6cb-125226afd3c9@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN%3Fed%3D8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#@Vip_Security join us - 1298
 vless://7bda027c-cbc8-488f-864f-cfb415cd8d77@unique.bitiboot.com:443?security=reality&encryption=none&pbk=q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=40e3350da285#@Vip_Security join us - 1297
 vless://7bda027c-cbc8-488f-864f-cfb415cd8d77@157.173.127.227:443?security=reality&encryption=none&pbk=q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=40e3350da285#@Vip_Security join us - 1296
+vless://7bd338e7-703e-4310-9871-78393a40d483@193.238.153.70:11044?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 1295
