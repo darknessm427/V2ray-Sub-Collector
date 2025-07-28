@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://75fde681-ec64-4654-86fa-30732e8e179c@162.159.129.11:443?path=%2Fassets&security=tls&encryption=none&host=NGINX.NSCl.IR&fp=random&type=ws&sni=NGINX.NSCl.IR#@Vip_Security join us - 1216
-vless://75fde681-ec64-4654-86fa-30732e8e179c@162.159.129.11:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@Vip_Security join us - 1215
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&encryption=none&host=NGINX.NSCl.IR&fp=chrome&type=ws&sni=NGINX.NSCl.IR#@Vip_Security join us - 1214
-vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@Vip_Security join us - 1213
 vless://75f66308-eb61-418f-a0f0-3fe8d6158999@zmaoz.faculty.ucdavis.edu:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@Vip_Security join us - 1212
 vless://75f66308-eb61-418f-a0f0-3fe8d6158999@speedtest.net:80?encryption=none&security=none&type=ws&host=foffmelo.com&path=%2Folem%2Fws%3Fed%3D1024#@Vip_Security join us - 1211
 vless://75ecef77-2050-4250-99f7-936d0188edf2@151.101.2.133:80?path=%2Fws%2F%3Fed&security=none&encryption=none&host=xasshsga---RUBIKA.ir.speedtest.net.ARCHYU.IR&type=ws#@Vip_Security join us - 1210
@@ -702,3 +698,7 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.64.151.232:443?encryption=none&
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@160.153.0.32:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 519
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 518
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F&security=tls&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 517
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 516
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?path=%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=randomized&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@Vip_Security join us - 515
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net%2FV2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS#@Vip_Security join us - 514
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2F#@Vip_Security join us - 513

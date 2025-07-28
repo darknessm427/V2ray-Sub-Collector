@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://ac5ef6ff-4df5-4615-8e8b-3819497f5776@138.199.232.232:443?security=reality&encryption=none&pbk=15VSj5bGCGemmifDA6IfLCz8deqBcvaI7SRZFd2bUBQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=direct.psnapptapsi.ir&sid=ec7d25#@Vip_Security join us - 1916
-vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=tgju.org&sid=e701a013553059ba#@Vip_Security join us - 1915
-vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all2.sdcards1.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=e701a013553059ba#@Vip_Security join us - 1914
-vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 1913
 vless://abcdf5d9-d08a-4d23-8e63-dee8d85c76cc@lessless.duckdns.org:443?type=ws&path=%2Fgetupdates&host=lessless.duckdns.org&security=tls#@Vip_Security join us - 1912
 vless://ab9e2bad-bcf0-43e0-9671-3ec504f0d1a3@151.101.69.48:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=Zedmodeonjoinyour-name.global.ssl.fastly.net&type=xhttp#@Vip_Security join us - 1911
 vless://ab80613b-e04b-4af5-bad9-9ca5c448266e@compose.fast.hosting-ip.com:80?mode=auto&path=%2FGoodLuck%3Fed%3D2560&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=Mastercloud.global.ssl.fastly.net.&type=xhttp#@Vip_Security join us - 1910
@@ -702,3 +698,7 @@ vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2F&security=t
 vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?path=%2F&security=tls&alpn=h3&encryption=none&host=nginx-z.pages.dev&type=ws&sni=NGINX-Z.pages.DEV#@Vip_Security join us - 1219
 vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&security=tls&encryption=none&host=NGINX.NSCl.IR&fp=chrome&type=ws&sni=NGINX.NSCl.IR#@Vip_Security join us - 1218
 vless://75fde681-ec64-4654-86fa-30732e8e179c@172.67.92.147:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@Vip_Security join us - 1217
+vless://75fde681-ec64-4654-86fa-30732e8e179c@162.159.129.11:443?path=%2Fassets&security=tls&encryption=none&host=NGINX.NSCl.IR&fp=random&type=ws&sni=NGINX.NSCl.IR#@Vip_Security join us - 1216
+vless://75fde681-ec64-4654-86fa-30732e8e179c@162.159.129.11:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@Vip_Security join us - 1215
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&encryption=none&host=NGINX.NSCl.IR&fp=chrome&type=ws&sni=NGINX.NSCl.IR#@Vip_Security join us - 1214
+vless://75fde681-ec64-4654-86fa-30732e8e179c@104.16.243.59:443?path=%2Fassets&security=tls&alpn=h3&encryption=none&host=nginx.nscl.ir&type=ws&sni=NGINX.NSCl.IR#@Vip_Security join us - 1213
