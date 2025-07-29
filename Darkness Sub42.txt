@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2FJOKERRVPNTELEGRAM----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN----%40JOKERRVPN%3Fed%3D2560&security=tls&encryption=none&host=my.digikala.dynv6.net&type=ws&sni=my.digikala.dynv6.net#@Vip_Security join us - 1007
 vless://6bcb4f37-bba7-4ae0-afac-d43195c72c12@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=my.digikala.dynv6.net&type=ws&sni=my.digikala.dynv6.net#@Vip_Security join us - 1006
 vless://6b764d0f-0670-49c2-84d2-0a345482ea78@91.107.166.105:43937?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 1005
 vless://6b6e7ff7-02e8-4800-981b-4a61acaa46b2@91.107.131.168:443?encryption=none&security=tls&sni=mw12.asalemaraghe.ir&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&host=mw12.asalemaraghe.ir&path=%2F#@Vip_Security join us - 1004
@@ -701,4 +702,3 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=MkS1mYeRw9.SaLaMgOjAi09-2.InFo&type=ws&sni=MkS1mYeRw9.SaLaMgOjAi09-2.InFo#@Vip_Security join us - 310
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=IwMtG3eIoM.vPbEtHoRvP002.iNfO&type=ws&sni=IwMtG3eIoM.vPbEtHoRvP002.iNfO#@Vip_Security join us - 309
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2F&security=tls&encryption=none&host=22Jr7V359r.SaLaMgOjAi09-2.InFo&type=ws&sni=22Jr7V359r.SaLaMgOjAi09-2.InFo#@Vip_Security join us - 308
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=Nk3WuWhCd5.SaLaMgOjAi09-2.InFo&type=ws&alpn=h3h2&host=Nk3WuWhCd5.SaLaMgOjAi09-2.InFo&path=/#@Vip_Security join us - 307
