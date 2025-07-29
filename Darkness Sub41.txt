@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://aee7f4dd-1505-4efe-a081-199a3d9b7b97@www.speedtest.net:80?path=%2FELENaTheGreatDictator----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY----ELiV2RAY%3Fed%3D2560&security=none&encryption=none&host=pamchall.com.&fp=randomized&type=ws&sni=pAmchALL.COm.#@Vip_Security join us - 1816
 vless://aebb56af-a960-4774-b23c-e21c2e75751f@mci-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@iTV2RAY:تلگرام&sni=tm.iTV2RAY.lol#@Vip_Security join us - 1815
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&type=tcp#@Vip_Security join us - 1814
 vless://ae9539b5-70dd-41b5-9666-11a29559a840@84.47.233.110:59761?security=none&encryption=none&host=Fast.com&headerType=http&fp=chrome&type=tcp#@Vip_Security join us - 1813
@@ -701,4 +702,3 @@ vless://7585f059-2c89-4a02-9dff-394bb7913ef5@104.19.223.79:2096?path=%2F&securit
 vless://756faf87-c6b2-404f-851f-91de98186531@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=ALERt-PrOPerty.OnEEAT.CO&type=ws#@Vip_Security join us - 1119
 vless://75698d2b-62b2-406a-aa0b-6738fe12e73f@95.164.16.166:2087?security=reality&encryption=none&pbk=UmfiIOjfgdKF7C2cWhO-rzHeKHHxONToNSjTNpilA00&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=www.cdn77.com&sid=34f2#@Vip_Security join us - 1118
 vless://755d5374-7048-4d6f-d428-3f9fde250d69@85.90.207.183:33009?security=none&encryption=none&type=ws#@Vip_Security join us - 1117
-vless://752811df-c191-4f5f-acaa-ce6399a22024@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=%2Flpiipkws&security=tls&encryption=none&host=638879413057214934.kish-prx-dnraaad.info&type=ws&sni=638879413057214934.kish-prx-dnraaad.info#@Vip_Security join us - 1116
