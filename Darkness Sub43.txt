@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://2b854bf3-a8a2-4d90-9a1c-6b7f88835b10@speedtest.net:80?mode=auto&path=%2F@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF-@iP_CF%3Fed%3D2048&security=&encryption=none&host=ip_cf001.global.ssl.fastly.net&type=xhttp#@Vip_Security join us - 415
+vless://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088?security=reality&encryption=none&pbk=enVCnAoXILJUvAvwx8GNVOImPYFm3Jo-UHYHOlbDZW4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=learn.microsoft.com&sid=63cace289fb97072#@Vip_Security join us - 414
+vless://2b5feae8-1a36-43cd-a722-83522e34853c@57.128.178.253:443?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&type=tcp&sni=en.linceedab.com#@Vip_Security join us - 413
 vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@172.67.216.166:2095?encryption=none&security=none&type=ws&host=workerr.dimon22287.workers.dev&path=%2F%3Fed%3D2048#@Vip_Security join us - 412
 vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@172.67.216.166:2086?encryption=none&security=none&type=ws&host=workerr.dimon22287.workers.dev&path=%2F%3Fed%3D2048#@Vip_Security join us - 411
 vless://2b3570bd-6f48-4c31-a904-0582e0b2e499@188.245.220.115:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=e54b5ad736ae4c38#@Vip_Security join us - 410
@@ -699,6 +702,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#@Vip_Security join us - 466
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvUFZvZUFPNE1CNTRMN01MczJza2RY@94.131.3.203:45230#@Vip_Security join us - 465
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSjd4blVrbkV1TVNjTTIxY2xDeUVpdDY2SlJobVpyQXJSU0UweGVhcEdSMjRIcUg%3D@89.44.197.181:31348#@Vip_Security join us - 464
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMkw5MlJzOEd4ODFFRVZCaFlFSHVP@62.210.88.22:443#@Vip_Security join us - 463
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuYXA5UDRnOFNMTFptQnZZYzhKbEtl@h110vpnch.outlinekeys.net:4248#@Vip_Security join us - 462
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptenlZcmlQWVluQ1dEeG95@52.237.155.68:443#@Vip_Security join us - 461
