@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.162.95:80?security=reality&encryption=none&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&headerType=none&fp=chrome&type=tcp&sni=zula.ir&sid=94aa1bdc#@Vip_Security join us - 2454
-vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.160.224:80?security=none&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#@Vip_Security join us - 2453
-vless://eefcf749-fcfc-4321-b974-2828d4acb15c@ger.r8volt.com:2096?security=reality&encryption=none&pbk=GWLTRxw3B1iy29ZW4SqQH113-Gjup6-4vkOMksfEHB0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=spiegel.de&sid=0d8de1aa#@Vip_Security join us - 2452
 vless://eeba6be8-92ad-48e1-a2e3-07cdeb425359@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=none&encryption=none&host=ping.amirhossein.info&type=ws#@Vip_Security join us - 2451
 vless://ee62d09e-caff-4a4a-9d87-9cc72d8e7a9c@server-farna1.anush.top:2087?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 2450
 vless://ee091af5-83cc-445c-9ced-79a65a8f9a40@173.245.49.64:80?path=%2FJfDhd3XZsdZ97Ign&security=none&encryption=none&host=rbL7Rav8d8.diamondgalery.ir&type=httpupgrade#@Vip_Security join us - 2449
@@ -702,3 +699,6 @@ vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?type=ws&path=%2Folem%2F
 vless://a9c9c197-c626-4667-f219-1575f26715ac@chat.deepseek.com:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@Vip_Security join us - 1757
 vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#@Vip_Security join us - 1756
 vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@104.18.218.118:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#@Vip_Security join us - 1755
+vless://a943a9e0-792e-4efe-af1e-54751a44fef8@95.164.17.75:443?security=reality&encryption=none&pbk=pasVbAjcNpjQvgsHBN_WKxQPXwNdXsI4nXYC1usoV0s&fp=firefox&spx=%2F&type=grpc&serviceName=Telegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry&sni=ftp.debian.org&sid=df#@Vip_Security join us - 1754
+vless://a90e3756-d330-4597-bcc3-ab7905741e52@86.104.72.211:32401?security=reality&encryption=none&pbk=8RJPuc5C7fcVe5LSQ0olGnhiqFL8LX-0pnLMrEHD1Bs&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=7fb7a1507826c540#@Vip_Security join us - 1753
+vless://a8c69dd7-9d17-436e-b9ed-383846dbfbdf@cookies.oops.wtf:43774?type=tcp&security=reality&pbk=ZLAYpx5wkCanyDNjQO_-7kwg0K5e728t2FPD9fSZ4VE&fp=random&sni=tutu.ru&sid=b9a9aba39ba5ab&spx=%2F&flow=xtls-rprx-vision#@Vip_Security join us - 1752
