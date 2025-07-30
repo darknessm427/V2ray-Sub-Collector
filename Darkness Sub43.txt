@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.203.193:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 228
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 227
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.194.54:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@Vip_Security join us - 226
 vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.192.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 225
@@ -702,3 +701,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXUkFLTnlnNjcxdDFqdGhTaDBsV3NU@77.221.147.177
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@www.outline.network.ak1887.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443#@Vip_Security join us - 290
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#@Vip_Security join us - 289
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@85.210.218.168:443#@Vip_Security join us - 288
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@74.177.140.41:443#@Vip_Security join us - 287
