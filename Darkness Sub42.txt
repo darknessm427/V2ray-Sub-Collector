@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://13dea011-7fe6-43db-a0cb-e9661cd86b25@0ost.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#@Vip_Security join us - 189
 vless://13aab6b3-d6a8-4592-9bf8-e792b3a9fa3a@food4.hamrahconfig.com:80?path=%2Fdownload&security=none&encryption=none&host=test.shop&type=ws#@Vip_Security join us - 188
 vless://13aab6b3-d6a8-4592-9bf8-e792b3a9fa3a@food2.hamrahconfig.com:80?path=%2Fdownload&security=none&encryption=none&host=speedfastly.net&type=ws#@Vip_Security join us - 187
 vless://13a894b0-e414-5459-a0fa-9309209c386b@185.113.139.103:443?path=%2Fvless&security=tls&encryption=none&host=185.113.139.103&fp=chrome&type=ws&sni=185.113.139.103#@Vip_Security join us - 186
@@ -701,4 +702,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg%3D%3D@45.140.167.94:8388#@Vip_Security join us - 222
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV1l5Tg%3D%3D@85.209.158.11:8388#@Vip_Security join us - 221
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRGMxWQ==@194.55.137.16:8388#@Vip_Security join us - 220
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#@Vip_Security join us - 219

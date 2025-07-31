@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://MdVpnSec@www.parsvds.ir:80?path=MDVPNSEC%3Fed%3D80&security=none&encryption=none&host=MDvpnsec-mdVPNSEC-MDvpnsec.joinTELEGRAM.net.&type=ws#@Vip_Security join us - 1589
 vless://ItsLegendaryking@pub2.legendaryking.link:443?security=reality&sni=fortune.com&fp=chrome&pbk=8UMZ6q74yjStq0Gad3QhEVYUZW3traIgWx9QWHpYLBI&sid=e1ac93f1&spx=/&type=grpc&serviceName=Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers-Telegram:@LegenderY_Servers&encryption=none#@Vip_Security join us - 1588
 vless://I_Love_🇵🇸_sshOcean_d538@[0:0:0:0:0:ffff:5fa4:2e27]:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=zula.ir#@Vip_Security join us - 1587
 vless://I_Love_🇵🇸_SSHMax_e22756c@[0:0:0:0:0:ffff:b078:4011]:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=zula.ir#@Vip_Security join us - 1586
@@ -701,4 +702,3 @@ vless://59387f1f-03bf-48c6-8363-0d34986413a3@91.107.146.208:13304?security=none&
 vless://59260bc4-8672-4573-b805-a372efc200b8@germany1.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=iranvpn.com.&type=ws#@Vip_Security join us - 892
 vless://590dfbde-f8c8-429b-b947-39bb767ddd9c@104.24.87.230:80?path=%2F%3Fed%3D2560&security=&encryption=none&host=square-moon-bc81-ppal03.tivere6418.workers.dev&type=ws#@Vip_Security join us - 891
 vless://58e5e0f1-1702-430e-8046-59dc971dd035@188.166.191.225:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=epcgame.com#@Vip_Security join us - 890
-vless://58de3f39-da48-4fb6-8871-db59405f13b8@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 889

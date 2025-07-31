@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.78:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2289
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2288
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.179:8880/?type=grpc&encryption=none&flow=#@Vip_Security join us - 2287
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.176:8880?security=&sni=pqh32v6.film32western.shop&type=grpc&encryption=none#@Vip_Security join us - 2286
@@ -701,4 +702,3 @@ vless://Parsashonam-114@185.146.173.39:8880?path=%2F&security=none&encryption=no
 vless://MsV2ray-Telegram@www.speedtest.net:80?type=httpupgrade&host=http-fast-de-speedtest.xqfactor.ir.&path=/MsV2ray?ed%3D80&security=none#@Vip_Security join us - 1592
 vless://MsV2ray-Telegram@www.speedtest.net:80?path=%2FMsV2ray%3Fed%3D80&security=none&encryption=none&host=http-fast-de-speedtest.xqfactor.ir.&type=httpupgrade#@Vip_Security join us - 1591
 vless://MsV2ray-Telegram@104.17.148.22:80?path=%2FMsV2ray%3Fed%3D80&security=none&encryption=none&host=http-fast-de-speedtest.xqfactor.ir.&type=httpupgrade#@Vip_Security join us - 1590
-vless://MdVpnSec@www.parsvds.ir:80?path=MDVPNSEC%3Fed%3D80&security=none&encryption=none&host=MDvpnsec-mdVPNSEC-MDvpnsec.joinTELEGRAM.net.&type=ws#@Vip_Security join us - 1589
