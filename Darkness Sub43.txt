@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://0c5d51cd-14af-da89-975d-99bd7a60d762@shop.fox-11-fox.com:2052?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 164
-vless://0c594034-4210-49c0-99ab-b52ec0df0f6c@test.fast.hosting-ip.com:80?mode=auto&path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=none&encryption=none&host=shabejome.com&type=xhttp#@Vip_Security join us - 163
-vless://0c4a9085-2207-4ba5-93e0-7edfedfbc7d3@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 162
-vless://0c08c939-07e7-432a-bedd-6272447caa63@cell.hardtofind.42web.io:53450?type=tcp&security=reality&pbk=eXDnYeigaB8ae7VmipGACoD_A2WGf3aOu2O2GJ2oiCE&fp=random&sni=yahoo.com&sid=d6224cacf6&spx=%2F&flow=xtls-rprx-vision#@Vip_Security join us - 161
-vless://0bf64a11-649e-49e8-8caa-6feb8e13773d@64.225.94.56:5959?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 160
 vless://0bf5e4dc-bde9-41bb-b41b-67b78d7c056d@shhproxy.varzesh3-cnd.site:80?path=%2F%3Fed%3D2048&security=none&encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&host=SHHPROXY-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&type=ws#@Vip_Security join us - 159
 vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?mode=gun&security=reality&encryption=none&pbk=MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw&fp=randomized&type=grpc&serviceName=Telegram%3A%40@Vip_Security join us - 158
 vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?mode=gun&security=reality&encryption=none&pbk=MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram%3A%40@Vip_Security join us - 157
@@ -702,3 +697,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDbGZ4VWhnVHhsdlgtcTlfTzJuMFRn@157.180.23.150
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDZkwxSmpRaTA2ZXJGZW9mb2hMWkhN@40.114.198.63:55630#@Vip_Security join us - 188
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDTHBoeUVNUVQ4bmJHOEVJbVgwQTJE@5.35.47.122:45635#@Vip_Security join us - 187
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDLzZNTnZnNDN6RWRubWo2eks1TUFyQUxUZnpoRVRSRDNOekxOVCtJTDk4PQ==@157.180.127.73:23819#@Vip_Security join us - 186
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDLzZNTnZnNDN6RWRubWo2eks1TUFyQUxUZnpoRVRSRDNOekxOVCtJTDk4PQ==@157.180.127.73:17592#@Vip_Security join us - 185
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDLzZNTnZnNDN6RWRubWo2eks1TUFyQUxUZnpoRVRSRDNOekxOVCtJTDk4PQ%3D%3D@157.180.127.73:23819#@Vip_Security join us - 184
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDLzZNTnZnNDN6RWRubWo2eks1TUFyQUxUZnpoRVRSRDNOekxOVCtJTDk4PQ%3D%3D@157.180.127.73:17592#@Vip_Security join us - 183
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#@Vip_Security join us - 182
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.samanehha.co:443#@Vip_Security join us - 181
