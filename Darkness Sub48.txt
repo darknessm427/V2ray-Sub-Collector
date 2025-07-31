@@ -2,5 +2,4 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1ZnQHNlcmllcy1hMi5zYW1hbmVoaGEuY286NDQz#🔥Join+Telegram:@Farah_VPN🟣
 
