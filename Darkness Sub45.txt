@@ -2,12 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.56.112:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&type=ws#@Vip_Security join us - 199
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.136.116:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&type=ws#@Vip_Security join us - 198
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.132.185:80?path=%2F%3Fed%3D2568&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&type=ws#@Vip_Security join us - 197
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40vpnserverrr&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@Vip_Security join us - 196
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%40BIA_CHANEL%40RK_VPS&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#@Vip_Security join us - 195
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#@Vip_Security join us - 194
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@Vip_Security join us - 193
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560%2F%3FBIA_CHANEL%40RK_VPS&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=random&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@Vip_Security join us - 192
 vless://14628%659d-7005-4178-d%653%65-69b8d16b23%658@31.58.144.49:6666?mode=gun&security=none=/@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray&encryption=none&type=grpc&serviceName=%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy%2F%40B%69n%65%78%54%69Fy#@Vip_Security join us - 191
@@ -702,3 +696,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY3gzZG9TS0V5b2I2eUEwQ0t5RmdX@91.132.196.176
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOVFUxTQ%3D%3D@uk.opensocks.site:8388#@Vip_Security join us - 228
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOTWlKS2VoNHlNdW1meVlWdmpxMExS@45.150.32.13:38707#@Vip_Security join us - 227
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOR1ExWQ==@194.124.250.4:8388#@Vip_Security join us - 226
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOQzdqT1JWTnJydVYvKzMrUHdPSnJubk9lRzduNzVYMQ==@89.19.216.18:8388#@Vip_Security join us - 225
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMlZoTkRRMg%3D%3D@45.140.167.94:8388#@Vip_Security join us - 224
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV1l5Tg%3D%3D@85.209.158.11:8388#@Vip_Security join us - 223
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNRGMxWQ==@194.55.137.16:8388#@Vip_Security join us - 222
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNREpoWkdFNQ==@95.164.35.90:8388#@Vip_Security join us - 221
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNLW5mZk80MEtsY2x3YkNYOUNWMURR@138.124.115.157:1080#@Vip_Security join us - 220
