@@ -2,6 +2,7 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://9d22dd97-583f-49c1-9c09-c8cab019f176@151.101.69.63:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=&encryption=none&host=Zedmodeonjoininyour-name.global.ssl.fastly.net&type=xhttp#@Vip_Security join us - 1497
 vless://9d22dd97-583f-49c1-9c09-c8cab019f176@151.101.59.221:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=Zedmodeonjoininyour-name.global.ssl.fastly.net&type=xhttp#@Vip_Security join us - 1496
 vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@192.200.160.17:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xiazitong.zone.id&type=ws&sni=a.xiazitong.zone.id#@Vip_Security join us - 1495
 vless://9cf8d292-153b-4bb9-87fc-1a48907dfda9@185.146.173.94:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xiazitong.zone.id&type=ws&sni=a.xiazitong.zone.id#@Vip_Security join us - 1494
@@ -701,4 +702,3 @@ vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server514991469813933273.tas-bazi.c
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server514991469813933273.tas-bazi.com:443?encryption=none&security=none&type=xhttp&path=%2Ffrf&mode=stream-one#@Vip_Security join us - 800
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server271816966957306554.tas-bazi.com:443?mode=stream-one&path=%2Ffrf&security=none&encryption=none&type=xhttp#@Vip_Security join us - 799
 vless://524ef193-d0ee-4f6b-bf0b-1ab15a76cc9a@europeless.duckdns.org:443?type=ws&path=%2Fgetupdates&host=europeless.duckdns.org&security=tls#@Vip_Security join us - 798
-vless://52395e5e-40db-4c24-c32e-57954697f906@218.33.84.142:26518?security=reality&encryption=none&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&headerType=none&fp=chrome&type=tcp&sni=www.lovelive-anime.jp#@Vip_Security join us - 797
