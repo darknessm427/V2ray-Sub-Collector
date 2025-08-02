@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://e2d6455c-9846-4502-8394-16b8c1c07b68@188.114.96.3:443?path=%2Forib1trrdqo8xqma%3Fed%3D2560fp%3Dchrome&security=tls&encryption=none&host=GrOUPyoUnEs.PAGEs.DEv&type=ws&sni=GrOUPyoUnEs.PAGEs.DEv#@Vip_Security join us - 2283
+vless://e2d6455c-9846-4502-8394-16b8c1c07b68@172.66.47.25:443?path=%2F&security=tls&encryption=none&host=GrOupYOUNeS.PAGes.DEV&type=ws&sni=GrOupYOUNeS.PAGes.DEV#@Vip_Security join us - 2282
 vless://e2c0a0ac-0270-4ebc-acbd-75df71153b0e@104.21.43.168:443?path=%2FbDUGlAj9BFG7zebG%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=2.lINK-KoN.IR&fp=randomized&type=ws&sni=2.link-kon.ir#@Vip_Security join us - 2281
 vless://e2a2ba4b-8e69-449f-907f-21e5b1df27e4@Anony.freaky.gg-moviz.com:42852?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 2280
 vless://e28cf77c-be33-4f99-be90-54b90994b4a8@activeservice.mispd.ir:443?security=reality&encryption=none&pbk=NVOzqrT9fAAQzV1t5AQQMgQ-Q4y_Szgyxe14qG3rMS0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=16c0b704e4#@Vip_Security join us - 2279
@@ -700,5 +702,3 @@ vless://I_Love_🇵🇸_SSHMax_e22756c@[0:0:0:0:0:ffff:b078:4011]:443?mode=gun&s
 vless://I_Love_🇵🇸_SSHMax_b716c16@[0:0:0:0:0:ffff:05b5:1743]:443?mode=gun&security=tls&encryption=none&authority=&type=grpc&serviceName=vless-grpc&sni=zula.ir#@Vip_Security join us - 1586
 vless://ID-ViraV2ray-8111@37.230.48.111:2053?type=xhttp&path=www.leader.ir%2Ffa%2Faccount%2Flogin%2FViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%3Fed%3D2096&host=&mode=auto&security=reality&pbk=nB_zw6nJcttVzmQIDPGaN7JqMFW5qr9VqvAOwiKfEgo&fp=firefox&sni=refersion.com&sid=01c9d37fdbb3d2c6&spx=/#@Vip_Security join us - 1585
 vless://ID-ViraV2ray-7979@37.230.48.111:2053?type=xhttp&path=www.leader.ir%2Ffa%2Faccount%2Flogin%2FViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%3Fed%3D2096&host=&mode=auto&security=reality&pbk=nB_zw6nJcttVzmQIDPGaN7JqMFW5qr9VqvAOwiKfEgo&fp=firefox&sni=refersion.com&sid=01c9d37fdbb3d2c6&spx=/#@Vip_Security join us - 1584
-vless://ID-ViraV2ray-7289@ViraV2ray.ViraV2ray.ViraV2ray.ViraV2ray.ViraV2ray.fastly80.hosting-ip.com:80?security=none&type=ws&path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D443&host=telegram-id-ViraV2ray.com&encryption=none#@Vip_Security join us - 1583
-vless://ID-ViraV2ray-7281@37.230.48.111:2053?type=xhttp&path=www.leader.ir%2Ffa%2Faccount%2Flogin%2FViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%2CViraV2ray%3Fed%3D2096&host=&mode=auto&security=reality&pbk=nB_zw6nJcttVzmQIDPGaN7JqMFW5qr9VqvAOwiKfEgo&fp=firefox&sni=refersion.com&sid=01c9d37fdbb3d2c6&spx=/#@Vip_Security join us - 1582
