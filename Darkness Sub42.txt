@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638723765344749214.amsterdam-blk-dra.info:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2216
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.173.104:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#@Vip_Security join us - 2215
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@5.199.169.208:8880?security=&type=grpc&encryption=none#@Vip_Security join us - 2214
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2213
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#@Vip_Security join us - 2212
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2211
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=&encryption=none&type=grpc#@Vip_Security join us - 2210
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#@Vip_Security join us - 2209
@@ -702,3 +697,8 @@ vless://9e2e9775-3156-471c-8f00-8a8c2d8f1358@www.speedtest.net:2095?path=%2Fhajm
 vless://9e2e9775-3156-471c-8f00-8a8c2d8f1358@91.99.181.7:443?mode=auto&security=reality&encryption=none&pbk=MvHAa605zfOrBe-SDP6_ytTmotBw39f6OefvXn2DZhk&host=tgju.org&fp=firefox&spx=%2F&type=xhttp&sni=tgju.org&sid=89a9e21076b66a13#@Vip_Security join us - 1519
 vless://9e2e9775-3156-471c-8f00-8a8c2d8f1358@104.26.6.89:443?path=%2Fhajmi%3Fed%3D2050&security=tls&encryption=none&fp=chrome&type=ws&sni=nb-de.parsdl.xyz#@Vip_Security join us - 1518
 vless://9e1fd125-50f8-4c6e-89b6-dc2fde694f2e@f1wvx8ptbch8eckz.root.sx:53450?type=tcp&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=f1wvx8ptbch8eckz.root.sx&flow=xtls-rprx-vision#@Vip_Security join us - 1517
+vless://9e1c4dda-0ebb-43bb-8136-cd1cf5a84601@karmavpn.netmeli.com:33727?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 1516
+vless://9e0af40e-b2c6-4634-a79a-1554efd60093@iTV2RAY.ddns.net:666?mode=gun&security=reality&encryption=none&pbk=fKCqvEzVLiU1zAkzclsSQAJZCbHQoLhpu-RKnpMZgnk&fp=chrome&spx=%2FiTV2RAY&type=grpc&serviceName=@iTV2RAY&sni=www.speedtest.net&sid=767543c7#@Vip_Security join us - 1515
+vless://9e0617cb-236b-4bf9-a163-23c0a884e33e@ayna.com:443?path=%2FVLESS%2Ffr-freevmess.privateip.net&security=tls&encryption=none&alpn=http/1.1&host=yelan.thelastronin.cloudns.org&fp=randomized&type=ws&sni=yelt88rxdan.thelastronin.cloudns.org#@Vip_Security join us - 1514
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.214.242:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#@Vip_Security join us - 1513
+vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.213.119:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#@Vip_Security join us - 1512

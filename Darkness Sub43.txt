@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://9e1c4dda-0ebb-43bb-8136-cd1cf5a84601@karmavpn.netmeli.com:33727?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 1516
-vless://9e0af40e-b2c6-4634-a79a-1554efd60093@iTV2RAY.ddns.net:666?mode=gun&security=reality&encryption=none&pbk=fKCqvEzVLiU1zAkzclsSQAJZCbHQoLhpu-RKnpMZgnk&fp=chrome&spx=%2FiTV2RAY&type=grpc&serviceName=@iTV2RAY&sni=www.speedtest.net&sid=767543c7#@Vip_Security join us - 1515
-vless://9e0617cb-236b-4bf9-a163-23c0a884e33e@ayna.com:443?path=%2FVLESS%2Ffr-freevmess.privateip.net&security=tls&encryption=none&alpn=http/1.1&host=yelan.thelastronin.cloudns.org&fp=randomized&type=ws&sni=yelt88rxdan.thelastronin.cloudns.org#@Vip_Security join us - 1514
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.214.242:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#@Vip_Security join us - 1513
-vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.213.119:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#@Vip_Security join us - 1512
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@65.109.190.180:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#@Vip_Security join us - 1511
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@206.189.22.204:443?encryption=none&security=reality&sni=&type=xhttp&alpn=&host=&path=#@Vip_Security join us - 1510
 vless://9e003436-1354-4510-8dd6-5834dc1e7829@173.208.51.17:55778?encryption=none&security=reality&sni=&type=tcp&alpn=&host=&path=#@Vip_Security join us - 1509
@@ -702,3 +697,8 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.32.1:80?path=%2Fvpnowl-vpnow
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.21.32.1:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8.redorg1.ir&type=ws#@Vip_Security join us - 819
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?security=&type=ws&path=/LwW5jwrnymnOdqki?ed%3D2560&host=redw.pooriam.ir&encryption=none#@Vip_Security join us - 818
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.148.22:80?path=%2Ftelegram%40v2ray_alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redw.pooriam.ir&type=ws#@Vip_Security join us - 817
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@Vip_Security join us - 816
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@Vip_Security join us - 815
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@Vip_Security join us - 814
+vless://53e30ee0-2552-4078-a7f8-6fb03d721ce9@62.212.79.51:18302?security=&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 813
+vless://53ca8a57-fc64-4364-b8f6-91a9e20c0721@irmmd-vip.site:50354?mode=gun&security=none&encryption=none&type=grpc&serviceName=%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1#@Vip_Security join us - 812
