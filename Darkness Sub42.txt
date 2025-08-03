@@ -2,12 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2213
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=&encryption=none&type=grpc#@Vip_Security join us - 2212
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?encryption=none&security=none&type=grpc&authority=%2Fbia_telegram@marambashi_marambashi&mode=gun#@Vip_Security join us - 2211
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#@Vip_Security join us - 2210
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.252.217:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#@Vip_Security join us - 2209
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.250.184:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2208
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@188.245.114.143:8880?security=&type=grpc&encryption=none#@Vip_Security join us - 2207
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&security=&encryption=none&type=grpc#@Vip_Security join us - 2206
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2205
@@ -702,3 +696,9 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.22.22.237:443?path=%2F%3Fed%3D2
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&sni=kawaiifreevpn-7ds.pages.dev#@Vip_Security join us - 1516
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=random&type=ws&sni=kawaiifreevpn-7ds.pages.dev#@Vip_Security join us - 1515
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.43.245:443?path=%2F&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#@Vip_Security join us - 1514
+vless://9db6acf4-d3d3-4176-f704-0da5f6da6165@185.248.187.69:10297?security=reality&encryption=none&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sega.com#@Vip_Security join us - 1513
+vless://9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ntsafe.pages.dev&fp=randomized&type=ws&sni=ntsafe.pages.dev#@Vip_Security join us - 1512
+vless://9dabd69c-909b-4658-90eb-f475c3fc0020@151.101.3.8:80?path=%2Fnetworkfi%3Fed%3D1024&security=none&encryption=none&host=hcjcjcjfjcjfjfnfufjfigkhj7gkgnfjfig.com&type=ws#@Vip_Security join us - 1511
+vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.18.30.65:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=lot.sosant.dpdns.org&type=ws#@Vip_Security join us - 1510
+vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.17.104.45:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=lot.sosant.dpdns.org&type=ws#@Vip_Security join us - 1509
+vless://9d22dd97-583f-49c1-9c09-c8cab019f176@151.101.70.193:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=Zedmodeonjoininyour-name.global.ssl.fastly.net&type=xhttp#@Vip_Security join us - 1508
