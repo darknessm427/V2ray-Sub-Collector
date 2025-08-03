@@ -2,6 +2,9 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=IaErIbZlCb.WaSaBi1.OrG&fp=chrome&type=ws&sni=IaErIbZlCb.WaSaBi1.OrG#@Vip_Security join us - 1564
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2082?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 1563
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2052?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 1562
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.39:2052?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 1561
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.29:8443?encryption=none&security=tls&type=ws&path=%2F#@Vip_Security join us - 1560
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.29:2082?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 1559
@@ -699,6 +702,3 @@ vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2FTelegram
 vless://54b5d081-8e34-4660-ec4f-6d7fddb7feb7@65.109.208.107:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=firefox&spx=%2F&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#@Vip_Security join us - 867
 vless://54b5d081-8e34-4660-ec4f-6d7fddb7feb7@65.109.208.107:2083?encryption=none&security=reality&sni=khamenei.ir&fp=firefox&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=%2F&type=grpc&authority=&serviceName=melov2ray&mode=gun#@Vip_Security join us - 866
 vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram%20%3A%20%40PouRia_Cheat&sni=www.cloudflare.com&sid=8d9c20be72b4#@Vip_Security join us - 865
-vless://5494b7a0-e3be-4ebf-a559-51c488fa1100@rlmx.mxspeed8-3.ir:2035?security=reality&encryption=none&pbk=P5ToEkglPKRO87kgIZycZsfrUKqvHlPlR7Huc-Fu2WM&headerType=none&fp=safari&spx=%2Fexample&type=tcp&sni=refersion.com&sid=0aa48381a702e248#@Vip_Security join us - 864
-vless://5494b7a0-e3be-4ebf-a559-51c488fa1100@mxt2.mxspeed8-3.ir:8885?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 863
-vless://5494b7a0-e3be-4ebf-a559-51c488fa1100@mxt2.mxspeed8-3.ir:8885?security=&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 862
