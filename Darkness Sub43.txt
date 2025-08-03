@@ -2,13 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://9f467d8b-ea26-4b2b-b866-399638bc9a1c@www.speedtest.net:80?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=none&encryption=none&host=Www.speedtest.net.developsp.ir.vegaskala.com.&type=ws#@Vip_Security join us - 1577
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@www.speedtest.net:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@Vip_Security join us - 1576
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@tgju.org:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@Vip_Security join us - 1575
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@tgju.org:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@Vip_Security join us - 1574
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@Vip_Security join us - 1573
-vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:8949?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#@Vip_Security join us - 1572
-vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:7548?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#@Vip_Security join us - 1571
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&encryption=none&host=EzPsSkBwR6.wAsAaBi2.OrG&type=ws&sni=EzPsSkBwR6.wAsAaBi2.OrG#@Vip_Security join us - 1570
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=IaErIbZlCb.WaSaBi1.OrG&fp=chrome&type=ws&sni=IaErIbZlCb.WaSaBi1.OrG#@Vip_Security join us - 1569
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2082?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 1568
@@ -702,3 +695,10 @@ vless://55445977-b31b-4142-83e0-e54b80c14059@104.16.1.106:2082?path=%2F&security
 vless://5528489a-c548-481f-b558-8c7a8a0b6448@116.203.136.232:2078?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 880
 vless://55265e82-ca42-403d-9232-1d45bd2fe3b3@turkycf.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=z1tAnqd5RA4I99LrK5FCJgjCd2qWJ2f1ID5xlNUD21M&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=discordapp.com&sid=b1803d25#@Vip_Security join us - 879
 vless://55246d84-4473-4277-bc9b-86033a63dfcd@78.109.200.19:80?encryption=none&security=none&type=tcp&headerType=none#@Vip_Security join us - 878
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqqvmhtztle%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#@Vip_Security join us - 877
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#@Vip_Security join us - 876
+vless://54ce1a74-7a13-470d-859b-88ffe8a9d234@mc.miladbeyranvndmobilmilad.cfd:2053?type=ws&host=33707228dee0f23a.miladbeyranvndmobilmilad.cfd&security=tls&fp=chrome&sni=00f7e608b8c93f9b.miladbeyranvndmobilmilad.cfd&alpn=h2,http/1.1#@Vip_Security join us - 875
+vless://54c6bc25-b990-4a39-8b71-c17036a51358@a2-l-o.205272079.in.webnama.neternal.cyou:8880?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 874
+vless://54b5d081-8e34-4660-ec4f-6d7fddb7feb7@65.109.208.107:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=firefox&spx=%2F&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#@Vip_Security join us - 873
+vless://54b4c039-7be6-448f-b704-820251b079db@5.75.197.120:2025?mode=gun&security=reality&encryption=none&pbk=AUNIYov4R2TvNmC0cF0NiKWYGqzikosOu4g2wcCALlw&fp=chrome&spx=%2F&type=grpc&serviceName=Telegram%20%3A%20%40PouRia_Cheat&sni=www.cloudflare.com&sid=8d9c20be72b4#@Vip_Security join us - 872
+vless://5494b7a0-e3be-4ebf-a559-51c488fa1100@mxt2.mxspeed8-3.ir:8885?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 871
