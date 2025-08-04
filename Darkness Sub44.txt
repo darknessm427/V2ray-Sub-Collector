@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://524ef193-d0ee-4f6b-bf0b-1ab15a76cc9a@europeless.duckdns.org:443?type=ws&path=%2Fgetupdates&host=europeless.duckdns.org&security=tls#@Vip_Security join us - 834
+vless://52395e5e-40db-4c24-c32e-57954697f906@218.33.84.142:26518?security=reality&encryption=none&pbk=rwpbqas_HY8knlW0fFSIeUrjgBXHBzSNboflsLD8elA&headerType=none&fp=chrome&type=tcp&sni=www.lovelive-anime.jp#@Vip_Security join us - 833
 vless://51f37887-6d44-40e5-b325-4f91641fb825@shhproxy.varzesh3-cnd.site:2087?path=%2F&security=tls&encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&host=gmV2raybo.shhproxyfree.com&type=ws&sni=gmV2raybo.shhproxyfree.com#@Vip_Security join us - 832
 vless://51f37887-6d44-40e5-b325-4f91641fb825@shhproxy.varzesh3-cnd.site:2087?path=%2F&security=tls&encryption=none&host=gmV2raybo.shhproxyfree.com&type=ws&sni=gmV2raybo.shhproxyfree.com#@Vip_Security join us - 831
 vless://5155a0c4-24d5-40c4-cd26-6c4d4a9ddc3a@85.9.102.245:2053?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Vip_Security join us - 830
@@ -700,5 +702,3 @@ vless://096a9f0a-d198-401c-8e18-7bc12e1e13e6@31.97.47.248:40444?security=reality
 vless://09123760-3de2-44a5-b083-41fb65516cae@best.configforvpn.fun:2053?mode=gun&security=reality&encryption=none&pbk=d7ai1rsnr28Xv2F2TktDrZ_YCbUK55w0QHPHcUYWLR8&fp=chrome&spx=%2F&type=grpc&serviceName=@configforVPN&sni=greenpepper.ir&sid=614214c8#@Vip_Security join us - 137
 vless://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=hq3.newretr432as.info#@Vip_Security join us - 136
 vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=best.configforvpn.fun#@Vip_Security join us - 135
-vless://08aa33d0-a8af-460b-807a-39791019015c@77.90.10.16:58666?security=reality&encryption=none&pbk=bGCJWIH3EHCAGMeI-qgvjGZlL5tkY_HIqQEtsOqEVlw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=a6a18a6e0259#@Vip_Security join us - 134
-vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 133

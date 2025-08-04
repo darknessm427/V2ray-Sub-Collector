@@ -2,14 +2,5 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-ss://a7f573cf-f042-4133-8fa5-b24088621d83@Tabriz-Website.thorav.ir:443?security=reality&amp;encryption=none&amp;pbk=S9lLMRBlLXUp4RhsWgDvTubO0znlS5e7xTARW_9ajB8&amp;fp=qq&amp;spx=%2F&amp;type=grpc&amp;serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&amp;sni=www.cdn77.com&amp;sid=b1417d#🔥Join+Telegram:@Farah_VPN🟣
-ss://4a640781-f5c8-4d17-80db-a6b0a091ba05@fin01-vlr01.tcp-reset-club.net:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hls-svod.itunes.apple.com&amp;sid=31#🔥Join+Telegram:@Farah_VPN🟣
-ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2Y1hkbGNsSkZWMUZBUUE@p199.panda003.net:58368#🔥Join+Telegram:@Farah_VPN🟣
-ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@128.140.95.33:2020?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVFlkZHVUVEVCQmRWWjRMY0JuVA@84.17.38.144:8389#🔥Join+Telegram:@Farah_VPN🟣
-ss://Y2hhY2hhMjAtaWV0Zjo1MDA4@20.106.241.226:5008#🔥Join+Telegram:@Farah_VPN🟣
-ss://0bf5e4dc-bde9-41bb-b41b-67b78d7c056d@shhproxy.varzesh3-cnd.site:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none=@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN,@GHALAGYANN&amp;host=SHHPROXY-V2ray.%E6%96%AF%E6%B6%85%E9%81%8E%E6%BF%BE%E5%99%A869.website&amp;type=ws#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTI1Ni1jZmI6YXdzcHMwNTAx@3.113.25.232:443#🔥Join+Telegram:@Farah_VPN🟣
-ss://2404f667-5969-4883-a71a-ea2e0db2d25b@whatismyipaddress.com:2096?security=tls&amp;type=ws&amp;headerType=&amp;path=&amp;host=wwwspeedtestnetwhiteberinsistomd6625996s24.afaghnegwork.ir&amp;sni=wwwspeedtestnetwhiteberinsistomd6625996s24.afaghnegwork.ir&amp;fp=#🔥Join+Telegram:@Farah_VPN🟣
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#🔥Join+Telegram:@Farah_VPN🟣
+ss://d6b8011a-c725-435a-9fec-bf6d3530392c@198.62.62.4:443?type=ws&amp;host=vlee.amclubs.nyc.mn&amp;path=/?ed%3D2560&amp;security=tls&amp;sni=vlee.amclubs.nyc.mn#🔥Join+Telegram:@Farah_VPN🟣
 
