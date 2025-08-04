@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://05e56ba7-e920-43e8-97ad-dc6c18913ef7@45.140.188.8:2082?path=%2F%3Fed%3D2052&security=none&encryption=none&host=bmi.ir&type=ws#@Vip_Security join us - 111
+vless://057ec119-7ddc-465b-8587-cb37dd3dd3ae@kafshu.ir:8080?security=&type=ws&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&encryption=none#@Vip_Security join us - 110
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.68.57:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@Vip_Security join us - 109
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.179.47.86:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@Vip_Security join us - 108
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.178.209.45:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&encryption=none&type=ws&sni=trojan.burgerip.co.uk#@Vip_Security join us - 107
@@ -700,5 +702,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBa2k4VzFqcm5IcW1HUm1lV29sN0NZ@89.185.84.185:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443#@Vip_Security join us - 178
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@20.26.109.68:443#@Vip_Security join us - 177
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBWHlHUlRkeU8wbjZ4Y0dt@admin.c2.havij.co:443#@Vip_Security join us - 176
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBMml5UXVsUXBVUllPVzY4SUtCd1Bo@89.185.84.185:443#@Vip_Security join us - 175
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6cHBOdEVzMXdiaTk=@89.185.84.14:443#@Vip_Security join us - 174
