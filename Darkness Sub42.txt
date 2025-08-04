@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.8.105.254:8880?mode=gun&security=&encryption=none&type=grpc#@Vip_Security join us - 2236
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2235
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2234
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2233
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2232
@@ -700,5 +702,3 @@ vless://9c942b13-72da-45e4-bdbe-0598679209c5@www.speedtest.net:80?path=%2F%40CUS
 vless://9c942b13-72da-45e4-bdbe-0598679209c5@www.speedtest.net:80?path=%2F%40%43%55%53%54OMIZEROBOT---%40%43%55%53%54OMIZEROBOT---%40%43%55%53%54OMIZEROBOT---%40%43%55%53%54OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080&security=none&encryption=none&host=s1.VPN%43%55%53%54OMIZE.dNs-dynamic.neT.&type=ws#@Vip_Security join us - 1539
 vless://9c942b13-72da-45e4-bdbe-0598679209c5@www.speedtest.net:80?path=%2F%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT---%40%2543%2555%2553%2554OMIZEROBOT%2Fwww.speedtest.net%3Fed%3D2080&security=none&encryption=none&host=s1.VPN%43%55%53%54OMIZE.dNs-dynamic.neT.&type=ws#@Vip_Security join us - 1538
 vless://9c54f007-d25a-48c0-ab62-a01e345b7cea@Hh.somo44.sbs:8080?path=%2Fhhvghhv&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#@Vip_Security join us - 1537
-vless://9c34c153-3430-4147-9aaa-a8c4b6a37fea@5.223.59.155:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 1536
-vless://9c1cd140-4770-49b0-9340-16ac9fcfcd35@62.60.194.102:4405?security=none&encryption=none&host=varzesh3.com%2F%3FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&headerType=http&type=tcp#@Vip_Security join us - 1535

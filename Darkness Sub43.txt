@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://9c34c153-3430-4147-9aaa-a8c4b6a37fea@5.223.59.155:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 1536
+vless://9c1cd140-4770-49b0-9340-16ac9fcfcd35@62.60.194.102:4405?security=none&encryption=none&host=varzesh3.com%2F%3FJOKERRVPNJoin_Bade_Channel%40JOKERRVPN&headerType=http&type=tcp#@Vip_Security join us - 1535
 vless://9c1cd140-4770-49b0-9340-16ac9fcfcd35@62.60.194.102:4405?security=none&encryption=none&host=varzesh3.com%2F%3FBIA_TELEGRAM%40MARAMBASHI&headerType=http&type=tcp#@Vip_Security join us - 1534
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@www.speedtest.net:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@Vip_Security join us - 1533
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@tgju.org:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@Vip_Security join us - 1532
@@ -700,5 +702,3 @@ vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?path=%2Flfcinsws&
 vless://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443?encryption=none&security=tls&type=ws&path=%2Flfcinsws#@Vip_Security join us - 839
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server708670620525069264.tas-bazi.com:443?mode=stream-one&path=%2Ffrf&security=none&encryption=none&type=xhttp#@Vip_Security join us - 838
 vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server514991469813933273.tas-bazi.com:443?mode=stream-one&path=%2Ffrf&security=none&encryption=none&type=xhttp#@Vip_Security join us - 837
-vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server271816966957306554.tas-bazi.com:443?mode=stream-one&path=%2Ffrf&security=none&encryption=none&type=xhttp#@Vip_Security join us - 836
-vless://527b6060-bf7c-41cc-a9bb-357bcda16a62@server134372561849834943.tas-bazi.com:443?mode=stream-one&path=%2Ffrf&security=none&encryption=none&type=xhttp#@Vip_Security join us - 835
