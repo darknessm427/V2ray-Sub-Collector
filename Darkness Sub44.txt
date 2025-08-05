@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8mahsang6.redfree8.ir&type=ws#@Vip_Security join us - 829
-vless://53e30ee0-2552-4078-a7f8-6fb03d721ce9@62.212.79.51:18302?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 828
-vless://53e30ee0-2552-4078-a7f8-6fb03d721ce9@62.212.79.51:18302?security=&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 827
 vless://53ca8a57-fc64-4364-b8f6-91a9e20c0721@irmmd-vip.site:50354?mode=gun&security=none&encryption=none&type=grpc&serviceName=%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1-%40IRAN_V2RAY1#@Vip_Security join us - 826
 vless://535047ee-3cf2-40da-b3b1-8e8b504fbfc8@142.132.227.65:42580?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 825
 vless://53%656b%6594-69%65d-481d-d169-533%65f35482%659@31.58.144.49:2053?path=%2Ft%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY%3Fed%3D2560&security=&encryption=none=/@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray,--@icv2ray&host=ch%65ss.com&type=ws#@Vip_Security join us - 824
@@ -702,3 +699,6 @@ vless://0EBCBB23-C337-0909-4655-BC85BCDCFC02@damp-morning-6562.vpnetwork3567.wor
 vless://09cc040a-9b52-4d5c-b808-85d61e5e2d56@94.182.83.114:443?security=none&encryption=none&host=khabaronline.ir&headerType=http&type=tcp#@Vip_Security join us - 132
 vless://09a1a90c-70f5-4a5f-9480-2cc8ccdd0d6b@irc.testvp2.sbs:443?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 131
 vless://097b8c5f-9557-440e-9a7f-997e3378b55a@www.speedtest.net:2052?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&security=none#@Vip_Security join us - 130
+vless://08ef1330-8ffb-4001-a15e-96befc065c06@104.17.147.22:443?mode=gun&security=tls&encryption=none&fp=firefox&type=grpc&sni=hq3.newretr432as.info#@Vip_Security join us - 129
+vless://088472ec-700f-4735-9201-8cf6a73f0851@makefree.internet.000.pe:25885?security=tls&sni=makefree.internet.000.pe&alpn=h3,h2,http/1.1&fp=random&type=tcp&flow=xtls-rprx-vision&encryption=none#@Vip_Security join us - 128
+vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 127
