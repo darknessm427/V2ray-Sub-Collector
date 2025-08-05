@@ -2,6 +2,10 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://e0c579e5-d86f-426b-bbee-f815821a34c3@104.21.112.1:80?encryption=none&security=none&type=ws&host=azadnet-2.azadnet-team.workers.dev&path=%2Fdoaoovddwjhii1lh%3Fed%3D2560#@Vip_Security join us - 2292
+vless://e09093b1-0d61-4a41-b15d-ab1fb075da58@213.176.66.228:37021?security=reality&encryption=none&pbk=Gk3eR3mV55k5P3tg-MzqMpNolmML8q9zBOf6A102e1Y&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=bc721eb6#@Vip_Security join us - 2291
+vless://e0408566-637f-4981-b4dd-36be7abc7ae0@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fjoezizws&security=tls&encryption=none&host=638890561652289252.esfahan-prx-dnraaao.info&type=ws&sni=638890561652289252.esfahan-prx-dnraaao.info#@Vip_Security join us - 2290
+vless://doogrlsuwa@doogrlsuwa-4515017477-direct.rahavard365.co:443?security=tls&alpn=http%2F1.1&encryption=none&path=%2Fvpnowl&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=doogrlsuwa-4515017477-direct.rahavard365.co#@Vip_Security join us - 2289
 vless://dfe4a8e3-609b-43f1-92d3-9921d09b875f@specxtech.ticketdatabase.info:56658?security=reality&encryption=none&pbk=kUfdhVe33Uv2-_kjmI97xkOCo_mWJlSigF3NCNJyGRk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=15a19f76#@Vip_Security join us - 2288
 vless://dfdf1c0a-5e52-4746-88bd-19d4e4ac7853@172.67.78.196:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=tannaz.juveitaly.dpdns.org&type=ws#@Vip_Security join us - 2287
 vless://dfc1a9ab-6241-4b73-92f7-b299fc6b7751@172.67.70.123:2052?security=&type=ws&path=/?ed%3D1080Telegram_V2ray_Alpha&host=hit.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.trepaspeedtest.betrat.com.eu.com.sh847.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.fffffffff.ddns-ip.net.&encryption=none#@Vip_Security join us - 2286
@@ -698,7 +702,3 @@ vless://Channel-iTV2RAY@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encrypti
 vless://Channel-iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=(@iTV2RAY)&sni=tm.iTV2RAY.fun#@Vip_Security join us - 1595
 vless://9fdef857-437d-40af-82ca-2c76de893eb6@95.164.16.166:3567?mode=gun&security=reality&encryption=none&pbk=3iP1kIE9A4r0dbC6OoERB95RKv6tZmCHUaNq4tf90lo&fp=chrome&spx=%2F&type=grpc&serviceName=telegram-ipV2Ry-telegram-ipV2Ry-telegram-ipV2Ry&sni=maps.google.com&sid=86#@Vip_Security join us - 1594
 vless://9fc94683-42be-4c44-9525-096f675965db@104.16.53.11:80?path=%2F%3Fed&security=none&encryption=none&host=dETeRMiNeD-COuRT.oneEaT.CO&type=ws#@Vip_Security join us - 1593
-vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?path=%2F%3Fed%3D%23Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=none&encryption=none&host=cdn39030.marzban-l.ir&type=ws#@Vip_Security join us - 1592
-vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?path=%2F%3Fed%3D%23Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=&encryption=none&host=cdn39030.marzban-l.ir&type=ws#@Vip_Security join us - 1591
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@tgju.org:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@Vip_Security join us - 1590
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@Vip_Security join us - 1589
