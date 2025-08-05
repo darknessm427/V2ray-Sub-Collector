@@ -2,14 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://Channel-iTV2RAY@iTV2RAY.ddns.net:696?mode=gun&security=reality&encryption=none&pbk=Dq3uinMltPxOqW_6OVpn5N0Ke1jzeymmIvlWEafqH0c&fp=chrome&spx=%2FiTV2RAY&type=grpc&serviceName=@iTV2RAY@iTV2RAY@iTV2RAY@iTV2RAY&sni=www.speedtest.net&sid=04158025#@Vip_Security join us - 1585
-vless://Channel-ITV2RAY@iTV2RAY.ddns.net:969?path=%2FiTV2RAY&security=reality&encryption=none&pbk=BK8bqxmSO3nF4r8wMDTJ7wl97UQ3uSVEw60cnPk7zW4&host=@iTV2RAY@iTV2RAY@iTV2RAY@iTV2RAY&fp=chrome&spx=%2FiTV2RAY&type=http&sni=www.speedtest.net&sid=d05b9020#@Vip_Security join us - 1584
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@Vip_Security join us - 1583
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@tgju.org:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@Vip_Security join us - 1582
-vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@Vip_Security join us - 1581
-vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:8949?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#@Vip_Security join us - 1580
-vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:7548?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#@Vip_Security join us - 1579
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=%2F&security=tls&encryption=none&host=EzPsSkBwR6.wAsAaBi2.OrG&type=ws&sni=EzPsSkBwR6.wAsAaBi2.OrG#@Vip_Security join us - 1578
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.72:8443?encryption=none&security=tls&type=ws&path=%2F#@Vip_Security join us - 1577
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2096?encryption=none&security=tls&type=ws&path=%2F#@Vip_Security join us - 1576
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2082?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 1575
@@ -702,3 +694,11 @@ vless://550e8400-e29b-41d4-a716-446655440000@www.speedtest.net:2096?path=/@LOCKE
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqqvmhtztle%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#@Vip_Security join us - 888
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#@Vip_Security join us - 887
 vless://54c6bc25-b990-4a39-8b71-c17036a51358@a2-l-o.205272079.in.webnama.neternal.cyou:8880?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 886
+vless://54b5d081-8e34-4660-ec4f-6d7fddb7feb7@65.109.208.107:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=firefox&spx=%2F&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#@Vip_Security join us - 885
+vless://5494b7a0-e3be-4ebf-a559-51c488fa1100@ir3.mxspeed8-3.ir:1885?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcp#@Vip_Security join us - 884
+vless://5475990d-e0ce-46ea-95e5-50f9e4879af9@ru.sfasti.ru:443?security=reality&encryption=none&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru.sfasti.ru&sid=16895459a2c7768d#@Vip_Security join us - 883
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.210:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135004002.sec20org.com#@Vip_Security join us - 882
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@15.204.200.208:443?security=tls&encryption=none&headerType=none&type=tcp&sni=147135004002.sec20org.com#@Vip_Security join us - 881
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 880
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&encryption=none&headerType=none&fp=random&type=tcp&sni=147135004002.sec20org.com#@Vip_Security join us - 879
+vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147135004002.sec20org.com:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135004002.sec20org.com#@Vip_Security join us - 878
