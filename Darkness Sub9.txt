@@ -2,10 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2082?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 1575
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2052?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 1574
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.39:2052?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 1573
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2096?path=%2F&security=tls&encryption=none&type=ws#@Vip_Security join us - 1572
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.43:8443?encryption=none&security=tls&type=ws&path=%2F#@Vip_Security join us - 1571
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2052?path=%2F%3F---Join-TELEGRAM-V2XAY&security=none&encryption=none&type=ws#@Vip_Security join us - 1570
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:8443?path=%2F&security=tls&encryption=none&type=ws#@Vip_Security join us - 1569
@@ -702,3 +698,7 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?encryption=non
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@tgju.org:80?path=%2Fvpnowl%3Fed%3D2560&security=none&encryption=none&host=redfrEe8w.Pooriam.ir&type=ws#@Vip_Security join us - 878
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.138:8880?path=Telegram%F0%9F%87%AE%F0%9F%87%B7%20%40ShadowProxy66%20%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@Vip_Security join us - 877
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.147:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@Vip_Security join us - 876
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.5.211:80?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@Vip_Security join us - 875
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#@Vip_Security join us - 874
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.95:80?path=Telegram%3A&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@Vip_Security join us - 873
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.12.30.234:80?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@Vip_Security join us - 872
