@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.78:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2310
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=&encryption=none&type=grpc#@Vip_Security join us - 2309
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2308
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.214.56:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2307
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.216.187.57:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2306
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.34:8880?security=&type=grpc&encryption=none#@Vip_Security join us - 2305
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.31:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#@Vip_Security join us - 2304
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.9.26:8880?security=&type=grpc&encryption=none#@Vip_Security join us - 2303
@@ -702,3 +697,8 @@ vless://Channel--ELiV2RAY---@www.visa.com:80?path=%2F&security=none&encryption=n
 vless://9fcbdb12-db5b-4698-ae0e-ed80fdf1887c@151.101.3.8:80?encryption=none&security=none&type=ws&host=Ws.speedtest.Spdnet.ir&path=%2Fspdnet%3Fed%3D1024#@Vip_Security join us - 1613
 vless://9fb80a5f-f898-476f-8504-4cf36a1d69c7@cdn39030.marzban-l.ir:8080?path=%2F%3Fed%3D%23Join---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&security=&encryption=none&host=cdn39030.marzban-l.ir&type=ws#@Vip_Security join us - 1612
 vless://9eca9c74-951c-4947-c108-72c0ae70a74a@www.speedtest.net:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@Vip_Security join us - 1611
+vless://9eca9c74-951c-4947-c108-72c0ae70a74a@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@Vip_Security join us - 1610
+vless://9eca9c74-951c-4947-c108-72c0ae70a74a@tgju.org:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@Vip_Security join us - 1609
+vless://9eca9c74-951c-4947-c108-72c0ae70a74a@tgju.org:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@Vip_Security join us - 1608
+vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?type=ws&path=%2Folem%2Fws%3Fed%3D1024&host=fin.channel.digicyber.click&security=none#@Vip_Security join us - 1607
+vless://9eca9c74-951c-4947-c108-72c0ae70a74a@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@Vip_Security join us - 1606
