@@ -2,11 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://DIGIV2RAY@www.speedtest.net:2095?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#@Vip_Security join us - 1590
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#@Vip_Security join us - 1589
-vless://DIGIV2RAY@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGIV&security=none&encryption=none&host=www.warzesh3.com.ftp.debian.org.digikala.org.www.speedtest.net.cloudflare.com.par31games.ir.&type=httpupgrade#@Vip_Security join us - 1588
-vless://Channel-iTV2RAY@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=(@iTV2RAY)&sni=tm.iTV2RAY.fun#@Vip_Security join us - 1587
-vless://Channel-iTV2RAY@mci-iTV2RAY.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=(@iTV2RAY)&sni=tm.iTV2RAY.fun#@Vip_Security join us - 1586
 vless://Channel-iTV2RAY@iTV2RAY.ddns.net:696?mode=gun&security=reality&encryption=none&pbk=Dq3uinMltPxOqW_6OVpn5N0Ke1jzeymmIvlWEafqH0c&fp=chrome&spx=%2FiTV2RAY&type=grpc&serviceName=@iTV2RAY@iTV2RAY@iTV2RAY@iTV2RAY&sni=www.speedtest.net&sid=04158025#@Vip_Security join us - 1585
 vless://Channel-ITV2RAY@iTV2RAY.ddns.net:969?path=%2FiTV2RAY&security=reality&encryption=none&pbk=BK8bqxmSO3nF4r8wMDTJ7wl97UQ3uSVEw60cnPk7zW4&host=@iTV2RAY@iTV2RAY@iTV2RAY@iTV2RAY&fp=chrome&spx=%2FiTV2RAY&type=http&sni=www.speedtest.net&sid=d05b9020#@Vip_Security join us - 1584
 vless://9eca9c74-951c-4947-c108-72c0ae70a74a@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#@Vip_Security join us - 1583
@@ -702,3 +697,8 @@ vless://5583f4ac-6a07-4ce4-9a13-5d8c0abbf792@mtn-iTV2RAY.ddns.net:2083?mode=gun&
 vless://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nv.bgm2024.dpdns.org&type=ws&sni=nv.bgm2024.dpdns.org#@Vip_Security join us - 893
 vless://55520747-311e-4015-83ce-be46e2060ce3@130.250.137.73:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ls.bgm2024.dpdns.org&type=ws&sni=ls.bgm2024.dpdns.org#@Vip_Security join us - 892
 vless://5528489a-c548-481f-b558-8c7a8a0b6448@116.203.136.232:2078?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 891
+vless://55246d84-4473-4277-bc9b-86033a63dfcd@78.109.200.19:80?encryption=none&security=none&type=tcp&headerType=none#@Vip_Security join us - 890
+vless://550e8400-e29b-41d4-a716-446655440000@www.speedtest.net:2096?path=/@LOCKEY-VPN@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN@LOCKEY-VPN@LOCKEY-VPN@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN-@LOCKEY-VPN%3Fed%3D2056&security=tls&encryption=none&alpn=http/1.1&host=bpb-worker-panel-5wx.pages.dev&fp=edge&type=ws&sni=BPb-WoRkER-paNEL-5wx.paGES.dev#@Vip_Security join us - 889
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2Fyzejftqqvmhtztle%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#@Vip_Security join us - 888
+vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=019309B7.XyZ0.PaGeS.dEV&fp=randomized&type=ws&sni=019309B7.XyZ0.PaGeS.dEV#@Vip_Security join us - 887
+vless://54c6bc25-b990-4a39-8b71-c17036a51358@a2-l-o.205272079.in.webnama.neternal.cyou:8880?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 886
