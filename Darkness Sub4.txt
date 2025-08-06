@@ -2,9 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://[email&nbsp;protected]:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#тЭФ XX | ЁЯФУ VLESS | @zerobaipiao [6]
-vless://[email&nbsp;protected]:8880?allowInsecure=1&sni=sk.laoyoutiao.link&type=ws&host=sk.laoyoutiao.link&path=/Telegram#тЭФ XX | ЁЯФУ VLESS | @zerobaipiao [11]
 vless://[email&nbsp;protected]:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#тЭФ XX | ЁЯФУ VLESS | @zerobaipiao [17]
+vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=&encryption=none&headerType=none&type=tcp#тЭФ XX | ЁЯФУ VLESS | @dalton_ping [10]
 vless://d3927fcb-1dd4-4a84-af91-75196dcc0ee9@[2a01:4f8:c012:81c0::1]:1?encryption=none&security=reality&sni=4dsply.com&fp=firefox&pbk=L6AkyAVesPEg-yz5o4-2yeTCBYACZW5OWnPBVaS-OnQ&sid=bbcb1cf7&spx=/&type=grpc&serviceName=/tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers tel:deli_servers&mode=gun#тЭФ XX | ЁЯФТ VLESS | @deli_servers [2]
 vless://ac864844-c86b-4ac5-bbe9-50fcc05123f2@[2a00:7c80:0000:0192:aaa1:bbb3:1bb8:f32e]:443?hiddify=1&sni=srhrforall.org&type=tcp&alpn=http/1.1&encryption=none&fp=chrome&headerType=None&flow=xtls-rprx-vision&security=reality&pbk=Uu4tcBEWuNn0SKnDk2Jy_o5Te2VA76M68hMlVYj9kiQ&sid=6412#тЭФ XX | ЁЯФТ VLESS | @fire_vpn_channel [1]
 vless://bd4de7ea-d6cc-492c-88a6-f1278b9210c3@[2a12:5940:1527::2]:443?type=tcp&path=/&host=www.sourceforge.net&headerType=http&security=none#тЭФ XX | ЁЯФУ VLESS | @freevv2rayng [2]
@@ -702,3 +701,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXc3R1U25sdTRpZUE5TTBM@131.145.97.104:443#%F0
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/yebekhe
 #profile-web-page-url: https://github.com/itsyebekhe/PSG
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:443?security=none&type=ws&path=/#%D9%87%D9%85%DA%A9%D8%A7%D8%B1%DB%8C_%D9%85%D9%84%DB%8C
