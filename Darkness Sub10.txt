@@ -2,6 +2,8 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
+vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.66.138.99:80?path=%2F%3Fed%3D2570&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&type=ws#@Vip_Security join us - 1021
+vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.66.138.99:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=random&type=ws&sni=varzesh3.varzesh.dpdns.org#@Vip_Security join us - 1020
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=random&type=ws&sni=varzesh3.varzesh.dpdns.org#@Vip_Security join us - 1019
 vless://684ead3d-43b1-4707-904a-24e3e9e91fb1@5.223.49.138:2080?type=xhttp&path=/&host=&mode=stream-up&security=reality&pbk=svwCr3WvNhARjAQrFlmJf-OtjQjFSa8BF3n6FZDphTE&fp=chrome&sni=yahoo.com&sid=722ee6b369&spx=/#@Vip_Security join us - 1018
 vless://68232963-d775-4fca-9837-d7c57e4a3ede@mtn-iTV2RAY.ddns.net:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=ViP.iTV2RAY.lol#@Vip_Security join us - 1017
@@ -700,5 +702,3 @@ vless://21dfbe81-72d4-5ad5-8248-1e8d2cf13f8c@5.180.52.15:8880?mode=gun&security=
 vless://217fe2bc-16f3-421b-8e6c-5e59a43e54bf@cloud.configforvpn.fun:2087?mode=gun&security=tls&encryption=none&fp=chrome&type=grpc&serviceName=@configforVPN&sni=cloud.configforvpn.fun#@Vip_Security join us - 324
 vless://2162d1b3-25d4-435e-b017-47da789eb389@sosooos.turbo2v.top:16895?security=none&encryption=none&headerType=http&type=tcp#@Vip_Security join us - 323
 vless://214424d8-99e0-46fe-82ff-7128ef45d126@143.14.220.111:25888?security=reality&encryption=none&pbk=eHaAkgZIfsYhrH_0HCj07-Vbd7nrMHnnAa663_969DA&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=be1be5fc#@Vip_Security join us - 322
-vless://213b2aa9-JebheAlNosrah@167.82.231.255:443?path=%2FF_ckUAsh0le%3Fed%3D2048&security=tls&alpn=h2&encryption=none&host=www.ip.gs&fp=randomized&type=ws#@Vip_Security join us - 321
-vless://213b0839-9041-45e8-91f6-ca6f4a7caaf8@tr.iranvpnstore.site:777?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#@Vip_Security join us - 320
