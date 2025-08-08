@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://9dabd69c-909b-4658-90eb-f475c3fc0020@151.101.3.8:80?path=%2Fnetworkfi%3Fed%3D1024&security=none&encryption=none&host=hcjcjcjfjcjfjfnfufjfigkhj7gkgnfjfig.com&type=ws#@Vip_Security join us - 1625
-vless://9da21010-6025-430a-9ce9-6096673d86d1@45.94.213.217:1360?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 1624
 vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.18.30.65:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=lot.sosant.dpdns.org&type=ws#@Vip_Security join us - 1623
 vless://9d6315f7-f272-4806-97c8-5fdaafad391e@104.17.104.45:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=lot.sosant.dpdns.org&type=ws#@Vip_Security join us - 1622
 vless://9d22dd97-583f-49c1-9c09-c8cab019f176@151.101.70.193:80?mode=auto&path=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048&security=none&encryption=none&host=Zedmodeonjoininyour-name.global.ssl.fastly.net&type=xhttp#@Vip_Security join us - 1621
@@ -702,3 +700,5 @@ vless://54694a33-a8dc-47dd-bc38-acd3971e0055@147.135.4.2:443?security=tls&encryp
 vless://546%65b241-c31%61-4%6170-c%6134-f0%650f02b%6585%61@104.26.6.89:2052?path=%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%3Fed%3D2048&security=none&encryption=none&host=ww.clo%55dcdn%58p.j%61R%69cOpEn.sbS.&type=httpupgrade#@Vip_Security join us - 928
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&type=ws#@Vip_Security join us - 927
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=abcd.taraneh.dpdns.org&fp=random&type=ws&sni=abcd.taraneh.dpdns.org#@Vip_Security join us - 926
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=none&encryption=none&type=ws&host=barayeiran-mahsang.taraneh.dpdns.org#@Vip_Security join us - 925
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.taraneh.dpdns.org#@Vip_Security join us - 924

@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#@Vip_Security join us - 225
-vless://147d63c1-2f68-4f45-b3ea-cb3172fab133@198.62.62.4:2096?path=%2Fjmgjhhws&security=tls&encryption=none&host=638878462229596707.ahvaz-prx-dnraaad.info&type=ws&sni=638878462229596707.ahvaz-prx-dnraaad.info#@Vip_Security join us - 224
 vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&encryption=none&host=hub.docker.com&headerType=http&type=tcp#@Vip_Security join us - 223
 vless://13dea011-7fe6-43db-a0cb-e9661cd86b25@0ost.amazon-osishop.ir:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#@Vip_Security join us - 222
 vless://13c242f5-8d08-456c-bb83-d64de5fece00@91.107.135.123:24070?mode=gun&security=reality&encryption=none&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&fp=chrome&spx=%2F&type=grpc&serviceName=%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--%40ZedBaz_vpn--&sni=yahoo.com&sid=93#@Vip_Security join us - 221
@@ -702,3 +700,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMSTRvYk9FSURMekRqZDd4WWxoaFRK@86.104.75.103:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZzFWWVk5ZzJhUkptb0NZOHJaZE1IY1BMTFRmQXFXTEpxMUpmYkZTNVR6QXU1aktIUndObTE3ZjkzUllzd1NEeGM3QnhCdWhZS3h6ZHNCNU1HWGkyUE5GbVE3TTdtUUw%3D@94.156.79.244:40934#@Vip_Security join us - 214
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZ2hmYk0zbkJRQStPdUQ3@108.61.162.23:1666#@Vip_Security join us - 213
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLNUg3QVRTaHVzSGhsaDdUYnM2QU5L@213.111.142.59:8443#@Vip_Security join us - 212
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@Vip_Security join us - 211
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJYjloeEZaeFVING0%3D@194.87.216.189:443#@Vip_Security join us - 210

@@ -2,8 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.159.248.125:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2325
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#@Vip_Security join us - 2324
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.167.168:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2323
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.31.235:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#@Vip_Security join us - 2322
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@37.27.252.217:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#@Vip_Security join us - 2321
@@ -702,3 +700,5 @@ vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?path=%2F%3Fed%3D2
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.43.245:443?path=%2F&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#@Vip_Security join us - 1628
 vless://9db6acf4-d3d3-4176-f704-0da5f6da6165@185.248.187.69:10297?security=reality&encryption=none&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.sega.com#@Vip_Security join us - 1627
 vless://9dac67dc-e6d5-4d1f-b2dd-6356e8b56b39@www.speedtest.net:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ntsafe.pages.dev&fp=randomized&type=ws&sni=ntsafe.pages.dev#@Vip_Security join us - 1626
+vless://9dabd69c-909b-4658-90eb-f475c3fc0020@151.101.3.8:80?path=%2Fnetworkfi%3Fed%3D1024&security=none&encryption=none&host=hcjcjcjfjcjfjfnfufjfigkhj7gkgnfjfig.com&type=ws#@Vip_Security join us - 1625
+vless://9da21010-6025-430a-9ce9-6096673d86d1@45.94.213.217:1360?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 1624
