@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://55c065e4-3429-49bf-aea2-d05ff7dd6586@172.233.141.49:2321?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 908
 vless://5583f4ac-6a07-4ce4-9a13-5d8c0abbf792@mtn-iTV2RAY.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@iTV2RAY&sni=tm.iTV2RAY.fun#@Vip_Security join us - 907
 vless://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nv.bgm2024.dpdns.org&type=ws&sni=nv.bgm2024.dpdns.org#@Vip_Security join us - 906
 vless://55520747-311e-4015-83ce-be46e2060ce3@130.250.137.73:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=ls.bgm2024.dpdns.org&type=ws&sni=ls.bgm2024.dpdns.org#@Vip_Security join us - 905
@@ -702,3 +701,4 @@ vless://13aab6b3-d6a8-4592-9bf8-e792b3a9fa3a@food4.hamrahconfig.com:80?path=%2Fd
 vless://13aab6b3-d6a8-4592-9bf8-e792b3a9fa3a@food2.hamrahconfig.com:80?path=%2Fdownload&security=none&encryption=none&host=speedfastly.net&type=ws#@Vip_Security join us - 211
 vless://13a894b0-e414-5459-a0fa-9309209c386b@185.113.139.103:443?path=%2Fvless&security=tls&encryption=none&host=185.113.139.103&fp=chrome&type=ws&sni=185.113.139.103#@Vip_Security join us - 210
 vless://1325fc61-3723-4591-90cb-b66d9a079aad@huffingtonpost.es:80?type=xhttp&mode=auto&host=joinbede_unlimiteddev.ir&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D2480&security=none#@Vip_Security join us - 209
+vless://12dbb94a-a9de-47b6-89b5-263fb1bace3b@de.chatoochak.com:443?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 208

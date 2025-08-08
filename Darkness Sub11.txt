@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://12dbb94a-a9de-47b6-89b5-263fb1bace3b@de.chatoochak.com:443?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 208
 vless://124b3799-aa8e-4d7a-ad7e-a474ecf4b159@151.101.67.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam%3Fed%3D2048&host=Mahsazxshop.org&mode=auto&security=none#@Vip_Security join us - 207
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.23.103.47:443?path=Telegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=NGINX-H.pages.DEV&fp=randomized&type=ws&sni=NGINX-H.pages.DEV#@Vip_Security join us - 206
 vless://1235b6fb-7f15-4361-8da3-d1a079bdf484@104.23.103.47:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=NGINX-H.pages.DEV&fp=chrome&type=ws&sni=NGINX-H.pages.DEV#@Vip_Security join us - 205
@@ -702,3 +701,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHYlFUeE9kaFhSNk9aMjI0V3lRdHdm@178.128.55.155
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHVElaWEdvZTB3a3Q%3D@31.129.22.32:443#@Vip_Security join us - 201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHRWd0U2EyOVZ2Umo%3D@81.177.214.213:443#@Vip_Security join us - 200
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHMG8yaEU0ZUx1UjJ3d3lGYW8wbHNK@185.39.204.12:16297#@Vip_Security join us - 199
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@51.178.87.37:807#@Vip_Security join us - 198

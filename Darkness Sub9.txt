@@ -2,7 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://Parsashonam-275@172.66.168.210:8080?type=ws&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam%3Fed%3D2056&host=FragmentFi.Rubika.cYoU.&security=none#@Vip_Security join us - 1608
 vless://Parsashonam-274@172.66.168.210:2086?path=%2F---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam%3Fed%3D2048&security=&encryption=none&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&type=ws#@Vip_Security join us - 1607
 vless://Parsashonam-273@172.66.168.210:2086?path=%2F---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam%3Fed%3D2048&security=&encryption=none&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&type=ws#@Vip_Security join us - 1606
 vless://Parsashonam-272@188.114.96.0:2086?path=%2F---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam---Parsashonam%3Fed%3D2048&security=&encryption=none&host=ws.DafieMikoneTheWeekendPlay.SpAcE.&type=ws#@Vip_Security join us - 1605
@@ -702,3 +701,4 @@ vless://569af5c4-0d06-4808-819d-e28f87354256@mr.zayn2012.sbs:2096?type=grpc&serv
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.159:80?security=&type=ws&path=/olem/ws?ed%3D2560&host=foffmelo.com&encryption=none#@Vip_Security join us - 911
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 910
 vless://560c46be-d15d-4083-8fb5-c7ad5f4f24fd@www.speedtest.net:8880?path=/@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN-@LOCKEY_VPN%3Fed%3D8880&security=none&encryption=none&host=www.lockey-website.ir&type=httpupgrade#@Vip_Security join us - 909
+vless://55c065e4-3429-49bf-aea2-d05ff7dd6586@172.233.141.49:2321?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 908
