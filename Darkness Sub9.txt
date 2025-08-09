@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&host=de1-moryvpnbot.pages.dev&type=ws&sni=de1-moryvpnbot.pages.dev#@Vip_Security join us - 1422
-vless://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=internet4everieone7.pages.dev&fp=randomized&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#@Vip_Security join us - 1421
-vless://98371613-b71d-4185-9e8a-eb7ba73373b4@edt-f5k.pages.dev:443?path=%2F&security=tls&encryption=none&host=edt-f5k.pages.dev&fp=chrome&type=ws&sni=edt-f5k.pages.dev#@Vip_Security join us - 1420
 vless://98371613-b71d-4185-9e8a-eb7ba73373b4@edt-f5k.pages.dev:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=edt-f5k.pages.dev&fp=chrome&type=ws&sni=edt-f5k.pages.dev#@Vip_Security join us - 1419
 vless://9835fbea-cfb1-402a-bdc6-16ca140c6788@147.45.179.201:443?security=reality&encryption=none&pbk=J0_Stw7IIr6naIGCtZ1ZB75HfD-KIITZMy84jQVufyU&headerType=none&fp=chrome&type=tcp&sni=mirror.yandex.ru&sid=3303c7a5#@Vip_Security join us - 1418
 vless://981d217a-17c5-4e9f-9147-8c9ad3c0707b@l23.magicnetwork.info:28995?security=none&encryption=none&headerType=none&type=tcp#@Vip_Security join us - 1417
@@ -702,3 +699,6 @@ vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443?security=reality&
 vless://4ea312d7-3844-4ff8-8062-ed2e03ddc2a1@151.101.66.133:80?path=%2Fws&security=none&encryption=none&host=scp-only.ws.com&type=ws#@Vip_Security join us - 725
 vless://4e57e34d-fc11-486e-9dbb-bcce9db1c39d@178.162.244.226:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Vip_Security join us - 724
 vless://4e21e86a-46f1-4272-bdb3-bac8bc6839ab@Loadbalance.systemgamingirani.ir:443?security=reality&encryption=none&pbk=v3_phZMVMpR1IKmwS3HEBQGE5Yh8rFyZJOplk71hWkg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=b7859e878ab2fb#@Vip_Security join us - 723
+vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?mode=stream-one&path=%2Ftas&security=tls&alpn=h2&encryption=none&host=mahsa.tas-bazi.com&fp=firefox&type=xhttp&sni=mahsa.tas-bazi.com#@Vip_Security join us - 722
+vless://4def9b45-592c-43e5-a62b-987beffa5d33@5.75.197.204:35487?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&sid=0b886008af8942c3&type=tcp&headerType=none#@Vip_Security join us - 721
+vless://4def9b45-592c-43e5-a62b-987beffa5d33@5.75.192.185:35487?encryption=none&security=reality&sni=tgju.org&fp=chrome&pbk=GGsieU5yiXWsMeO0StA4mTO2s8OLLvt0hUivZJkJG2k&sid=0b886008af8942c3&type=tcp&headerType=none#@Vip_Security join us - 720

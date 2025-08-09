@@ -2,9 +2,6 @@
 #profile-update-interval: 1
 #subscription-userinfo: upload=20; download=20; total=10737418240000000; expire=2546249531
 #profile-web-page-url: https://github.com/darknessm427
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.21.245.172:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2122
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@65.109.212.64:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2121
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638855440304549406.qazvin-drc-tusaba.info:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2120
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638854250044096905.prague-drc-dcrabd.info:8880?encryption=none&security=none&type=grpc&mode=gun#@Vip_Security join us - 2119
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638825998487466587.prague-drc-dcraae.info:8880?mode=gun&security=none&encryption=none&type=grpc#@Vip_Security join us - 2118
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638820786839338668.dublin-shledrc-acbn.info:8880?mode=gun&security=none&encryption=none&type=grpc&serviceName=#@Vip_Security join us - 2117
@@ -702,3 +699,6 @@ vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@gleeful-error.seotoolsforyou.co.uk:
 vless://99f2acd8-b0ab-4dbd-edc3-467ae27a95a7@m1.persiangames.online:3073?security=none&encryption=none&host=persiangames.online&headerType=http&type=tcp#@Vip_Security join us - 1425
 vless://9974e899-f131-40fe-ae82-4cdc39d8944b@109.61.80.236:443?security=reality&encryption=none&pbk=fNJIVjRaZgVD0UmjEqsCkU4cfaM0G4wEa7lSvLaX3W8&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=ddf07dc7#@Vip_Security join us - 1424
 vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#@Vip_Security join us - 1423
+vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@104.24.20.71:443?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2048&security=tls&encryption=none&host=de1-moryvpnbot.pages.dev&type=ws&sni=de1-moryvpnbot.pages.dev#@Vip_Security join us - 1422
+vless://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?path=%2FTelegram-------V2rayi_net_-_-_-_-Telegram-------V2rayi_net%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=internet4everieone7.pages.dev&fp=randomized&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#@Vip_Security join us - 1421
+vless://98371613-b71d-4185-9e8a-eb7ba73373b4@edt-f5k.pages.dev:443?path=%2F&security=tls&encryption=none&host=edt-f5k.pages.dev&fp=chrome&type=ws&sni=edt-f5k.pages.dev#@Vip_Security join us - 1420
